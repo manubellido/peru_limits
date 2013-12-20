@@ -6,9 +6,9 @@ Datos censales están publicados como hojas en MS Excel
 
 La base de datos se puede acceder usando el cgi ``Tabla.asp`` y los parámetros:
 
-* proyecto: ``proy``: 001--008
-* ubigeo: ``u`: aparentemente 0000 incluye a todos
-* cuadro: ``cuadro``: 001--039
+* proyecto: ``proy``: 001-008
+* ubigeo: ``u`: aparentemente 0000 incluye a todos; 0000-2500
+* cuadro: ``cuadro``: 001-039
 * exportar: ``xls``
 
 Este link funciona
