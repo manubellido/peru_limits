@@ -13,3 +13,7 @@ La base de datos se puede acceder usando el cgi ``Tabla.asp`` y los parámetros:
 
 Este link funciona
 <http://censos.inei.gob.pe/cpv2007/tabulados/Tabla.asp?proy=001&u=0000&cuadro=001&exportar=xls>
+
+### Comando para descargar los datos
+
+> curl -o 'proy00#1_u0000_cuadro0#2#3.xls' 'http://censos.inei.gob.pe/cpv2007/tabulados/Tabla.asp?proy=00[1-8]&u=0000&cuadro=0[0-3][0-9]&exportar=xls'
