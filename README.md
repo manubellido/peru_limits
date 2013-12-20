@@ -16,4 +16,4 @@ Este link funciona
 
 ### Comando para descargar los datos
 
-> ``curl -o 'proy#1_u#2_cuadro#3.xls' 'http://censos.inei.gob.pe/cpv2007/tabulados/Tabla.asp?proy=[001-008]&u=[000-2500]&cuadro=[001-039]&exportar=xls'``
+> ``curl -o 'proy#1_u#2#3_cuadro#4.xls' 'http://censos.inei.gob.pe/cpv2007/tabulados/Tabla.asp?proy=[001-008]&u=[00-25][00-20]&cuadro=[001-039]&exportar=xls'``
