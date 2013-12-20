@@ -15,5 +15,8 @@ Este link funciona
 <http://censos.inei.gob.pe/cpv2007/tabulados/Tabla.asp?proy=001&u=0000&cuadro=001&exportar=xls>
 
 ### Comando para descargar los datos
+El cgi Tabla.asp tiene límites para emitir datos. En muchos caos no es posible obtener la info
+para todo un departamento. Es necesario hacer la descarga por departamento y
+por provincia.
 
-> ``curl -o 'proy#1_u#2#3_cuadro#4.xls' 'http://censos.inei.gob.pe/cpv2007/tabulados/Tabla.asp?proy=[001-008]&u=[00-25][00-20]&cuadro=[001-039]&exportar=xls'``
+> ``curl -o 'proy#1_u#2#3_cuadro#4.xls' 'http://censos.inei.gob.pe/cpv2007/tabulados/Tabla.asp?proy=[001-008]&u=[01-25][01-20]&cuadro=[001-039]&exportar=xls'``
