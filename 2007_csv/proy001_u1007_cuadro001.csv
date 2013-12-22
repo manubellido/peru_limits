@@ -1,0 +1,25 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia MARAÑON (000)",7403,6926,6103,354,469,477,7,120,336,14
+"Casa independiente (001)",6477,6028,5333,286,409,449,7,119,310,13
+"Vivienda en casa de vecindad (004)",7,5,5,,,2,,1,1,
+"Choza o cabaña (005)",910,884,756,68,60,26,,,25,1
+"Vivienda improvisada (006)",1,1,1,,,,,,,
+"Local no dest.para hab. humana (007)",4,4,4,,,,,,,
+"Otro tipo (008)",4,4,4,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",951,903,847,26,30,48,,15,32,1
+"Casa independiente (010)",942,896,840,26,30,46,,14,31,1
+"Vivienda en casa de vecindad (013)",7,5,5,,,2,,1,1,
+"Vivienda improvisada (015)",1,1,1,,,,,,,
+"Local no dest.para hab. humana (016)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",6452,6023,5256,328,439,429,7,105,304,13
+"Casa independiente (019)",5535,5132,4493,260,379,403,7,105,279,12
+"Choza o cabaña (023)",910,884,756,68,60,26,,,25,1
+"Local no dest.para hab. humana (025)",3,3,3,,,,,,,
+"Otro tipo (026)",4,4,4,,,,,,,

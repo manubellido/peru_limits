@@ -1,0 +1,26 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia BOLOGNESI (000)",28835,540,9233,6718,5159,4356,2829
+"Casa independiente (001)",26121,472,8232,6125,4691,3983,2618
+"Departamento en edificio (002)",20,,,9,9,,2
+"Vivienda en quinta (003)",109,2,34,35,24,8,6
+"Vivienda en casa de vecindad (004)",202,7,83,39,39,24,10
+"Choza o cabaña (005)",2327,58,866,494,386,331,192
+"Local no destinado para hab.humana (007)",43,1,14,11,9,7,1
+"Otro tipo (008)",13,,4,5,1,3,
+,,,,,,,
+"URBANA (009)",18577,312,5804,4420,3467,2791,1783
+"Casa independiente (010)",18207,302,5673,4327,3388,2753,1764
+"Departamento en edificio (011)",20,,,9,9,,2
+"Vivienda en quinta (012)",109,2,34,35,24,8,6
+"Vivienda en casa de vecindad (013)",202,7,83,39,39,24,10
+"Local no destinado para hab.humana (016)",39,1,14,10,7,6,1
+,,,,,,,
+"RURAL (018)",10258,228,3429,2298,1692,1565,1046
+"Casa independiente (019)",7914,170,2559,1798,1303,1230,854
+"Choza o cabaña (023)",2327,58,866,494,386,331,192
+"Local no destinado para hab.humana (025)",4,,,1,2,1,
+"Otro tipo (026)",13,,4,5,1,3,

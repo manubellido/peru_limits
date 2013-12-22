@@ -1,0 +1,26 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia CHURCAMPA (000)",43771,919,17587,9642,6842,5864,2917
+"Casa independiente (001)",42340,880,17042,9307,6596,5680,2835
+"Departamento en edificio (002)",17,,7,1,2,5,2
+"Vivienda en quinta (003)",55,2,22,14,11,6,
+"Vivienda en casa de vecindad (004)",443,12,135,122,102,53,19
+"Choza o cabaña (005)",894,25,375,188,126,119,61
+"Local no destinado para hab.humana (007)",17,,4,7,5,1,
+"Otro tipo (008)",5,,2,3,,,
+,,,,,,,
+"URBANA (009)",9051,162,3154,2108,1659,1344,624
+"Casa independiente (010)",8527,148,2986,1969,1542,1279,603
+"Departamento en edificio (011)",17,,7,1,2,5,2
+"Vivienda en quinta (012)",55,2,22,14,11,6,
+"Vivienda en casa de vecindad (013)",443,12,135,122,102,53,19
+"Local no destinado para hab.humana (016)",9,,4,2,2,1,
+,,,,,,,
+"RURAL (018)",34720,757,14433,7534,5183,4520,2293
+"Casa independiente (019)",33813,732,14056,7338,5054,4401,2232
+"Choza o cabaña (023)",894,25,375,188,126,119,61
+"Local no destinado para hab.humana (025)",8,,,5,3,,
+"Otro tipo (026)",5,,2,3,,,

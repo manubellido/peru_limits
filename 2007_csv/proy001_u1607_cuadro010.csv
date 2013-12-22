@@ -1,0 +1,54 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia DATEM DEL MARAÑON",,,
+"Viviendas particulares (001)",355,307,48
+"Ocupantes presentes (002)",1593,1380,213
+"Casa independiente",,,
+"Viviendas particulares (004)",307,279,28
+"Ocupantes presentes (005)",1406,1278,128
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (010)",45,25,20
+"Ocupantes presentes (011)",172,87,85
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",3,3,
+"Ocupantes presentes (014)",15,15,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",280,233,47
+"Ocupantes presentes (029)",1279,1076,203
+"Casa independiente",,,
+"Viviendas particulares (031)",232,205,27
+"Ocupantes presentes (032)",1092,974,118
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (037)",45,25,20
+"Ocupantes presentes (038)",172,87,85
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",3,3,
+"Ocupantes presentes (041)",15,15,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",75,74,1
+"Ocupantes presentes (056)",314,304,10
+"Casa independiente",,,
+"Viviendas particulares (058)",75,74,1
+"Ocupantes presentes (059)",314,304,10
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

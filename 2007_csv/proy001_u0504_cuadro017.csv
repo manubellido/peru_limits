@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia HUANTA (000)",22713,9880,12833
+"Red pública dentro de la vivienda (001)",7120,5971,1149
+"Red pública fuera de la vivienda (002)",2554,1391,1163
+"Pilón de uso público (003)",953,143,810
+"Camión - cisterna u otro similar (004)",14,5,9
+"Pozo (005)",770,207,563
+"Río, acequia, manatial o similar (006)",9928,1733,8195
+"Vecino (007)",845,249,596
+"Otro (008)",529,181,348
+,,,
+"URBANA (010)",9802,7062,2740
+"Red pública dentro de la vivienda (011)",5731,5059,672
+"Red pública fuera de la vivienda (012)",1131,903,228
+"Pilón de uso público (013)",130,58,72
+"Camión - cisterna u otro similar (014)",4,3,1
+"Pozo (015)",311,130,181
+"Río, acequia, manatial o similar (016)",1889,697,1192
+"Vecino (017)",390,138,252
+"Otro (018)",216,74,142
+,,,
+"RURAL (020)",12911,2818,10093
+"Red pública dentro de la vivienda (021)",1389,912,477
+"Red pública fuera de la vivienda (022)",1423,488,935
+"Pilón de uso público (023)",823,85,738
+"Camión - cisterna u otro similar (024)",10,2,8
+"Pozo (025)",459,77,382
+"Río, acequia, manatial o similar (026)",8039,1036,7003
+"Vecino (027)",455,111,344
+"Otro (028)",313,107,206

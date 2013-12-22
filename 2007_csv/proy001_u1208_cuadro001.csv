@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia YAULI (000)",17421,16117,13427,2262,428,1304,116,191,891,106
+"Casa independiente (001)",12864,11857,9949,1581,327,1007,58,181,691,77
+"Departamento en edificio (002)",1987,1862,1485,369,8,125,20,,87,18
+"Vivienda en quinta (003)",893,793,666,118,9,100,31,3,61,5
+"Vivienda en casa de vecindad (004)",803,752,645,102,5,51,7,7,32,5
+"Choza o cabaña (005)",774,759,601,83,75,15,,,14,1
+"Vivienda improvisada (006)",31,25,12,9,4,6,,,6,
+"Local no dest.para hab. humana (007)",27,27,27,,,,,,,
+"Otro tipo (008)",42,42,42,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",14612,13544,11405,1946,193,1068,112,163,710,83
+"Casa independiente (010)",10856,10070,8555,1348,167,786,54,153,524,55
+"Departamento en edificio (011)",1987,1862,1485,369,8,125,20,,87,18
+"Vivienda en quinta (012)",893,793,666,118,9,100,31,3,61,5
+"Vivienda en casa de vecindad (013)",803,752,645,102,5,51,7,7,32,5
+"Vivienda improvisada (015)",31,25,12,9,4,6,,,6,
+"Local no dest.para hab. humana (016)",23,23,23,,,,,,,
+"Otro tipo (017)",19,19,19,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",2809,2573,2022,316,235,236,4,28,181,23
+"Casa independiente (019)",2008,1787,1394,233,160,221,4,28,167,22
+"Choza o cabaña (023)",774,759,601,83,75,15,,,14,1
+"Local no dest.para hab. humana (025)",4,4,4,,,,,,,
+"Otro tipo (026)",23,23,23,,,,,,,

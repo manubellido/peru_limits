@@ -1,0 +1,26 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia FERREÑAFE (000)",95816,2095,32024,24031,17620,14136,5910
+"Casa independiente (001)",93879,2037,31358,23480,17227,13928,5849
+"Departamento en edificio (002)",190,4,53,52,47,25,9
+"Vivienda en quinta (003)",152,1,40,44,36,24,7
+"Vivienda en casa de vecindad (004)",241,8,76,71,56,25,5
+"Choza o cabaña (005)",572,22,216,139,91,76,28
+"Vivienda improvisada (006)",770,23,281,243,158,55,10
+"Local no destinado para hab.humana (007)",12,,,2,5,3,2
+,,,,,,,
+"URBANA (009)",51338,970,15039,13183,10175,8358,3613
+"Casa independiente (010)",49979,934,14589,12773,9875,8228,3580
+"Departamento en edificio (011)",190,4,53,52,47,25,9
+"Vivienda en quinta (012)",152,1,40,44,36,24,7
+"Vivienda en casa de vecindad (013)",241,8,76,71,56,25,5
+"Vivienda improvisada (015)",770,23,281,243,158,55,10
+"Local no destinado para hab.humana (016)",6,,,,3,1,2
+,,,,,,,
+"RURAL (018)",44478,1125,16985,10848,7445,5778,2297
+"Casa independiente (019)",43900,1103,16769,10707,7352,5700,2269
+"Choza o cabaña (023)",572,22,216,139,91,76,28
+"Local no destinado para hab.humana (025)",6,,,2,2,2,

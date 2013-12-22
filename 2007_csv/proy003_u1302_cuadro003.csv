@@ -1,0 +1,28 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia ASCOPE (000)",115652,1995,29910,28764,23926,20785,10272
+"Casa independiente (001)",113931,1955,29352,28274,23588,20558,10204
+"Departamento en edificio (002)",115,,30,35,23,22,5
+"Vivienda en quinta (003)",212,5,60,58,47,35,7
+"Vivienda en casa de vecindad (004)",581,15,183,168,118,75,22
+"Choza o cabaña (005)",233,6,68,64,37,35,23
+"Vivienda improvisada (006)",528,12,200,156,101,52,7
+"Local no destinado para hab.humana (007)",51,2,17,9,11,8,4
+"Otro tipo (008)",1,,,,1,,
+,,,,,,,
+"URBANA (009)",101653,1764,26236,24976,21282,18277,9118
+"Casa independiente (010)",100171,1730,25749,24550,20983,18086,9073
+"Departamento en edificio (011)",115,,30,35,23,22,5
+"Vivienda en quinta (012)",212,5,60,58,47,35,7
+"Vivienda en casa de vecindad (013)",581,15,183,168,118,75,22
+"Vivienda improvisada (015)",528,12,200,156,101,52,7
+"Local no destinado para hab.humana (016)",46,2,14,9,10,7,4
+,,,,,,,
+"RURAL (018)",13999,231,3674,3788,2644,2508,1154
+"Casa independiente (019)",13760,225,3603,3724,2605,2472,1131
+"Choza o cabaña (023)",233,6,68,64,37,35,23
+"Local no destinado para hab.humana (025)",5,,3,,1,1,
+"Otro tipo (026)",1,,,,1,,

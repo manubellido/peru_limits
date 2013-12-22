@@ -1,0 +1,78 @@
+"CUADRO Nº 7: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR MATERIAL DE PREDOMINANTE EN LAS PAREDES EXTERIORES DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"MATERIAL PREDOMINANTE EN LAS PAREDES EXTERIORES DE LA VIVIENDA",,,,,,,
+,,"LADRILLO O BLOQUE DE CEMENTO","ADOBE O TAPIA","MADERA (PONA, TOR-NILLO, ETC.)","QUINCHA (CAÑA CON BARRO)",ESTERA,"PIEDRA CON BARRO","PIEDRA O SILLAR CON CAL O CEMENTO","OTRO MATERIAL"
+,,,,,,,,,
+"Provincia ICA",,,,,,,,,
+"Viviendas particulares (001)",74305,38077,21187,524,2751,9027,41,36,2662
+"Ocupantes presentes (002)",317159,168946,89274,1785,10841,36104,155,115,9939
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (004)",64426,35538,20694,290,2310,4529,40,35,990
+"Ocupantes presentes (005)",281423,160441,87646,1112,9299,18754,153,107,3911
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (007)",1490,1472,16,2,,,,,
+"Ocupantes presentes (008)",4968,4886,73,9,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (010)",1045,754,256,2,33,,,,
+"Ocupantes presentes (011)",3538,2588,826,6,118,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (013)",809,239,169,14,45,330,,1,11
+"Ocupantes presentes (014)",2576,827,573,41,155,946,,8,26
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (016)",1095,,15,86,361,459,1,,173
+"Ocupantes presentes (017)",3452,,51,119,1260,1475,2,,545
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (019)",4865,,,126,,3700,,,1039
+"Ocupantes presentes (020)",19551,,,488,,14899,,,4164
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (022)",134,74,37,4,2,9,,,8
+"Ocupantes presentes (023)",374,204,105,10,9,30,,,16
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (025)",441,,,,,,,,441
+"Ocupantes presentes (026)",1277,,,,,,,,1277
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Viviendas particulares (028)",67219,36970,18254,385,1553,7881,33,27,2116
+"Ocupantes presentes (029)",290530,164751,77704,1468,6216,31994,134,101,8162
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (031)",58458,34437,17777,237,1474,3845,33,26,629
+"Ocupantes presentes (032)",258311,156263,76130,914,5939,16131,134,93,2707
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (034)",1490,1472,16,2,,,,,
+"Ocupantes presentes (035)",4968,4886,73,9,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (037)",1045,754,256,2,33,,,,
+"Ocupantes presentes (038)",3538,2588,826,6,118,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (040)",809,239,169,14,45,330,,1,11
+"Ocupantes presentes (041)",2576,827,573,41,155,946,,8,26
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (046)",4865,,,126,,3700,,,1039
+"Ocupantes presentes (047)",19551,,,488,,14899,,,4164
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (049)",122,68,36,4,1,6,,,7
+"Ocupantes presentes (050)",336,187,102,10,4,18,,,15
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (052)",430,,,,,,,,430
+"Ocupantes presentes (053)",1250,,,,,,,,1250
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Viviendas particulares (055)",7086,1107,2933,139,1198,1146,8,9,546
+"Ocupantes presentes (056)",26629,4195,11570,317,4625,4110,21,14,1777
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (058)",5968,1101,2917,53,836,684,7,9,361
+"Ocupantes presentes (059)",23112,4178,11516,198,3360,2623,19,14,1204
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (070)",1095,,15,86,361,459,1,,173
+"Ocupantes presentes (071)",3452,,51,119,1260,1475,2,,545
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (076)",12,6,1,,1,3,,,1
+"Ocupantes presentes (077)",38,17,3,,5,12,,,1
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (079)",11,,,,,,,,11
+"Ocupantes presentes (080)",27,,,,,,,,27

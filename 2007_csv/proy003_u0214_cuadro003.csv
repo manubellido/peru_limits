@@ -1,0 +1,23 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia OCROS (000)",9130,153,2404,2024,1653,1746,1150
+"Casa independiente (001)",8804,144,2301,1958,1601,1672,1128
+"Departamento en edificio (002)",8,,3,,2,3,
+"Vivienda en casa de vecindad (004)",44,1,19,7,7,5,5
+"Choza o cabaña (005)",268,7,79,58,42,65,17
+"Local no destinado para hab.humana (007)",2,,,1,,1,
+"Otro tipo (008)",4,1,2,,1,,
+,,,,,,,
+"URBANA (009)",5236,81,1299,1120,960,1037,739
+"Casa independiente (010)",5184,80,1277,1113,951,1029,734
+"Departamento en edificio (011)",8,,3,,2,3,
+"Vivienda en casa de vecindad (013)",44,1,19,7,7,5,5
+,,,,,,,
+"RURAL (018)",3894,72,1105,904,693,709,411
+"Casa independiente (019)",3620,64,1024,845,650,643,394
+"Choza o cabaña (023)",268,7,79,58,42,65,17
+"Local no destinado para hab.humana (025)",2,,,1,,1,
+"Otro tipo (026)",4,1,2,,1,,

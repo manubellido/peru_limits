@@ -1,0 +1,23 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia ASUNCION (000)",8953,150,3055,1973,1544,1332,899
+"Casa independiente (001)",8618,142,2933,1910,1477,1291,865
+"Vivienda en casa de vecindad (004)",23,,10,5,8,,
+"Choza o cabaña (005)",297,7,105,57,54,41,33
+"Vivienda improvisada (006)",13,1,7,1,4,,
+"Local no destinado para hab.humana (007)",1,,,,,,1
+"Otro tipo (008)",1,,,,1,,
+,,,,,,,
+"URBANA (009)",2201,43,812,472,506,232,136
+"Casa independiente (010)",2164,42,795,466,493,232,136
+"Vivienda en casa de vecindad (013)",23,,10,5,8,,
+"Vivienda improvisada (015)",13,1,7,1,4,,
+"Otro tipo (017)",1,,,,1,,
+,,,,,,,
+"RURAL (018)",6752,107,2243,1501,1038,1100,763
+"Casa independiente (019)",6454,100,2138,1444,984,1059,729
+"Choza o cabaña (023)",297,7,105,57,54,41,33
+"Local no destinado para hab.humana (025)",1,,,,,,1

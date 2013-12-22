@@ -1,0 +1,76 @@
+"CUADRO Nº 7: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR MATERIAL DE PREDOMINANTE EN LAS PAREDES EXTERIORES DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"MATERIAL PREDOMINANTE EN LAS PAREDES EXTERIORES DE LA VIVIENDA",,,,,,,
+,,"LADRILLO O BLOQUE DE CEMENTO","ADOBE O TAPIA","MADERA (PONA, TOR-NILLO, ETC.)","QUINCHA (CAÑA CON BARRO)",ESTERA,"PIEDRA CON BARRO","PIEDRA O SILLAR CON CAL O CEMENTO","OTRO MATERIAL"
+,,,,,,,,,
+"Provincia HUARAZ",,,,,,,,,
+"Viviendas particulares (001)",34943,10869,23319,153,74,205,175,31,117
+"Ocupantes presentes (002)",144814,45784,96614,514,271,571,639,106,315
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (004)",32513,9723,22347,112,63,78,121,29,40
+"Ocupantes presentes (005)",136128,41650,92867,399,227,284,451,99,151
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (007)",744,703,39,2,,,,,
+"Ocupantes presentes (008)",2705,2571,127,7,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (010)",476,197,274,2,3,,,,
+"Ocupantes presentes (011)",1829,684,1131,5,9,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (013)",631,230,396,2,1,,,2,
+"Ocupantes presentes (014)",2373,844,1512,7,3,,,7,
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (016)",331,,250,1,7,7,54,,12
+"Ocupantes presentes (017)",1214,,942,3,32,28,188,,21
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (019)",212,,,32,,120,,,60
+"Ocupantes presentes (020)",481,,,90,,259,,,132
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (022)",31,16,13,2,,,,,
+"Ocupantes presentes (023)",73,35,35,3,,,,,
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (025)",5,,,,,,,,5
+"Ocupantes presentes (026)",11,,,,,,,,11
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Viviendas particulares (028)",25356,10720,14086,145,32,173,72,28,100
+"Ocupantes presentes (029)",106888,45204,59970,486,120,458,272,102,276
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (031)",23259,9574,13366,105,28,53,72,26,35
+"Ocupantes presentes (032)",99421,41070,57170,374,108,199,272,95,133
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (034)",744,703,39,2,,,,,
+"Ocupantes presentes (035)",2705,2571,127,7,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (037)",476,197,274,2,3,,,,
+"Ocupantes presentes (038)",1829,684,1131,5,9,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (040)",631,230,396,2,1,,,2,
+"Ocupantes presentes (041)",2373,844,1512,7,3,,,7,
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (046)",212,,,32,,120,,,60
+"Ocupantes presentes (047)",481,,,90,,259,,,132
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (049)",29,16,11,2,,,,,
+"Ocupantes presentes (050)",68,35,30,3,,,,,
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (052)",5,,,,,,,,5
+"Ocupantes presentes (053)",11,,,,,,,,11
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Viviendas particulares (055)",9587,149,9233,8,42,32,103,3,17
+"Ocupantes presentes (056)",37926,580,36644,28,151,113,367,4,39
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (058)",9254,149,8981,7,35,25,49,3,5
+"Ocupantes presentes (059)",36707,580,35697,25,119,85,179,4,18
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (070)",331,,250,1,7,7,54,,12
+"Ocupantes presentes (071)",1214,,942,3,32,28,188,,21
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (076)",2,,2,,,,,,
+"Ocupantes presentes (077)",5,,5,,,,,,
+"Otro tipo",,,,,,,,,

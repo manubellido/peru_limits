@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia ASUNCION (000)",2290,1423,867
+"Red pública dentro de la vivienda (001)",1178,990,188
+"Red pública fuera de la vivienda (002)",144,116,28
+"Pilón de uso público (003)",36,18,18
+"Pozo (005)",598,207,391
+"Río, acequia, manatial o similar (006)",254,60,194
+"Vecino (007)",57,20,37
+"Otro (008)",23,12,11
+,,,
+"URBANA (010)",503,473,30
+"Red pública dentro de la vivienda (011)",394,374,20
+"Red pública fuera de la vivienda (012)",56,55,1
+"Pilón de uso público (013)",3,3,
+"Pozo (015)",29,24,5
+"Río, acequia, manatial o similar (016)",3,2,1
+"Vecino (017)",7,5,2
+"Otro (018)",11,10,1
+,,,
+"RURAL (020)",1787,950,837
+"Red pública dentro de la vivienda (021)",784,616,168
+"Red pública fuera de la vivienda (022)",88,61,27
+"Pilón de uso público (023)",33,15,18
+"Pozo (025)",569,183,386
+"Río, acequia, manatial o similar (026)",251,58,193
+"Vecino (027)",50,15,35
+"Otro (028)",12,2,10

@@ -1,0 +1,27 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia DATEM DEL MARAÑON (000)",9251,9120,8723,352,45,131,9,29,81,12
+"Casa independiente (001)",8493,8383,8055,285,43,110,9,29,64,8
+"Vivienda en quinta (003)",67,67,67,,,,,,,
+"Vivienda en casa de vecindad (004)",21,21,21,,,,,,,
+"Choza o cabaña (005)",639,618,551,65,2,21,,,17,4
+"Vivienda improvisada (006)",17,17,15,2,,,,,,
+"Local no dest.para hab. humana (007)",7,7,7,,,,,,,
+"Otro tipo (008)",7,7,7,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",2735,2666,2565,86,15,69,8,21,38,2
+"Casa independiente (010)",2627,2558,2459,84,15,69,8,21,38,2
+"Vivienda en quinta (012)",67,67,67,,,,,,,
+"Vivienda en casa de vecindad (013)",21,21,21,,,,,,,
+"Vivienda improvisada (015)",17,17,15,2,,,,,,
+"Local no dest.para hab. humana (016)",3,3,3,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",6516,6454,6158,266,30,62,1,8,43,10
+"Casa independiente (019)",5866,5825,5596,201,28,41,1,8,26,6
+"Choza o cabaña (023)",639,618,551,65,2,21,,,17,4
+"Local no dest.para hab. humana (025)",4,4,4,,,,,,,
+"Otro tipo (026)",7,7,7,,,,,,,

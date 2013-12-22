@@ -1,0 +1,29 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia MARISCAL NIETO (000)",28380,25948,22953,2246,749,2432,63,188,1941,240
+"Casa independiente (001)",23865,22126,20022,1626,478,1739,61,187,1302,189
+"Departamento en edificio (002)",569,319,219,96,4,250,2,1,246,1
+"Vivienda en quinta (003)",69,66,63,3,,3,,,2,1
+"Vivienda en casa de vecindad (004)",71,67,66,1,,4,,,3,1
+"Choza o cabaña (005)",1359,1249,932,169,148,110,,,79,31
+"Vivienda improvisada (006)",2405,2079,1609,351,119,326,,,309,17
+"Local no dest.para hab. humana (007)",26,26,26,,,,,,,
+"Otro tipo (008)",16,16,16,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",23967,21855,19547,1950,358,2112,58,177,1732,145
+"Casa independiente (010)",20822,19293,17559,1499,235,1529,56,176,1172,125
+"Departamento en edificio (011)",569,319,219,96,4,250,2,1,246,1
+"Vivienda en quinta (012)",69,66,63,3,,3,,,2,1
+"Vivienda en casa de vecindad (013)",71,67,66,1,,4,,,3,1
+"Vivienda improvisada (015)",2405,2079,1609,351,119,326,,,309,17
+"Local no dest.para hab. humana (016)",26,26,26,,,,,,,
+"Otro tipo (017)",5,5,5,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",4413,4093,3406,296,391,320,5,11,209,95
+"Casa independiente (019)",3043,2833,2463,127,243,210,5,11,130,64
+"Choza o cabaña (023)",1359,1249,932,169,148,110,,,79,31
+"Otro tipo (026)",11,11,11,,,,,,,

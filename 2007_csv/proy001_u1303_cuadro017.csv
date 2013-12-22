@@ -1,0 +1,30 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia BOLIVAR (000)",3727,1686,2041
+"Red pública dentro de la vivienda (001)",57,39,18
+"Red pública fuera de la vivienda (002)",188,159,29
+"Camión - cisterna u otro similar (004)",2,,2
+"Pozo (005)",171,25,146
+"Río, acequia, manatial o similar (006)",3262,1442,1820
+"Vecino (007)",44,18,26
+"Otro (008)",3,3,
+,,,
+"URBANA (010)",1347,1132,215
+"Red pública dentro de la vivienda (011)",32,30,2
+"Red pública fuera de la vivienda (012)",157,138,19
+"Pozo (015)",7,2,5
+"Río, acequia, manatial o similar (016)",1131,948,183
+"Vecino (017)",18,12,6
+"Otro (018)",2,2,
+,,,
+"RURAL (020)",2380,554,1826
+"Red pública dentro de la vivienda (021)",25,9,16
+"Red pública fuera de la vivienda (022)",31,21,10
+"Camión - cisterna u otro similar (024)",2,,2
+"Pozo (025)",164,23,141
+"Río, acequia, manatial o similar (026)",2131,494,1637
+"Vecino (027)",26,6,20
+"Otro (028)",1,1,

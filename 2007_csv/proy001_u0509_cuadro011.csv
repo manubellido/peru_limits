@@ -1,0 +1,179 @@
+"CUADRO Nº 11: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR TIPO DE ABASTECIMIENTO DE AGUA POTABLE, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, DISPONIBILIDAD DE AGUA TODOS LOS DÍAS DE LA SEMANA, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,
+,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, DISPONIBILIDAD DE AGUA TODOS LOS DÍAS DE LA SEMANA, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"TIPO DE ABASTECIMIENTO DE AGUA POTABLE",,
+,,"RED PÚBLICA DENTRO DE LA VIVIENDA (AGUA POTABLE)","RED PÚBLICA FUERA DE LA VIVIENDA PERO DENTRO DE LA EDIFICACIÓN (AGUA POTABLE)","PILÓN DE USO PÚBLICO (AGUA POTABLE)"
+,,,,
+"Provincia SUCRE",,,,
+"Viviendas particulares (001)",2304,1708,448,148
+"Ocupantes presentes (002)",7995,5960,1527,508
+"Casa independiente",,,,
+"Viviendas particulares (004)",2281,1703,436,142
+"Ocupantes presentes (005)",7930,5945,1501,484
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (010)",8,1,7,
+"Ocupantes presentes (011)",20,4,16,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (013)",9,4,5,
+"Ocupantes presentes (014)",21,11,10,
+"Choza o cabaña",,,,
+"Viviendas particulares (016)",6,,,6
+"Ocupantes presentes (017)",24,,,24
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+Si,,,,
+"Viviendas particulares (028)",1729,1267,361,101
+"Ocupantes presentes (029)",6011,4421,1224,366
+"Casa independiente",,,,
+"Viviendas particulares (031)",1711,1263,353,95
+"Ocupantes presentes (032)",5956,4407,1207,342
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (037)",8,1,7,
+"Ocupantes presentes (038)",20,4,16,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (040)",4,3,1,
+"Ocupantes presentes (041)",11,10,1,
+"Choza o cabaña",,,,
+"Viviendas particulares (043)",6,,,6
+"Ocupantes presentes (044)",24,,,24
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+No,,,,
+"Viviendas particulares (055)",575,441,87,47
+"Ocupantes presentes (056)",1984,1539,303,142
+"Casa independiente",,,,
+"Viviendas particulares (058)",570,440,83,47
+"Ocupantes presentes (059)",1974,1538,294,142
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (067)",5,1,4,
+"Ocupantes presentes (068)",10,1,9,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+"No especificado",,,,
+"Casa independiente",,,,
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+,,,,
+URBANA,,,,
+"Viviendas particulares (109)",1565,1236,292,37
+"Ocupantes presentes (110)",5517,4381,986,150
+"Casa independiente",,,,
+"Viviendas particulares (112)",1548,1231,280,37
+"Ocupantes presentes (113)",5476,4366,960,150
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (118)",8,1,7,
+"Ocupantes presentes (119)",20,4,16,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (121)",9,4,5,
+"Ocupantes presentes (122)",21,11,10,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+Si,,,,
+"Viviendas particulares (136)",1114,885,212,17
+"Ocupantes presentes (137)",3898,3123,703,72
+"Casa independiente",,,,
+"Viviendas particulares (139)",1102,881,204,17
+"Ocupantes presentes (140)",3867,3109,686,72
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (145)",8,1,7,
+"Ocupantes presentes (146)",20,4,16,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (148)",4,3,1,
+"Ocupantes presentes (149)",11,10,1,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+No,,,,
+"Viviendas particulares (163)",451,351,80,20
+"Ocupantes presentes (164)",1619,1258,283,78
+"Casa independiente",,,,
+"Viviendas particulares (166)",446,350,76,20
+"Ocupantes presentes (167)",1609,1257,274,78
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (175)",5,1,4,
+"Ocupantes presentes (176)",10,1,9,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+"No especificado",,,,
+"Casa independiente",,,,
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+,,,,
+RURAL,,,,
+"Viviendas particulares (217)",739,472,156,111
+"Ocupantes presentes (218)",2478,1579,541,358
+"Casa independiente",,,,
+"Viviendas particulares (220)",733,472,156,105
+"Ocupantes presentes (221)",2454,1579,541,334
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Viviendas particulares (232)",6,,,6
+"Ocupantes presentes (233)",24,,,24
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+Si,,,,
+"Viviendas particulares (244)",615,382,149,84
+"Ocupantes presentes (245)",2113,1298,521,294
+"Casa independiente",,,,
+"Viviendas particulares (247)",609,382,149,78
+"Ocupantes presentes (248)",2089,1298,521,270
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Viviendas particulares (259)",6,,,6
+"Ocupantes presentes (260)",24,,,24
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+No,,,,
+"Viviendas particulares (271)",124,90,7,27
+"Ocupantes presentes (272)",365,281,20,64
+"Casa independiente",,,,
+"Viviendas particulares (274)",124,90,7,27
+"Ocupantes presentes (275)",365,281,20,64
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+"No especificado",,,,
+"Casa independiente",,,,
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,

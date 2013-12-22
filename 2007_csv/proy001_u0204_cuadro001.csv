@@ -1,0 +1,24 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia ASUNCION (000)",3269,2685,2290,113,282,584,3,41,532,8
+"Casa independiente (001)",3147,2592,2203,111,278,555,3,41,503,8
+"Vivienda en casa de vecindad (004)",8,7,6,,1,1,,,1,
+"Choza o cabaña (005)",108,80,77,,3,28,,,28,
+"Vivienda improvisada (006)",4,4,2,2,,,,,,
+"Local no dest.para hab. humana (007)",1,1,1,,,,,,,
+"Otro tipo (008)",1,1,1,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",570,536,503,15,18,34,2,8,24,
+"Casa independiente (010)",557,524,494,13,17,33,2,8,23,
+"Vivienda en casa de vecindad (013)",8,7,6,,1,1,,,1,
+"Vivienda improvisada (015)",4,4,2,2,,,,,,
+"Otro tipo (017)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",2699,2149,1787,98,264,550,1,33,508,8
+"Casa independiente (019)",2590,2068,1709,98,261,522,1,33,480,8
+"Choza o cabaña (023)",108,80,77,,3,28,,,28,
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,

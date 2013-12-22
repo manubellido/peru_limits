@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia LAMBAYEQUE (000)",62998,58235,54766,2248,1221,4763,131,1128,3345,159
+"Casa independiente (001)",59093,54814,51815,1904,1095,4279,125,1125,2889,140
+"Departamento en edificio (002)",297,287,272,14,1,10,1,1,7,1
+"Vivienda en quinta (003)",311,305,280,22,3,6,3,,3,
+"Vivienda en casa de vecindad (004)",169,141,132,6,3,28,2,2,20,4
+"Choza o cabaña (005)",2113,1952,1672,173,107,161,,,154,7
+"Vivienda improvisada (006)",957,678,537,129,12,279,,,272,7
+"Local no dest.para hab. humana (007)",50,50,50,,,,,,,
+"Otro tipo (008)",8,8,8,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",31570,29263,27896,1100,267,2307,112,472,1628,95
+"Casa independiente (010)",29795,27811,26634,929,248,1984,106,469,1326,83
+"Departamento en edificio (011)",297,287,272,14,1,10,1,1,7,1
+"Vivienda en quinta (012)",311,305,280,22,3,6,3,,3,
+"Vivienda en casa de vecindad (013)",169,141,132,6,3,28,2,2,20,4
+"Vivienda improvisada (015)",957,678,537,129,12,279,,,272,7
+"Local no dest.para hab. humana (016)",36,36,36,,,,,,,
+"Otro tipo (017)",5,5,5,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",31428,28972,26870,1148,954,2456,19,656,1717,64
+"Casa independiente (019)",29298,27003,25181,975,847,2295,19,656,1563,57
+"Choza o cabaña (023)",2113,1952,1672,173,107,161,,,154,7
+"Local no dest.para hab. humana (025)",14,14,14,,,,,,,
+"Otro tipo (026)",3,3,3,,,,,,,

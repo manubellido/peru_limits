@@ -1,0 +1,78 @@
+"CUADRO Nº 15: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE SERVICIO HIGIÉNICO EN LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"SERVICIO HIGIÉNICO CONECTADO A:",,,,,
+,,"RED PÚBLICA DE DESAGÜE (DENTRO DE LA VIVIENDA)","RED PÚBLICA DE DESAGÜE (FUERA DE LA VIVIENDA PERO DENTRO DE LA EDIFICACIÓN)","POZO SÉPTICO","POZO CIEGO O NEGRO / LETRINA","RÍO, ACEQUIA O CANAL","NO TIENE"
+,,,,,,,
+"Provincia LIMA",,,,,,,
+"Viviendas particulares (001)",1718091,1299566,132091,87661,138636,8802,51335
+"Ocupantes presentes (002)",7531233,5878834,497531,368848,567968,40495,177557
+"Casa independiente",,,,,,,
+"Viviendas particulares (004)",1339965,1022838,67788,80135,122587,8475,38142
+"Ocupantes presentes (005)",6224018,4907520,289375,341348,510888,39227,135660
+"Departamento en edificio",,,,,,,
+"Viviendas particulares (007)",254999,212323,42676,,,,
+"Ocupantes presentes (008)",865168,730218,134950,,,,
+"Vivienda en quinta",,,,,,,
+"Viviendas particulares (010)",56726,44265,11348,,,,1113
+"Ocupantes presentes (011)",205882,164152,38186,,,,3544
+"Vivienda en casa de vecindad",,,,,,,
+"Viviendas particulares (013)",23261,13404,8586,,,,1271
+"Ocupantes presentes (014)",85595,52273,28701,,,,4621
+"Choza o cabaña",,,,,,,
+"Viviendas particulares (016)",177,,,63,61,15,38
+"Ocupantes presentes (017)",500,,,154,163,55,128
+"Vivienda improvisada",,,,,,,
+"Viviendas particulares (019)",32998,3616,1338,6531,15399,250,5864
+"Ocupantes presentes (020)",118837,15258,5175,24391,54981,961,18071
+"Local no dest.para hab. humana",,,,,,,
+"Viviendas particulares (022)",4286,3120,355,223,321,45,222
+"Ocupantes presentes (023)",13080,9413,1144,724,1079,196,524
+"Otro tipo",,,,,,,
+"Viviendas particulares (025)",5679,,,709,268,17,4685
+"Ocupantes presentes (026)",18153,,,2231,857,56,15009
+,,,,,,,
+URBANA,,,,,,,
+"Viviendas particulares (028)",1715402,1299527,132067,87022,137157,8675,50954
+"Ocupantes presentes (029)",7521549,5878678,497451,366658,562571,39967,176224
+"Casa independiente",,,,,,,
+"Viviendas particulares (031)",1337470,1022799,67764,79562,121180,8364,37801
+"Ocupantes presentes (032)",6214886,4907364,289295,339315,505684,38771,134457
+"Departamento en edificio",,,,,,,
+"Viviendas particulares (034)",254999,212323,42676,,,,
+"Ocupantes presentes (035)",865168,730218,134950,,,,
+"Vivienda en quinta",,,,,,,
+"Viviendas particulares (037)",56726,44265,11348,,,,1113
+"Ocupantes presentes (038)",205882,164152,38186,,,,3544
+"Vivienda en casa de vecindad",,,,,,,
+"Viviendas particulares (040)",23261,13404,8586,,,,1271
+"Ocupantes presentes (041)",85595,52273,28701,,,,4621
+"Choza o cabaña",,,,,,,
+"Vivienda improvisada",,,,,,,
+"Viviendas particulares (046)",32998,3616,1338,6531,15399,250,5864
+"Ocupantes presentes (047)",118837,15258,5175,24391,54981,961,18071
+"Local no dest.para hab. humana",,,,,,,
+"Viviendas particulares (049)",4271,3120,355,220,311,44,221
+"Ocupantes presentes (050)",13030,9413,1144,721,1050,179,523
+"Otro tipo",,,,,,,
+"Viviendas particulares (052)",5677,,,709,267,17,4684
+"Ocupantes presentes (053)",18151,,,2231,856,56,15008
+,,,,,,,
+RURAL,,,,,,,
+"Viviendas particulares (055)",2689,39,24,639,1479,127,381
+"Ocupantes presentes (056)",9684,156,80,2190,5397,528,1333
+"Casa independiente",,,,,,,
+"Viviendas particulares (058)",2495,39,24,573,1407,111,341
+"Ocupantes presentes (059)",9132,156,80,2033,5204,456,1203
+"Departamento en edificio",,,,,,,
+"Vivienda en quinta",,,,,,,
+"Vivienda en casa de vecindad",,,,,,,
+"Choza o cabaña",,,,,,,
+"Viviendas particulares (070)",177,,,63,61,15,38
+"Ocupantes presentes (071)",500,,,154,163,55,128
+"Vivienda improvisada",,,,,,,
+"Local no dest.para hab. humana",,,,,,,
+"Viviendas particulares (076)",15,,,3,10,1,1
+"Ocupantes presentes (077)",50,,,3,29,17,1
+"Otro tipo",,,,,,,
+"Viviendas particulares (079)",2,,,,1,,1
+"Ocupantes presentes (080)",2,,,,1,,1

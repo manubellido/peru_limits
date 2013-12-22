@@ -1,0 +1,29 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia JORGE BASADRE (000)",9239,130,1994,2341,2453,1850,471
+"Casa independiente (001)",6129,91,1396,1665,1578,1050,349
+"Departamento en edificio (002)",1662,20,339,278,507,469,49
+"Vivienda en quinta (003)",51,1,7,19,13,9,2
+"Vivienda en casa de vecindad (004)",301,6,20,115,92,61,7
+"Choza o cabaña (005)",973,8,216,219,229,239,62
+"Vivienda improvisada (006)",74,4,13,25,19,13,
+"Local no destinado para hab.humana (007)",45,,3,20,13,7,2
+"Otro tipo (008)",4,,,,2,2,
+,,,,,,,
+"URBANA (009)",5631,88,1182,1434,1583,1161,183
+"Casa independiente (010)",3518,57,801,988,943,604,125
+"Departamento en edificio (011)",1662,20,339,278,507,469,49
+"Vivienda en quinta (012)",51,1,7,19,13,9,2
+"Vivienda en casa de vecindad (013)",301,6,20,115,92,61,7
+"Vivienda improvisada (015)",74,4,13,25,19,13,
+"Local no destinado para hab.humana (016)",23,,2,9,7,5,
+"Otro tipo (017)",2,,,,2,,
+,,,,,,,
+"RURAL (018)",3608,42,812,907,870,689,288
+"Casa independiente (019)",2611,34,595,677,635,446,224
+"Choza o cabaña (023)",973,8,216,219,229,239,62
+"Local no destinado para hab.humana (025)",22,,1,11,6,2,2
+"Otro tipo (026)",2,,,,,2,

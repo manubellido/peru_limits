@@ -1,0 +1,58 @@
+"CUADRO Nº 20: TOTAL DE VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR RÉGIMEN DE TENENCIA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"RÉGIMEN DE TENENCIA",,,,,
+,,ALQUILADA,"PROPIA POR INVASIÓN","PROPIA PAGÁNDOLA A PLAZOS","PROPIA TOTALMENTE PAGADA","CEDIDA POR EL CENTRO DE TRABAJO/OTRO HOGAR /INSTITUCIÓN","OTRA FORMA"
+,,,,,,,
+"Provincia CARLOS FERMIN FITZCARRALD",,,,,,,
+"Viviendas particulares (001)",5304,379,8,36,4559,237,85
+"Ocupantes presentes (002)",21302,1111,31,140,18684,1040,296
+"Casa independiente",,,,,,,
+"Viviendas particulares (004)",5118,279,8,33,4485,236,77
+"Ocupantes presentes (005)",20738,865,31,131,18404,1036,271
+"Departamento en edificio",,,,,,,
+"Vivienda en quinta",,,,,,,
+"Viviendas particulares (010)",15,10,,,2,,3
+"Ocupantes presentes (011)",34,22,,,4,,8
+"Vivienda en casa de vecindad",,,,,,,
+"Viviendas particulares (013)",110,90,,1,14,,5
+"Ocupantes presentes (014)",295,224,,6,48,,17
+"Choza o cabaña",,,,,,,
+"Viviendas particulares (016)",61,,,2,58,1,
+"Ocupantes presentes (017)",235,,,3,228,4,
+"Vivienda improvisada",,,,,,,
+"Local no dest.para hab. humana",,,,,,,
+"Otro tipo",,,,,,,
+,,,,,,,
+URBANA,,,,,,,
+"Viviendas particulares (028)",931,230,8,9,658,1,25
+"Ocupantes presentes (029)",3383,609,31,37,2613,3,90
+"Casa independiente",,,,,,,
+"Viviendas particulares (031)",806,130,8,8,642,1,17
+"Ocupantes presentes (032)",3054,363,31,31,2561,3,65
+"Departamento en edificio",,,,,,,
+"Vivienda en quinta",,,,,,,
+"Viviendas particulares (037)",15,10,,,2,,3
+"Ocupantes presentes (038)",34,22,,,4,,8
+"Vivienda en casa de vecindad",,,,,,,
+"Viviendas particulares (040)",110,90,,1,14,,5
+"Ocupantes presentes (041)",295,224,,6,48,,17
+"Choza o cabaña",,,,,,,
+"Vivienda improvisada",,,,,,,
+"Local no dest.para hab. humana",,,,,,,
+"Otro tipo",,,,,,,
+,,,,,,,
+RURAL,,,,,,,
+"Viviendas particulares (055)",4373,149,,27,3901,236,60
+"Ocupantes presentes (056)",17919,502,,103,16071,1037,206
+"Casa independiente",,,,,,,
+"Viviendas particulares (058)",4312,149,,25,3843,235,60
+"Ocupantes presentes (059)",17684,502,,100,15843,1033,206
+"Departamento en edificio",,,,,,,
+"Vivienda en quinta",,,,,,,
+"Vivienda en casa de vecindad",,,,,,,
+"Choza o cabaña",,,,,,,
+"Viviendas particulares (070)",61,,,2,58,1,
+"Ocupantes presentes (071)",235,,,3,228,4,
+"Vivienda improvisada",,,,,,,
+"Local no dest.para hab. humana",,,,,,,
+"Otro tipo",,,,,,,

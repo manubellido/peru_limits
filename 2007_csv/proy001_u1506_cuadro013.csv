@@ -1,0 +1,68 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia HUARAL",,,,,
+"Viviendas particulares (001)",3093,522,646,1008,917
+"Ocupantes presentes (002)",12570,1965,2568,4183,3854
+"Casa independiente",,,,,
+"Viviendas particulares (004)",2822,478,597,934,813
+"Ocupantes presentes (005)",11529,1815,2366,3889,3459
+"Departamento en edificio",,,,,
+"Viviendas particulares (007)",51,10,10,7,24
+"Ocupantes presentes (008)",193,35,32,36,90
+"Vivienda en quinta",,,,,
+"Viviendas particulares (010)",50,11,,15,24
+"Ocupantes presentes (011)",178,35,,52,91
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (013)",90,12,4,31,43
+"Ocupantes presentes (014)",343,41,24,117,161
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Viviendas particulares (019)",76,10,35,20,11
+"Ocupantes presentes (020)",319,38,146,87,48
+"Local no dest.para hab. humana",,,,,
+"Viviendas particulares (022)",4,1,,1,2
+"Ocupantes presentes (023)",8,1,,2,5
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",2971,476,642,1001,852
+"Ocupantes presentes (029)",12086,1761,2549,4150,3626
+"Casa independiente",,,,,
+"Viviendas particulares (031)",2701,432,593,927,749
+"Ocupantes presentes (032)",11048,1611,2347,3856,3234
+"Departamento en edificio",,,,,
+"Viviendas particulares (034)",51,10,10,7,24
+"Ocupantes presentes (035)",193,35,32,36,90
+"Vivienda en quinta",,,,,
+"Viviendas particulares (037)",50,11,,15,24
+"Ocupantes presentes (038)",178,35,,52,91
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (040)",90,12,4,31,43
+"Ocupantes presentes (041)",343,41,24,117,161
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Viviendas particulares (046)",76,10,35,20,11
+"Ocupantes presentes (047)",319,38,146,87,48
+"Local no dest.para hab. humana",,,,,
+"Viviendas particulares (049)",3,1,,1,1
+"Ocupantes presentes (050)",5,1,,2,2
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",122,46,4,7,65
+"Ocupantes presentes (056)",484,204,19,33,228
+"Casa independiente",,,,,
+"Viviendas particulares (058)",121,46,4,7,64
+"Ocupantes presentes (059)",481,204,19,33,225
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Viviendas particulares (076)",1,,,,1
+"Ocupantes presentes (077)",3,,,,3
+"Otro tipo",,,,,

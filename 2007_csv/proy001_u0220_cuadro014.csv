@@ -1,0 +1,50 @@
+"CUADRO Nº 14: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE HORAS AL DÍA QUE DISPONEN DEL SERVICIO EN LOS DÍAS QUE CUENTAN CON ESTE SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE HORAS AL DÍA QUE DISPONE DE AGUA",,,,,,,
+,,1-3,4-6,7-9,10-12,13-15,16-18,19-21,22-24
+,,,,,,,,,
+"Provincia YUNGAY",,,,,,,,,
+"Viviendas particulares (001)",491,191,64,27,78,14,22,11,84
+"Ocupantes presentes (002)",2269,825,328,128,385,64,87,49,403
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (004)",488,188,64,27,78,14,22,11,84
+"Ocupantes presentes (005)",2259,815,328,128,385,64,87,49,403
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (016)",3,3,,,,,,,
+"Ocupantes presentes (017)",10,10,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Otro tipo",,,,,,,,,
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Viviendas particulares (028)",143,43,15,12,34,9,9,8,13
+"Ocupantes presentes (029)",648,175,85,51,155,48,41,35,58
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (031)",143,43,15,12,34,9,9,8,13
+"Ocupantes presentes (032)",648,175,85,51,155,48,41,35,58
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Otro tipo",,,,,,,,,
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Viviendas particulares (055)",348,148,49,15,44,5,13,3,71
+"Ocupantes presentes (056)",1621,650,243,77,230,16,46,14,345
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (058)",345,145,49,15,44,5,13,3,71
+"Ocupantes presentes (059)",1611,640,243,77,230,16,46,14,345
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (070)",3,3,,,,,,,
+"Ocupantes presentes (071)",10,10,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Otro tipo",,,,,,,,,

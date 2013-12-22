@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CANTA (000)",4013,2353,1660
+"Red pública dentro de la vivienda (001)",2222,1662,560
+"Red pública fuera de la vivienda (002)",474,345,129
+"Pilón de uso público (003)",269,143,126
+"Camión - cisterna u otro similar (004)",136,15,121
+"Pozo (005)",140,,140
+"Río, acequia, manatial o similar (006)",479,88,391
+"Vecino (007)",211,61,150
+"Otro (008)",82,39,43
+,,,
+"URBANA (010)",1959,1744,215
+"Red pública dentro de la vivienda (011)",1428,1327,101
+"Red pública fuera de la vivienda (012)",290,255,35
+"Pilón de uso público (013)",71,59,12
+"Pozo (015)",8,,8
+"Río, acequia, manatial o similar (016)",34,27,7
+"Vecino (017)",78,42,36
+"Otro (018)",50,34,16
+,,,
+"RURAL (020)",2054,609,1445
+"Red pública dentro de la vivienda (021)",794,335,459
+"Red pública fuera de la vivienda (022)",184,90,94
+"Pilón de uso público (023)",198,84,114
+"Camión - cisterna u otro similar (024)",136,15,121
+"Pozo (025)",132,,132
+"Río, acequia, manatial o similar (026)",445,61,384
+"Vecino (027)",133,19,114
+"Otro (028)",32,5,27

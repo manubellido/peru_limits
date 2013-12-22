@@ -1,0 +1,78 @@
+"CUADRO Nº 4: TOTAL DE HOGARES EN VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR TIPO DE ENERGÍA O COMBUSTIBLE QUE MÁS UTILIZAN EN EL HOGAR PARA COCINAR SUS ALIMENTOS, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO Y PROVINCIA, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"ENERGÍA O COMBUSTIBLE QUE MÁS UTILIZA PARA COCINAR",,,,,,,"NO COCINAN"
+,,ELECTRICIDAD,GAS,KEROSENE,CARBÓN,LEÑA,"BOSTA, ESTIÉRCOL",OTRO,
+,,,,,,,,,
+"Provincia URUBAMBA",,,,,,,,,
+"Hogares (001)",13623,52,3212,103,74,9426,313,9,434
+"Ocupantes presentes (002)",53426,134,11807,308,318,38841,1212,21,785
+"Casa independiente",,,,,,,,,
+"Hogares (004)",13092,38,2914,95,73,9373,309,9,281
+"Ocupantes presentes (005)",51901,92,10834,282,313,38635,1205,21,519
+"Departamento en edificio",,,,,,,,,
+"Hogares (007)",90,,69,1,,,,,20
+"Ocupantes presentes (008)",251,,202,4,,,,,45
+"Vivienda en quinta",,,,,,,,,
+"Hogares (010)",68,5,45,1,,,,,17
+"Ocupantes presentes (011)",236,25,164,4,,,,,43
+"Vivienda en casa de vecindad",,,,,,,,,
+"Hogares (013)",327,6,169,4,1,33,1,,113
+"Ocupantes presentes (014)",910,12,555,14,5,148,1,,175
+"Choza o cabaña",,,,,,,,,
+"Hogares (016)",14,,1,,,12,1,,
+"Ocupantes presentes (017)",43,,3,,,39,1,,
+"Vivienda improvisada",,,,,,,,,
+"Hogares (019)",8,1,5,,,2,,,
+"Ocupantes presentes (020)",23,1,17,,,5,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Hogares (022)",8,1,2,,,4,,,1
+"Ocupantes presentes (023)",20,3,8,,,8,,,1
+"Otro tipo",,,,,,,,,
+"Hogares (025)",16,1,7,2,,2,2,,2
+"Ocupantes presentes (026)",42,1,24,4,,6,5,,2
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Hogares (028)",6517,46,2906,95,49,3010,6,8,397
+"Ocupantes presentes (029)",24553,111,10760,285,209,12413,25,20,730
+"Casa independiente",,,,,,,,,
+"Hogares (031)",6006,32,2610,87,48,2972,5,8,244
+"Ocupantes presentes (032)",23084,69,9791,259,204,12253,24,20,464
+"Departamento en edificio",,,,,,,,,
+"Hogares (034)",90,,69,1,,,,,20
+"Ocupantes presentes (035)",251,,202,4,,,,,45
+"Vivienda en quinta",,,,,,,,,
+"Hogares (037)",68,5,45,1,,,,,17
+"Ocupantes presentes (038)",236,25,164,4,,,,,43
+"Vivienda en casa de vecindad",,,,,,,,,
+"Hogares (040)",327,6,169,4,1,33,1,,113
+"Ocupantes presentes (041)",910,12,555,14,5,148,1,,175
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Hogares (046)",8,1,5,,,2,,,
+"Ocupantes presentes (047)",23,1,17,,,5,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Hogares (049)",7,1,2,,,3,,,1
+"Ocupantes presentes (050)",19,3,8,,,7,,,1
+"Otro tipo",,,,,,,,,
+"Hogares (052)",11,1,6,2,,,,,2
+"Ocupantes presentes (053)",30,1,23,4,,,,,2
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Hogares (055)",7106,6,306,8,25,6416,307,1,37
+"Ocupantes presentes (056)",28873,23,1047,23,109,26428,1187,1,55
+"Casa independiente",,,,,,,,,
+"Hogares (058)",7086,6,304,8,25,6401,304,1,37
+"Ocupantes presentes (059)",28817,23,1043,23,109,26382,1181,1,55
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Hogares (070)",14,,1,,,12,1,,
+"Ocupantes presentes (071)",43,,3,,,39,1,,
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Hogares (076)",1,,,,,1,,,
+"Ocupantes presentes (077)",1,,,,,1,,,
+"Otro tipo",,,,,,,,,
+"Hogares (079)",5,,1,,,2,2,,
+"Ocupantes presentes (080)",12,,1,,,6,5,,

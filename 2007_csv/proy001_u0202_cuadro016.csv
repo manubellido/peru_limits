@@ -1,0 +1,58 @@
+"CUADRO Nº 16: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia AIJA",,,
+"Viviendas particulares (001)",2110,1438,672
+"Ocupantes presentes (002)",7955,5453,2502
+"Casa independiente",,,
+"Viviendas particulares (004)",1920,1391,529
+"Ocupantes presentes (005)",7208,5261,1947
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",14,12,2
+"Ocupantes presentes (014)",76,67,9
+"Choza o cabaña",,,
+"Viviendas particulares (016)",174,33,141
+"Ocupantes presentes (017)",669,123,546
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (022)",2,2,
+"Ocupantes presentes (023)",2,2,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",723,608,115
+"Ocupantes presentes (029)",2488,2110,378
+"Casa independiente",,,
+"Viviendas particulares (031)",707,594,113
+"Ocupantes presentes (032)",2410,2041,369
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",14,12,2
+"Ocupantes presentes (041)",76,67,9
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (049)",2,2,
+"Ocupantes presentes (050)",2,2,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",1387,830,557
+"Ocupantes presentes (056)",5467,3343,2124
+"Casa independiente",,,
+"Viviendas particulares (058)",1213,797,416
+"Ocupantes presentes (059)",4798,3220,1578
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Viviendas particulares (070)",174,33,141
+"Ocupantes presentes (071)",669,123,546
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia ANDAHUAYLAS (000)",35330,21873,13457
+"Red pública dentro de la vivienda (001)",14893,11522,3371
+"Red pública fuera de la vivienda (002)",10531,6473,4058
+"Pilón de uso público (003)",751,391,360
+"Camión - cisterna u otro similar (004)",22,16,6
+"Pozo (005)",662,190,472
+"Río, acequia, manatial o similar (006)",5987,2465,3522
+"Vecino (007)",2229,688,1541
+"Otro (008)",255,128,127
+,,,
+"URBANA (010)",15527,12799,2728
+"Red pública dentro de la vivienda (011)",9355,8396,959
+"Red pública fuera de la vivienda (012)",3320,2633,687
+"Pilón de uso público (013)",174,118,56
+"Camión - cisterna u otro similar (014)",4,4,
+"Pozo (015)",220,130,90
+"Río, acequia, manatial o similar (016)",1546,1165,381
+"Vecino (017)",773,289,484
+"Otro (018)",135,64,71
+,,,
+"RURAL (020)",19803,9074,10729
+"Red pública dentro de la vivienda (021)",5538,3126,2412
+"Red pública fuera de la vivienda (022)",7211,3840,3371
+"Pilón de uso público (023)",577,273,304
+"Camión - cisterna u otro similar (024)",18,12,6
+"Pozo (025)",442,60,382
+"Río, acequia, manatial o similar (026)",4441,1300,3141
+"Vecino (027)",1456,399,1057
+"Otro (028)",120,64,56

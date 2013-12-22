@@ -1,0 +1,27 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia SANCHEZ CARRION (000)",36260,34409,29513,2092,2804,1851,41,457,1304,49
+"Casa independiente (001)",34752,32968,28491,1947,2530,1784,41,454,1241,48
+"Departamento en edificio (002)",12,12,11,1,,,,,,
+"Vivienda en quinta (003)",48,47,45,2,,1,,1,,
+"Vivienda en casa de vecindad (004)",97,88,86,2,,9,,2,6,1
+"Choza o cabaña (005)",1328,1273,869,130,274,55,,,55,
+"Vivienda improvisada (006)",15,13,3,10,,2,,,2,
+"Local no dest.para hab. humana (007)",8,8,8,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",8313,7914,7454,402,58,399,13,183,188,15
+"Casa independiente (010)",8137,7750,7305,387,58,387,13,180,180,14
+"Departamento en edificio (011)",12,12,11,1,,,,,,
+"Vivienda en quinta (012)",48,47,45,2,,1,,1,,
+"Vivienda en casa de vecindad (013)",97,88,86,2,,9,,2,6,1
+"Vivienda improvisada (015)",15,13,3,10,,2,,,2,
+"Local no dest.para hab. humana (016)",4,4,4,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",27947,26495,22059,1690,2746,1452,28,274,1116,34
+"Casa independiente (019)",26615,25218,21186,1560,2472,1397,28,274,1061,34
+"Choza o cabaña (023)",1328,1273,869,130,274,55,,,55,
+"Local no dest.para hab. humana (025)",4,4,4,,,,,,,

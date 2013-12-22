@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CONCEPCION (000)",14130,10373,3757
+"Red pública dentro de la vivienda (001)",6782,6103,679
+"Red pública fuera de la vivienda (002)",469,403,66
+"Pilón de uso público (003)",209,112,97
+"Pozo (005)",800,476,324
+"Río, acequia, manatial o similar (006)",5265,2953,2312
+"Vecino (007)",497,274,223
+"Otro (008)",108,52,56
+,,,
+"URBANA (010)",7170,6140,1030
+"Red pública dentro de la vivienda (011)",5276,4790,486
+"Red pública fuera de la vivienda (012)",269,234,35
+"Pilón de uso público (013)",94,55,39
+"Pozo (015)",161,120,41
+"Río, acequia, manatial o similar (016)",1004,738,266
+"Vecino (017)",288,160,128
+"Otro (018)",78,43,35
+,,,
+"RURAL (020)",6960,4233,2727
+"Red pública dentro de la vivienda (021)",1506,1313,193
+"Red pública fuera de la vivienda (022)",200,169,31
+"Pilón de uso público (023)",115,57,58
+"Pozo (025)",639,356,283
+"Río, acequia, manatial o similar (026)",4261,2215,2046
+"Vecino (027)",209,114,95
+"Otro (028)",30,9,21

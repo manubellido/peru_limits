@@ -1,0 +1,70 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia AYABACA",,,
+"Viviendas particulares (001)",6917,5574,1343
+"Ocupantes presentes (002)",31496,25327,6169
+"Casa independiente",,,
+"Viviendas particulares (004)",6807,5483,1324
+"Ocupantes presentes (005)",31080,24995,6085
+"Departamento en edificio",,,
+"Viviendas particulares (007)",2,2,
+"Ocupantes presentes (008)",4,4,
+"Vivienda en quinta",,,
+"Viviendas particulares (010)",24,17,7
+"Ocupantes presentes (011)",72,49,23
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",27,23,4
+"Ocupantes presentes (014)",78,62,16
+"Choza o cabaña",,,
+"Viviendas particulares (016)",53,45,8
+"Ocupantes presentes (017)",249,204,45
+"Vivienda improvisada",,,
+"Viviendas particulares (019)",1,1,
+"Ocupantes presentes (020)",4,4,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (022)",3,3,
+"Ocupantes presentes (023)",9,9,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",2409,2092,317
+"Ocupantes presentes (029)",10301,8965,1336
+"Casa independiente",,,
+"Viviendas particulares (031)",2355,2049,306
+"Ocupantes presentes (032)",10143,8846,1297
+"Departamento en edificio",,,
+"Viviendas particulares (034)",2,2,
+"Ocupantes presentes (035)",4,4,
+"Vivienda en quinta",,,
+"Viviendas particulares (037)",24,17,7
+"Ocupantes presentes (038)",72,49,23
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",27,23,4
+"Ocupantes presentes (041)",78,62,16
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Viviendas particulares (046)",1,1,
+"Ocupantes presentes (047)",4,4,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",4508,3482,1026
+"Ocupantes presentes (056)",21195,16362,4833
+"Casa independiente",,,
+"Viviendas particulares (058)",4452,3434,1018
+"Ocupantes presentes (059)",20937,16149,4788
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Viviendas particulares (070)",53,45,8
+"Ocupantes presentes (071)",249,204,45
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (076)",3,3,
+"Ocupantes presentes (077)",9,9,
+"Otro tipo",,,

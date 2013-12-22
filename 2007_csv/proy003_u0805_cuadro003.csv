@@ -1,0 +1,23 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia CANAS (000)",38138,717,14479,8216,6294,5458,2974
+"Casa independiente (001)",33831,639,12820,7260,5546,4964,2602
+"Vivienda en quinta (003)",7,,3,3,1,,
+"Vivienda en casa de vecindad (004)",548,22,186,180,98,50,12
+"Choza o cabaña (005)",3744,56,1468,768,648,444,360
+"Vivienda improvisada (006)",1,,,1,,,
+"Local no destinado para hab.humana (007)",7,,2,4,1,,
+,,,,,,,
+"URBANA (009)",6001,114,2069,1538,1157,748,375
+"Casa independiente (010)",5438,92,1878,1350,1057,698,363
+"Vivienda en quinta (012)",7,,3,3,1,,
+"Vivienda en casa de vecindad (013)",548,22,186,180,98,50,12
+"Vivienda improvisada (015)",1,,,1,,,
+"Local no destinado para hab.humana (016)",7,,2,4,1,,
+,,,,,,,
+"RURAL (018)",32137,603,12410,6678,5137,4710,2599
+"Casa independiente (019)",28393,547,10942,5910,4489,4266,2239
+"Choza o cabaña (023)",3744,56,1468,768,648,444,360

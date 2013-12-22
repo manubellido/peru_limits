@@ -1,0 +1,28 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia LUYA (000)",48151,999,16898,11209,8339,6812,3894
+"Casa independiente (001)",47554,988,16737,11063,8213,6714,3839
+"Departamento en edificio (002)",7,,2,3,2,,
+"Vivienda en quinta (003)",16,1,3,9,3,,
+"Vivienda en casa de vecindad (004)",143,3,31,47,34,21,7
+"Choza o cabaña (005)",403,7,116,80,81,72,47
+"Vivienda improvisada (006)",5,,1,2,,1,1
+"Local no destinado para hab.humana (007)",12,,2,2,5,3,
+"Otro tipo (008)",11,,6,3,1,1,
+,,,,,,,
+"URBANA (009)",19349,338,6292,4345,3551,2933,1890
+"Casa independiente (010)",19158,334,6247,4279,3509,2907,1882
+"Departamento en edificio (011)",7,,2,3,2,,
+"Vivienda en quinta (012)",16,1,3,9,3,,
+"Vivienda en casa de vecindad (013)",143,3,31,47,34,21,7
+"Vivienda improvisada (015)",5,,1,2,,1,1
+"Local no destinado para hab.humana (016)",9,,2,2,2,3,
+"Otro tipo (017)",11,,6,3,1,1,
+,,,,,,,
+"RURAL (018)",28802,661,10606,6864,4788,3879,2004
+"Casa independiente (019)",28396,654,10490,6784,4704,3807,1957
+"Choza o cabaña (023)",403,7,116,80,81,72,47
+"Local no destinado para hab.humana (025)",3,,,,3,,

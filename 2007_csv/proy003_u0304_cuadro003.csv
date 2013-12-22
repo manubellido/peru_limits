@@ -1,0 +1,26 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia AYMARAES (000)",28442,508,9664,5561,4681,4563,3465
+"Casa independiente (001)",27217,480,9293,5354,4466,4314,3310
+"Departamento en edificio (002)",17,,5,3,2,4,3
+"Vivienda en quinta (003)",44,,20,6,9,4,5
+"Vivienda en casa de vecindad (004)",372,9,126,87,76,42,32
+"Choza o cabaña (005)",784,19,219,110,124,199,113
+"Vivienda improvisada (006)",5,,1,1,2,,1
+"Local no destinado para hab.humana (007)",3,,,,2,,1
+,,,,,,,
+"URBANA (009)",12555,217,4198,2575,2234,1938,1393
+"Casa independiente (010)",12115,208,4046,2478,2144,1888,1351
+"Departamento en edificio (011)",17,,5,3,2,4,3
+"Vivienda en quinta (012)",44,,20,6,9,4,5
+"Vivienda en casa de vecindad (013)",372,9,126,87,76,42,32
+"Vivienda improvisada (015)",5,,1,1,2,,1
+"Local no destinado para hab.humana (016)",2,,,,1,,1
+,,,,,,,
+"RURAL (018)",15887,291,5466,2986,2447,2625,2072
+"Casa independiente (019)",15102,272,5247,2876,2322,2426,1959
+"Choza o cabaña (023)",784,19,219,110,124,199,113
+"Local no destinado para hab.humana (025)",1,,,,1,,

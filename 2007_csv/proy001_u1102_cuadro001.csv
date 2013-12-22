@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CHINCHA (000)",52517,49572,44940,4388,244,2945,97,543,1859,446
+"Casa independiente (001)",42352,39700,35689,3803,208,2652,71,533,1645,403
+"Departamento en edificio (002)",440,413,368,44,1,27,20,2,5,
+"Vivienda en quinta (003)",343,307,267,40,,36,2,7,23,4
+"Vivienda en casa de vecindad (004)",418,363,341,21,1,55,4,1,35,15
+"Choza o cabaña (005)",1203,1153,1032,97,24,50,,,50,
+"Vivienda improvisada (006)",7428,7303,6910,383,10,125,,,101,24
+"Local no dest.para hab. humana (007)",73,73,73,,,,,,,
+"Otro tipo (008)",260,260,260,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",45495,43021,39490,3403,128,2474,83,428,1559,404
+"Casa independiente (010)",36541,34310,31279,2915,116,2231,57,418,1395,361
+"Departamento en edificio (011)",440,413,368,44,1,27,20,2,5,
+"Vivienda en quinta (012)",343,307,267,40,,36,2,7,23,4
+"Vivienda en casa de vecindad (013)",418,363,341,21,1,55,4,1,35,15
+"Vivienda improvisada (015)",7428,7303,6910,383,10,125,,,101,24
+"Local no dest.para hab. humana (016)",71,71,71,,,,,,,
+"Otro tipo (017)",254,254,254,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",7022,6551,5450,985,116,471,14,115,300,42
+"Casa independiente (019)",5811,5390,4410,888,92,421,14,115,250,42
+"Choza o cabaña (023)",1203,1153,1032,97,24,50,,,50,
+"Local no dest.para hab. humana (025)",2,2,2,,,,,,,
+"Otro tipo (026)",6,6,6,,,,,,,

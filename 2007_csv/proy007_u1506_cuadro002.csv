@@ -1,0 +1,88 @@
+"CUADRO Nº 2: POBLACIÓN DE 3 Y MÁS AÑOS DE EDAD, POR AFILIACIÓN A ALGÚN TIPO DE SEGURO DE SALUD, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",TOTAL,"AFILIADO A ALGÚN SEGURO DE SALUD",,,
+,,"SIS (SEGURO INTEGRAL DE SALUD)",ESSALUD,"OTRO SEGURO DE SALUD",NINGUNO
+,,,,,
+"Provincia HUARAL (000)",155687,17919,26865,8081,103159
+"Sin Nivel (001)",14617,2578,2331,493,9233
+"Educación Inicial (002)",4074,1012,758,147,2166
+"Primaria (003)",49544,6940,7808,2097,32770
+"Secundaria (004)",61159,5939,9017,2821,43463
+"Sup. no Univ. Incompleta (005)",6701,461,1083,442,4736
+"Sup. no Univ. Completa (006)",6933,408,1855,735,3978
+"Sup. Univ. Incompleta (007)",5431,253,932,519,3746
+"Sup. Univ. Completa (008)",7228,328,3081,827,3067
+"Hombres (010)",78760,8467,13859,4580,52069
+"Sin Nivel (011)",5695,1185,981,214,3324
+"Educación Inicial (012)",2053,500,399,74,1083
+"Primaria (013)",24292,3368,4025,1107,15834
+"Secundaria (014)",33941,2799,5158,1714,24330
+"Sup. no Univ. Incompleta (015)",3396,201,581,268,2362
+"Sup. no Univ. Completa (016)",3048,149,794,441,1689
+"Sup. Univ. Incompleta (017)",2772,112,466,298,1906
+"Sup. Univ. Completa (018)",3563,153,1455,464,1541
+"Mujeres (020)",76927,9452,13006,3501,51090
+"Sin Nivel (021)",8922,1393,1350,279,5909
+"Educación Inicial (022)",2021,512,359,73,1083
+"Primaria (023)",25252,3572,3783,990,16936
+"Secundaria (024)",27218,3140,3859,1107,19133
+"Sup. no Univ. Incompleta (025)",3305,260,502,174,2374
+"Sup. no Univ. Completa (026)",3885,259,1061,294,2289
+"Sup. Univ. Incompleta (027)",2659,141,466,221,1840
+"Sup. Univ. Completa (028)",3665,175,1626,363,1526
+,,,,,
+"URBANA (030)",128991,14448,23690,7299,83870
+"Sin Nivel (031)",10869,1956,1857,414,6657
+"Educación Inicial (032)",3409,780,687,130,1821
+"Primaria (033)",40076,5477,6725,1868,26072
+"Secundaria (034)",51680,4959,8020,2567,36209
+"Sup. no Univ. Incompleta (035)",5725,402,991,407,3945
+"Sup. no Univ. Completa (036)",5978,355,1691,684,3289
+"Sup. Univ. Incompleta (037)",4737,220,847,470,3219
+"Sup. Univ. Completa (038)",6517,299,2872,759,2658
+"Hombres (040)",64080,6771,12073,4102,41333
+"Sin Nivel (041)",4247,898,798,176,2383
+"Educación Inicial (042)",1724,387,354,68,918
+"Primaria (043)",19205,2645,3383,980,12235
+"Secundaria (044)",27979,2299,4528,1540,19668
+"Sup. no Univ. Incompleta (045)",2849,177,532,246,1909
+"Sup. no Univ. Completa (046)",2557,130,716,404,1330
+"Sup. Univ. Incompleta (047)",2385,98,416,266,1615
+"Sup. Univ. Completa (048)",3134,137,1346,422,1275
+"Mujeres (050)",64911,7677,11617,3197,42537
+"Sin Nivel (051)",6622,1058,1059,238,4274
+"Educación Inicial (052)",1685,393,333,62,903
+"Primaria (053)",20871,2832,3342,888,13837
+"Secundaria (054)",23701,2660,3492,1027,16541
+"Sup. no Univ. Incompleta (055)",2876,225,459,161,2036
+"Sup. no Univ. Completa (056)",3421,225,975,280,1959
+"Sup. Univ. Incompleta (057)",2352,122,431,204,1604
+"Sup. Univ. Completa (058)",3383,162,1526,337,1383
+,,,,,
+"RURAL (060)",26696,3471,3175,782,19289
+"Sin Nivel (061)",3748,622,474,79,2576
+"Educación Inicial (062)",665,232,71,17,345
+"Primaria (063)",9468,1463,1083,229,6698
+"Secundaria (064)",9479,980,997,254,7254
+"Sup. no Univ. Incompleta (065)",976,59,92,35,791
+"Sup. no Univ. Completa (066)",955,53,164,51,689
+"Sup. Univ. Incompleta (067)",694,33,85,49,527
+"Sup. Univ. Completa (068)",711,29,209,68,409
+"Hombres (070)",14680,1696,1786,478,10736
+"Sin Nivel (071)",1448,287,183,38,941
+"Educación Inicial (072)",329,113,45,6,165
+"Primaria (073)",5087,723,642,127,3599
+"Secundaria (074)",5962,500,630,174,4662
+"Sup. no Univ. Incompleta (075)",547,24,49,22,453
+"Sup. no Univ. Completa (076)",491,19,78,37,359
+"Sup. Univ. Incompleta (077)",387,14,50,32,291
+"Sup. Univ. Completa (078)",429,16,109,42,266
+"Mujeres (080)",12016,1775,1389,304,8553
+"Sin Nivel (081)",2300,335,291,41,1635
+"Educación Inicial (082)",336,119,26,11,180
+"Primaria (083)",4381,740,441,102,3099
+"Secundaria (084)",3517,480,367,80,2592
+"Sup. no Univ. Incompleta (085)",429,35,43,13,338
+"Sup. no Univ. Completa (086)",464,34,86,14,330
+"Sup. Univ. Incompleta (087)",307,19,35,17,236
+"Sup. Univ. Completa (088)",282,13,100,26,143

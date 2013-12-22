@@ -20,3 +20,8 @@ para todo un departamento. Es necesario hacer la descarga por departamento y
 por provincia.
 
 > ``curl -o 'proy#1_u#2#3_cuadro#4.xls' 'http://censos.inei.gob.pe/cpv2007/tabulados/Tabla.asp?proy=[001-008]&u=[01-25][01-20]&cuadro=[001-039]&exportar=xls'``
+
+Convertir XLS a CSV usando comando de Gnumeric:
+
+> ``ls 2007/ | parallel -I {} ssconvert 2007/{} 2007_csv/{.}.csv > log 2>&1``
+

@@ -1,0 +1,132 @@
+"CUADRO Nº 14: POBLACIÓN OCUPADA DE 6 Y MÁS AÑOS DE EDAD, POR TAMAÑO DE ESTABLECIMIENTO DONDE TRABAJA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, GRANDES GRUPOS DE EDAD Y CATEGORÍA DE OCUPACIÓN",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, GRANDES GRUPOS DE EDAD Y CATEGORIA DE OCUPACION",TOTAL,"TAMAÑO DE ESTABLECIMIENTO",,,
+,,"1 A 5 PERSONAS","6 A 10 PERSONAS","11 A 50 PERSONAS","51 Y MÁS PERSONAS"
+,,,,,
+"Provincia CHICLAYO (000)",271456,180900,27384,26857,36315
+"Empleado (001)",88659,31345,12226,18586,26502
+"Obrero (002)",51442,25969,8403,7558,9512
+"Trabajador independiente (003)",107824,102340,5484,,
+"Empleador o patrono (004)",5382,3971,730,471,210
+"Trabajador familiar no remunerado (005)",8099,7225,541,242,91
+"Trabajador del hogar (006)",10050,10050,,,
+"De 06 a 14 años (008)",2927,2519,245,109,54
+"Empleado (009)",370,315,32,17,6
+"Obrero (010)",548,352,91,61,44
+"Trabajador independiente (011)",754,712,42,,
+"Empleador o patrono (012)",5,3,2,,
+"Trabajador familiar no remunerado (013)",917,804,78,31,4
+"Trabajador del hogar (014)",333,333,,,
+"De 15 a 29 años (016)",86958,58391,10869,8989,8709
+"Empleado (017)",31534,14473,5128,6048,5885
+"Obrero (018)",18732,9890,3378,2725,2739
+"Trabajador independiente (019)",27482,25524,1958,,
+"Empleador o patrono (020)",1184,838,182,117,47
+"Trabajador familiar no remunerado (021)",2829,2469,223,99,38
+"Trabajador del hogar (022)",5197,5197,,,
+"De 30 a 44 años (024)",102007,65411,10099,11099,15398
+"Empleado (025)",35058,10694,4684,8032,11648
+"Obrero (026)",18187,8749,2981,2814,3643
+"Trabajador independiente (027)",41532,39515,2017,,
+"Empleador o patrono (028)",2060,1499,286,193,82
+"Trabajador familiar no remunerado (029)",2305,2089,131,60,25
+"Trabajador del hogar (030)",2865,2865,,,
+"De 45 a 64 años (032)",69823,46317,5608,6279,11619
+"Empleado (033)",20510,5362,2242,4289,8617
+"Obrero (034)",12358,5866,1760,1820,2912
+"Trabajador independiente (035)",32064,30762,1302,,
+"Empleador o patrono (036)",1779,1348,220,133,78
+"Trabajador familiar no remunerado (037)",1629,1496,84,37,12
+"Trabajador del hogar (038)",1483,1483,,,
+"De 65 y más años (040)",9741,8262,563,381,535
+"Empleado (041)",1187,501,140,200,346
+"Obrero (042)",1617,1112,193,138,174
+"Trabajador independiente (043)",5992,5827,165,,
+"Empleador o patrono (044)",354,283,40,28,3
+"Trabajador familiar no remunerado (045)",419,367,25,15,12
+"Trabajador del hogar (046)",172,172,,,
+,,,,,
+"URBANA (048)",255583,169300,25471,25744,35068
+"Empleado (049)",87527,30909,12013,18395,26210
+"Obrero (050)",43008,20664,7119,6661,8564
+"Trabajador independiente (051)",102928,97752,5176,,
+"Empleador o patrono (052)",5129,3772,691,459,207
+"Trabajador familiar no remunerado (053)",7283,6495,472,229,87
+"Trabajador del hogar (054)",9708,9708,,,
+"De 06 a 14 años (056)",2665,2319,205,95,46
+"Empleado (057)",365,312,32,16,5
+"Obrero (058)",428,280,61,50,37
+"Trabajador independiente (059)",727,687,40,,
+"Empleador o patrono (060)",5,3,2,,
+"Trabajador familiar no remunerado (061)",819,716,70,29,4
+"Trabajador del hogar (062)",321,321,,,
+"De 15 a 29 años (064)",81398,54399,10081,8591,8327
+"Empleado (065)",31094,14266,5038,5989,5801
+"Obrero (066)",15399,7734,2827,2396,2442
+"Trabajador independiente (067)",26299,24441,1858,,
+"Empleador o patrono (068)",1145,811,173,114,47
+"Trabajador familiar no remunerado (069)",2459,2145,185,92,37
+"Trabajador del hogar (070)",5002,5002,,,
+"De 30 a 44 años (072)",96552,61502,9447,10677,14926
+"Empleado (073)",34652,10556,4611,7951,11534
+"Obrero (074)",15292,6984,2539,2479,3290
+"Trabajador independiente (075)",39754,37848,1906,,
+"Empleador o patrono (076)",1972,1427,276,189,80
+"Trabajador familiar no remunerado (077)",2110,1915,115,58,22
+"Trabajador del hogar (078)",2772,2772,,,
+"De 45 a 64 años (080)",66054,43565,5224,6015,11250
+"Empleado (081)",20243,5281,2195,4241,8526
+"Obrero (082)",10546,4774,1526,1611,2635
+"Trabajador independiente (083)",30595,29376,1219,,
+"Empleador o patrono (084)",1693,1282,206,128,77
+"Trabajador familiar no remunerado (085)",1531,1406,78,35,12
+"Trabajador del hogar (086)",1446,1446,,,
+"De 65 y más años (088)",8914,7515,514,366,519
+"Empleado (089)",1173,494,137,198,344
+"Obrero (090)",1343,892,166,125,160
+"Trabajador independiente (091)",5553,5400,153,,
+"Empleador o patrono (092)",314,249,34,28,3
+"Trabajador familiar no remunerado (093)",364,313,24,15,12
+"Trabajador del hogar (094)",167,167,,,
+,,,,,
+"RURAL (096)",15873,11600,1913,1113,1247
+"Empleado (097)",1132,436,213,191,292
+"Obrero (098)",8434,5305,1284,897,948
+"Trabajador independiente (099)",4896,4588,308,,
+"Empleador o patrono (100)",253,199,39,12,3
+"Trabajador familiar no remunerado (101)",816,730,69,13,4
+"Trabajador del hogar (102)",342,342,,,
+"De 06 a 14 años (104)",262,200,40,14,8
+"Empleado (105)",5,3,,1,1
+"Obrero (106)",120,72,30,11,7
+"Trabajador independiente (107)",27,25,2,,
+"Trabajador familiar no remunerado (109)",98,88,8,2,
+"Trabajador del hogar (110)",12,12,,,
+"De 15 a 29 años (112)",5560,3992,788,398,382
+"Empleado (113)",440,207,90,59,84
+"Obrero (114)",3333,2156,551,329,297
+"Trabajador independiente (115)",1183,1083,100,,
+"Empleador o patrono (116)",39,27,9,3,
+"Trabajador familiar no remunerado (117)",370,324,38,7,1
+"Trabajador del hogar (118)",195,195,,,
+"De 30 a 44 años (120)",5455,3909,652,422,472
+"Empleado (121)",406,138,73,81,114
+"Obrero (122)",2895,1765,442,335,353
+"Trabajador independiente (123)",1778,1667,111,,
+"Empleador o patrono (124)",88,72,10,4,2
+"Trabajador familiar no remunerado (125)",195,174,16,2,3
+"Trabajador del hogar (126)",93,93,,,
+"De 45 a 64 años (128)",3769,2752,384,264,369
+"Empleado (129)",267,81,47,48,91
+"Obrero (130)",1812,1092,234,209,277
+"Trabajador independiente (131)",1469,1386,83,,
+"Empleador o patrono (132)",86,66,14,5,1
+"Trabajador familiar no remunerado (133)",98,90,6,2,
+"Trabajador del hogar (134)",37,37,,,
+"De 65 y más años (136)",827,747,49,15,16
+"Empleado (137)",14,7,3,2,2
+"Obrero (138)",274,220,27,13,14
+"Trabajador independiente (139)",439,427,12,,
+"Empleador o patrono (140)",40,34,6,,
+"Trabajador familiar no remunerado (141)",55,54,1,,
+"Trabajador del hogar (142)",5,5,,,

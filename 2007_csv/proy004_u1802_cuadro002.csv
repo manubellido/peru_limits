@@ -1,0 +1,75 @@
+"CUADRO Nº 2: POBLACIÓN DE 3 Y MÁS AÑOS DE EDAD, POR NIVEL EDUCATIVO ALCANZADO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, SEXO E IDIOMA O LENGUA CON LA QUE APRENDIÓ A HABLAR",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, SEXO E IDIOMA O LENGUA CON LA QUE APRENDIÓ A HABLAR",TOTAL,"NIVEL EDUCATIVO ALCANZADO",,,,,,,
+,,"SIN NIVEL","EDUCACIÓN INICIAL",PRIMARIA,SECUNDARIA,"SUP. NO UNIV. INCOMPLETA","SUP. NO UNIV. COMPLETA","SUP. UNIV. INCOMPLETA","SUP. UNIV. COMPLETA"
+,,,,,,,,,
+"Provincia GENERAL SANCHEZ CERRO (000)",23781,2624,523,7558,7406,1845,1653,760,1412
+"Quechua (001)",8905,1285,137,3228,2737,661,406,180,271
+"Aymara (002)",470,80,3,172,125,45,13,6,26
+"Ashaninca (003)",5,1,,2,2,,,,
+"Otra lengua nativa (004)",22,2,2,3,3,8,,3,1
+"Castellano (005)",14354,1243,380,4151,4535,1130,1232,570,1113
+"Idioma extranjero (006)",3,,,,,,1,1,1
+"Es sordomudo/a (007)",22,13,1,2,4,1,1,,
+"Hombres (009)",12697,859,274,3765,4416,1046,1005,472,860
+"Quechua (010)",4590,337,64,1562,1660,361,290,123,193
+"Aymara (011)",258,23,3,91,80,25,8,5,23
+"Ashaninca (012)",2,,,1,1,,,,
+"Otra lengua nativa (013)",9,1,2,1,1,4,,,
+"Castellano (014)",7825,493,204,2108,2671,656,707,343,643
+"Idioma extranjero (015)",2,,,,,,,1,1
+"Es sordomudo/a (016)",11,5,1,2,3,,,,
+"Mujeres (018)",11084,1765,249,3793,2990,799,648,288,552
+"Quechua (019)",4315,948,73,1666,1077,300,116,57,78
+"Aymara (020)",212,57,,81,45,20,5,1,3
+"Ashaninca (021)",3,1,,1,1,,,,
+"Otra lengua nativa (022)",13,1,,2,2,4,,3,1
+"Castellano (023)",6529,750,176,2043,1864,474,525,227,470
+"Idioma extranjero (024)",1,,,,,,1,,
+"Es sordomudo/a (025)",11,8,,,1,1,1,,
+,,,,,,,,,
+"URBANA (027)",10282,878,209,2972,3134,929,871,381,908
+"Quechua (028)",3699,398,33,1169,1169,369,267,98,196
+"Aymara (029)",129,6,,15,36,39,11,1,21
+"Ashaninca (030)",1,,,,1,,,,
+"Otra lengua nativa (031)",18,1,2,3,3,5,,3,1
+"Castellano (032)",6426,470,174,1784,1923,516,592,278,689
+"Idioma extranjero (033)",3,,,,,,1,1,1
+"Es sordomudo/a (034)",6,3,,1,2,,,,
+"Hombres (036)",5324,309,110,1413,1795,461,501,219,516
+"Quechua (037)",1913,106,12,542,676,193,190,62,132
+"Aymara (038)",77,1,,6,23,22,7,,18
+"Ashaninca (039)",1,,,,1,,,,
+"Otra lengua nativa (040)",7,1,2,1,1,2,,,
+"Castellano (041)",3320,200,96,863,1092,244,304,156,365
+"Idioma extranjero (042)",2,,,,,,,1,1
+"Es sordomudo/a (043)",4,1,,1,2,,,,
+"Mujeres (045)",4958,569,99,1559,1339,468,370,162,392
+"Quechua (046)",1786,292,21,627,493,176,77,36,64
+"Aymara (047)",52,5,,9,13,17,4,1,3
+"Otra lengua nativa (049)",11,,,2,2,3,,3,1
+"Castellano (050)",3106,270,78,921,831,272,288,122,324
+"Idioma extranjero (051)",1,,,,,,1,,
+"Es sordomudo/a (052)",2,2,,,,,,,
+,,,,,,,,,
+"RURAL (054)",13499,1746,314,4586,4272,916,782,379,504
+"Quechua (055)",5206,887,104,2059,1568,292,139,82,75
+"Aymara (056)",341,74,3,157,89,6,2,5,5
+"Ashaninca (057)",4,1,,2,1,,,,
+"Otra lengua nativa (058)",4,1,,,,3,,,
+"Castellano (059)",7928,773,206,2367,2612,614,640,292,424
+"Es sordomudo/a (061)",16,10,1,1,2,1,1,,
+"Hombres (063)",7373,550,164,2352,2621,585,504,253,344
+"Quechua (064)",2677,231,52,1020,984,168,100,61,61
+"Aymara (065)",181,22,3,85,57,3,1,5,5
+"Ashaninca (066)",1,,,1,,,,,
+"Otra lengua nativa (067)",2,,,,,2,,,
+"Castellano (068)",4505,293,108,1245,1579,412,403,187,278
+"Es sordomudo/a (070)",7,4,1,1,1,,,,
+"Mujeres (072)",6126,1196,150,2234,1651,331,278,126,160
+"Quechua (073)",2529,656,52,1039,584,124,39,21,14
+"Aymara (074)",160,52,,72,32,3,1,,
+"Ashaninca (075)",3,1,,1,1,,,,
+"Otra lengua nativa (076)",2,1,,,,1,,,
+"Castellano (077)",3423,480,98,1122,1033,202,237,105,146
+"Es sordomudo/a (079)",9,6,,,1,1,1,,

@@ -1,0 +1,64 @@
+"CUADRO Nº 16: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia JUNIN",,,
+"Viviendas particulares (001)",8792,6557,2235
+"Ocupantes presentes (002)",29950,23486,6464
+"Casa independiente",,,
+"Viviendas particulares (004)",8289,6326,1963
+"Ocupantes presentes (005)",28475,22647,5828
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (010)",26,26,
+"Ocupantes presentes (011)",97,97,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",195,176,19
+"Ocupantes presentes (014)",725,653,72
+"Choza o cabaña",,,
+"Viviendas particulares (016)",276,25,251
+"Ocupantes presentes (017)",642,84,558
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (022)",6,4,2
+"Ocupantes presentes (023)",11,5,6
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",5879,5055,824
+"Ocupantes presentes (029)",21080,18351,2729
+"Casa independiente",,,
+"Viviendas particulares (031)",5654,4851,803
+"Ocupantes presentes (032)",20249,17598,2651
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (037)",26,26,
+"Ocupantes presentes (038)",97,97,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",195,176,19
+"Ocupantes presentes (041)",725,653,72
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (049)",4,2,2
+"Ocupantes presentes (050)",9,3,6
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",2913,1502,1411
+"Ocupantes presentes (056)",8870,5135,3735
+"Casa independiente",,,
+"Viviendas particulares (058)",2635,1475,1160
+"Ocupantes presentes (059)",8226,5049,3177
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Viviendas particulares (070)",276,25,251
+"Ocupantes presentes (071)",642,84,558
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (076)",2,2,
+"Ocupantes presentes (077)",2,2,
+"Otro tipo",,,

@@ -1,0 +1,78 @@
+"CUADRO Nº 9: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR TIPO DE ABASTECIMIENTO DE AGUA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"TIPO DE ABASTECIMIENTO DE AGUA",,,,,,,
+,,"RED PÚBLICA DENTRO DE LA VIVIENDA (AGUA POTABLE)","RED PÚBLICA FUERA DE LA VIVIENDA PERO DENTRO DE LA EDIFICACIÓN (AGUA POTABLE)","PILÓN DE USO PÚBLICO (AGUA POTABLE)","CAMIÓN-CISTERNA U OTRO SIMILAR",POZO,"RÍO, ACEQUIA, MANANTIAL O SIMILAR",VECINO,OTRO
+,,,,,,,,,
+"Provincia CHANCHAMAYO",,,,,,,,,
+"Viviendas particulares (001)",41934,14758,3542,1052,37,2092,18601,1024,828
+"Ocupantes presentes (002)",166385,62551,14431,4376,150,7510,70761,3614,2992
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (004)",32165,12924,2732,898,28,1367,12661,784,771
+"Ocupantes presentes (005)",130139,55674,11475,3692,103,5129,48459,2787,2820
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (007)",583,479,104,,,,,,
+"Ocupantes presentes (008)",1863,1556,307,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (010)",979,756,202,,,,,21,
+"Ocupantes presentes (011)",3729,2917,732,,,,,80,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (013)",1029,469,458,12,,7,66,12,5
+"Ocupantes presentes (014)",4124,1932,1708,58,,32,313,52,29
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (016)",6659,,,123,8,587,5773,145,23
+"Ocupantes presentes (017)",24752,,,555,29,2005,21615,490,58
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (019)",382,68,34,17,1,115,72,49,26
+"Ocupantes presentes (020)",1321,271,146,67,18,316,265,165,73
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (022)",103,62,12,,,2,18,7,2
+"Ocupantes presentes (023)",374,201,63,,,8,83,14,5
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (025)",34,,,2,,14,11,6,1
+"Ocupantes presentes (026)",83,,,4,,20,26,26,7
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Viviendas particulares (028)",22733,13388,2749,529,17,865,3921,629,635
+"Ocupantes presentes (029)",94150,57043,11242,2357,72,3077,15741,2279,2339
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (031)",19646,11557,1939,499,16,727,3770,536,602
+"Ocupantes presentes (032)",82738,50173,8286,2229,54,2701,15119,1944,2232
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (034)",583,479,104,,,,,,
+"Ocupantes presentes (035)",1863,1556,307,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (037)",979,756,202,,,,,21,
+"Ocupantes presentes (038)",3729,2917,732,,,,,80,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (040)",1029,469,458,12,,7,66,12,5
+"Ocupantes presentes (041)",4124,1932,1708,58,,32,313,52,29
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (046)",382,68,34,17,1,115,72,49,26
+"Ocupantes presentes (047)",1321,271,146,67,18,316,265,165,73
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (049)",87,59,12,,,2,7,5,2
+"Ocupantes presentes (050)",311,194,63,,,8,29,12,5
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (052)",27,,,1,,14,6,6,
+"Ocupantes presentes (053)",64,,,3,,20,15,26,
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Viviendas particulares (055)",19201,1370,793,523,20,1227,14680,395,193
+"Ocupantes presentes (056)",72235,5508,3189,2019,78,4433,55020,1335,653
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (058)",12519,1367,793,399,12,640,8891,248,169
+"Ocupantes presentes (059)",47401,5501,3189,1463,49,2428,33340,843,588
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (070)",6659,,,123,8,587,5773,145,23
+"Ocupantes presentes (071)",24752,,,555,29,2005,21615,490,58
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (076)",16,3,,,,,11,2,
+"Ocupantes presentes (077)",63,7,,,,,54,2,
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (079)",7,,,1,,,5,,1
+"Ocupantes presentes (080)",19,,,1,,,11,,7

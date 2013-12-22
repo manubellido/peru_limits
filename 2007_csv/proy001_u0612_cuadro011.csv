@@ -1,0 +1,175 @@
+"CUADRO Nº 11: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR TIPO DE ABASTECIMIENTO DE AGUA POTABLE, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, DISPONIBILIDAD DE AGUA TODOS LOS DÍAS DE LA SEMANA, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,
+,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, DISPONIBILIDAD DE AGUA TODOS LOS DÍAS DE LA SEMANA, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"TIPO DE ABASTECIMIENTO DE AGUA POTABLE",,
+,,"RED PÚBLICA DENTRO DE LA VIVIENDA (AGUA POTABLE)","RED PÚBLICA FUERA DE LA VIVIENDA PERO DENTRO DE LA EDIFICACIÓN (AGUA POTABLE)","PILÓN DE USO PÚBLICO (AGUA POTABLE)"
+,,,,
+"Provincia SAN PABLO",,,,
+"Viviendas particulares (001)",3187,1457,1640,90
+"Ocupantes presentes (002)",12867,5715,6791,361
+"Casa independiente",,,,
+"Viviendas particulares (004)",3133,1422,1621,90
+"Ocupantes presentes (005)",12682,5586,6735,361
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (010)",41,22,19,
+"Ocupantes presentes (011)",152,96,56,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (013)",13,13,,
+"Ocupantes presentes (014)",33,33,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+Si,,,,
+"Viviendas particulares (028)",2830,1211,1535,84
+"Ocupantes presentes (029)",11385,4710,6336,339
+"Casa independiente",,,,
+"Viviendas particulares (031)",2779,1179,1516,84
+"Ocupantes presentes (032)",11210,4591,6280,339
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (037)",39,20,19,
+"Ocupantes presentes (038)",147,91,56,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (040)",12,12,,
+"Ocupantes presentes (041)",28,28,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+No,,,,
+"Viviendas particulares (055)",357,246,105,6
+"Ocupantes presentes (056)",1482,1005,455,22
+"Casa independiente",,,,
+"Viviendas particulares (058)",354,243,105,6
+"Ocupantes presentes (059)",1472,995,455,22
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (064)",2,2,,
+"Ocupantes presentes (065)",5,5,,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (067)",1,1,,
+"Ocupantes presentes (068)",5,5,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+"No especificado",,,,
+"Casa independiente",,,,
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+,,,,
+URBANA,,,,
+"Viviendas particulares (109)",593,529,59,5
+"Ocupantes presentes (110)",2245,2016,208,21
+"Casa independiente",,,,
+"Viviendas particulares (112)",539,494,40,5
+"Ocupantes presentes (113)",2060,1887,152,21
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (118)",41,22,19,
+"Ocupantes presentes (119)",152,96,56,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (121)",13,13,,
+"Ocupantes presentes (122)",33,33,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+Si,,,,
+"Viviendas particulares (136)",544,485,55,4
+"Ocupantes presentes (137)",2046,1842,189,15
+"Casa independiente",,,,
+"Viviendas particulares (139)",493,453,36,4
+"Ocupantes presentes (140)",1871,1723,133,15
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (145)",39,20,19,
+"Ocupantes presentes (146)",147,91,56,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (148)",12,12,,
+"Ocupantes presentes (149)",28,28,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+No,,,,
+"Viviendas particulares (163)",49,44,4,1
+"Ocupantes presentes (164)",199,174,19,6
+"Casa independiente",,,,
+"Viviendas particulares (166)",46,41,4,1
+"Ocupantes presentes (167)",189,164,19,6
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Viviendas particulares (172)",2,2,,
+"Ocupantes presentes (173)",5,5,,
+"Vivienda en casa de vecindad",,,,
+"Viviendas particulares (175)",1,1,,
+"Ocupantes presentes (176)",5,5,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+"No especificado",,,,
+"Casa independiente",,,,
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+,,,,
+RURAL,,,,
+"Viviendas particulares (217)",2594,928,1581,85
+"Ocupantes presentes (218)",10622,3699,6583,340
+"Casa independiente",,,,
+"Viviendas particulares (220)",2594,928,1581,85
+"Ocupantes presentes (221)",10622,3699,6583,340
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+Si,,,,
+"Viviendas particulares (244)",2286,726,1480,80
+"Ocupantes presentes (245)",9339,2868,6147,324
+"Casa independiente",,,,
+"Viviendas particulares (247)",2286,726,1480,80
+"Ocupantes presentes (248)",9339,2868,6147,324
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+No,,,,
+"Viviendas particulares (271)",308,202,101,5
+"Ocupantes presentes (272)",1283,831,436,16
+"Casa independiente",,,,
+"Viviendas particulares (274)",308,202,101,5
+"Ocupantes presentes (275)",1283,831,436,16
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,
+"No especificado",,,,
+"Casa independiente",,,,
+"Departamento en edificio",,,,
+"Vivienda en quinta",,,,
+"Vivienda en casa de vecindad",,,,
+"Choza o cabaña",,,,
+"Vivienda improvisada",,,,
+"Local no dest.para hab. humana",,,,
+"Otro tipo",,,,

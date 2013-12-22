@@ -1,0 +1,25 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia TAHUAMANU (000)",9086,190,2681,2560,2051,1224,380
+"Casa independiente (001)",7194,154,2222,2034,1568,930,286
+"Vivienda en quinta (003)",63,2,10,30,13,7,1
+"Vivienda en casa de vecindad (004)",829,17,191,272,233,98,18
+"Choza o cabaña (005)",946,17,240,209,222,184,74
+"Vivienda improvisada (006)",36,,13,9,10,3,1
+"Local no destinado para hab.humana (007)",14,,3,5,4,2,
+"Otro tipo (008)",4,,2,1,1,,
+,,,,,,,
+"URBANA (009)",6423,136,1912,1902,1475,783,215
+"Casa independiente (010)",5477,117,1693,1585,1214,673,195
+"Vivienda en quinta (012)",63,2,10,30,13,7,1
+"Vivienda en casa de vecindad (013)",829,17,191,272,233,98,18
+"Vivienda improvisada (015)",36,,13,9,10,3,1
+"Local no destinado para hab.humana (016)",14,,3,5,4,2,
+"Otro tipo (017)",4,,2,1,1,,
+,,,,,,,
+"RURAL (018)",2663,54,769,658,576,441,165
+"Casa independiente (019)",1717,37,529,449,354,257,91
+"Choza o cabaña (023)",946,17,240,209,222,184,74

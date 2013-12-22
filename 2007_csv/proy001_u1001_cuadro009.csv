@@ -1,0 +1,78 @@
+"CUADRO Nº 9: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR TIPO DE ABASTECIMIENTO DE AGUA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"TIPO DE ABASTECIMIENTO DE AGUA",,,,,,,
+,,"RED PÚBLICA DENTRO DE LA VIVIENDA (AGUA POTABLE)","RED PÚBLICA FUERA DE LA VIVIENDA PERO DENTRO DE LA EDIFICACIÓN (AGUA POTABLE)","PILÓN DE USO PÚBLICO (AGUA POTABLE)","CAMIÓN-CISTERNA U OTRO SIMILAR",POZO,"RÍO, ACEQUIA, MANANTIAL O SIMILAR",VECINO,OTRO
+,,,,,,,,,
+"Provincia HUANUCO",,,,,,,,,
+"Viviendas particulares (001)",60978,27709,4640,2441,1301,3775,19629,1214,269
+"Ocupantes presentes (002)",267068,125181,18349,10026,5330,16364,86345,4546,927
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (004)",54643,24887,3436,2359,1300,3301,17959,1158,243
+"Ocupantes presentes (005)",243473,114842,14820,9749,5325,14395,79138,4356,848
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (007)",1812,1532,279,,,,,1,
+"Ocupantes presentes (008)",6038,5312,724,,,,,2,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (010)",982,663,312,,,,,7,
+"Ocupantes presentes (011)",3558,2602,922,,,,,34,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (013)",1259,594,602,26,1,7,16,12,1
+"Ocupantes presentes (014)",4411,2311,1852,102,5,19,82,34,6
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (016)",2198,,,51,,458,1644,22,23
+"Ocupantes presentes (017)",9346,,,160,,1928,7099,91,68
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (019)",20,3,1,2,,,1,12,1
+"Ocupantes presentes (020)",47,20,1,3,,,1,19,3
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (022)",61,30,10,3,,8,7,2,1
+"Ocupantes presentes (023)",187,94,30,12,,19,20,10,2
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (025)",3,,,,,1,2,,
+"Ocupantes presentes (026)",8,,,,,3,5,,
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Viviendas particulares (028)",36687,26405,3986,1553,995,478,2148,941,181
+"Ocupantes presentes (029)",161416,119507,15542,6207,4148,2083,9780,3524,625
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (031)",32557,23583,2783,1522,994,464,2126,907,178
+"Ocupantes presentes (032)",147181,109168,12014,6090,4143,2048,9679,3425,614
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (034)",1812,1532,279,,,,,1,
+"Ocupantes presentes (035)",6038,5312,724,,,,,2,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (037)",982,663,312,,,,,7,
+"Ocupantes presentes (038)",3558,2602,922,,,,,34,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (040)",1259,594,602,26,1,7,16,12,1
+"Ocupantes presentes (041)",4411,2311,1852,102,5,19,82,34,6
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (046)",20,3,1,2,,,1,12,1
+"Ocupantes presentes (047)",47,20,1,3,,,1,19,3
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (049)",55,30,9,3,,7,3,2,1
+"Ocupantes presentes (050)",176,94,29,12,,16,13,10,2
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (052)",2,,,,,,2,,
+"Ocupantes presentes (053)",5,,,,,,5,,
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Viviendas particulares (055)",24291,1304,654,888,306,3297,17481,273,88
+"Ocupantes presentes (056)",105652,5674,2807,3819,1182,14281,76565,1022,302
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (058)",22086,1304,653,837,306,2837,15833,251,65
+"Ocupantes presentes (059)",96292,5674,2806,3659,1182,12347,69459,931,234
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (070)",2198,,,51,,458,1644,22,23
+"Ocupantes presentes (071)",9346,,,160,,1928,7099,91,68
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (076)",6,,1,,,1,4,,
+"Ocupantes presentes (077)",11,,1,,,3,7,,
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (079)",1,,,,,1,,,
+"Ocupantes presentes (080)",3,,,,,3,,,

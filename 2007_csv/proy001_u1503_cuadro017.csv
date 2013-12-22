@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CAJATAMBO (000)",2464,1722,742
+"Red pública dentro de la vivienda (001)",1217,1134,83
+"Red pública fuera de la vivienda (002)",260,207,53
+"Pilón de uso público (003)",108,91,17
+"Pozo (005)",14,4,10
+"Río, acequia, manatial o similar (006)",747,217,530
+"Vecino (007)",93,55,38
+"Otro (008)",25,14,11
+,,,
+"URBANA (010)",1475,1304,171
+"Red pública dentro de la vivienda (011)",1038,979,59
+"Red pública fuera de la vivienda (012)",221,176,45
+"Pilón de uso público (013)",41,40,1
+"Pozo (015)",4,2,2
+"Río, acequia, manatial o similar (016)",95,60,35
+"Vecino (017)",57,37,20
+"Otro (018)",19,10,9
+,,,
+"RURAL (020)",989,418,571
+"Red pública dentro de la vivienda (021)",179,155,24
+"Red pública fuera de la vivienda (022)",39,31,8
+"Pilón de uso público (023)",67,51,16
+"Pozo (025)",10,2,8
+"Río, acequia, manatial o similar (026)",652,157,495
+"Vecino (027)",36,18,18
+"Otro (028)",6,4,2

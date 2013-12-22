@@ -1,0 +1,24 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia CANDARAVE (000)",8197,103,1986,1969,1789,1495,855
+"Casa independiente (001)",7785,99,1887,1874,1701,1408,816
+"Vivienda en quinta (003)",6,,3,,1,2,
+"Vivienda en casa de vecindad (004)",101,1,18,30,32,15,5
+"Choza o cabaña (005)",289,3,75,59,52,68,32
+"Vivienda improvisada (006)",4,,,1,1,1,1
+"Local no destinado para hab.humana (007)",12,,3,5,2,1,1
+,,,,,,,
+"URBANA (009)",5260,67,1223,1254,1158,993,565
+"Casa independiente (010)",5138,66,1199,1218,1122,974,559
+"Vivienda en quinta (012)",6,,3,,1,2,
+"Vivienda en casa de vecindad (013)",101,1,18,30,32,15,5
+"Vivienda improvisada (015)",4,,,1,1,1,1
+"Local no destinado para hab.humana (016)",11,,3,5,2,1,
+,,,,,,,
+"RURAL (018)",2937,36,763,715,631,502,290
+"Casa independiente (019)",2647,33,688,656,579,434,257
+"Choza o cabaña (023)",289,3,75,59,52,68,32
+"Local no destinado para hab.humana (025)",1,,,,,,1

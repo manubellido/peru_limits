@@ -1,0 +1,32 @@
+"CUADRO Nº 13: POBLACIÓN FEMENINA DE 12 Y MÁS AÑOS DE EDAD, POR EDAD QUE TENÍA CUANDO NACIÓ SU PRIMER HIJO(A) NACIDO VIVO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y NIVEL EDUCATIVO ALCANZADO",,,,,,,,,,,
+,,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL; Y NIVEL EDUCATIVO ALCANZADO",TOTAL,"EDAD QUE TENÍA CUANDO NACIÓ SU PRIMER HIJO",,,,,,,,,"NO ESPECIFICADO"
+,,"DE 12 A 14 AÑOS","DE 15 A 19 AÑOS","DE 20 A 24 AÑOS","DE 25 A 29 AÑOS","DE 30 A 34 AÑOS","DE 35 A 39 AÑOS","DE 40 A 44 AÑOS","DE 45 A 49 AÑOS","DE 50 A MÁS AÑOS",
+,,,,,,,,,,,
+"Provincia PURUS (000)",851,165,420,130,39,11,6,1,,,79
+"Sin Nivel (001)",272,51,143,45,7,2,2,,,,22
+"Educación Inicial (002)",1,,,1,,,,,,,
+"Primaria (003)",295,84,145,34,5,4,,,,,23
+"Secundaria (004)",197,29,107,32,7,1,1,1,,,19
+"Sup. no Univ. Incompleta (005)",28,1,15,5,2,,,,,,5
+"Sup. no Univ. Completa (006)",40,,8,11,12,2,2,,,,5
+"Sup. Univ. Incompleta (007)",6,,,1,3,1,,,,,1
+"Sup. Univ. Completa (008)",12,,2,1,3,1,1,,,,4
+,,,,,,,,,,,
+"URBANA (010)",285,26,122,58,25,8,5,1,,,40
+"Sin Nivel (011)",41,6,19,6,1,1,1,,,,7
+"Educación Inicial (012)",1,,,1,,,,,,,
+"Primaria (013)",77,14,35,12,4,3,,,,,9
+"Secundaria (014)",94,6,48,24,2,1,1,1,,,11
+"Sup. no Univ. Incompleta (015)",22,,12,3,2,,,,,,5
+"Sup. no Univ. Completa (016)",33,,6,10,10,1,2,,,,4
+"Sup. Univ. Incompleta (017)",6,,,1,3,1,,,,,1
+"Sup. Univ. Completa (018)",11,,2,1,3,1,1,,,,3
+,,,,,,,,,,,
+"RURAL (020)",566,139,298,72,14,3,1,,,,39
+"Sin Nivel (021)",231,45,124,39,6,1,1,,,,15
+"Primaria (023)",218,70,110,22,1,1,,,,,14
+"Secundaria (024)",103,23,59,8,5,,,,,,8
+"Sup. no Univ. Incompleta (025)",6,1,3,2,,,,,,,
+"Sup. no Univ. Completa (026)",7,,2,1,2,1,,,,,1
+"Sup. Univ. Completa (028)",1,,,,,,,,,,1

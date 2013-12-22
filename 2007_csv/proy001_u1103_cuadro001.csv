@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia NAZCA (000)",19566,17163,15292,1339,532,2403,41,293,1948,121
+"Casa independiente (001)",17392,15334,13853,1059,422,2058,24,287,1637,110
+"Departamento en edificio (002)",207,128,115,13,,79,2,1,76,
+"Vivienda en quinta (003)",324,289,249,40,,35,14,1,17,3
+"Vivienda en casa de vecindad (004)",217,196,180,16,,21,1,4,15,1
+"Choza o cabaña (005)",644,508,349,57,102,136,,,136,
+"Vivienda improvisada (006)",626,552,390,154,8,74,,,67,7
+"Local no dest.para hab. humana (007)",32,32,32,,,,,,,
+"Otro tipo (008)",124,124,124,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",15812,14386,13245,1025,116,1426,38,238,1062,88
+"Casa independiente (010)",14284,13067,12157,802,108,1217,21,232,887,77
+"Departamento en edificio (011)",207,128,115,13,,79,2,1,76,
+"Vivienda en quinta (012)",324,289,249,40,,35,14,1,17,3
+"Vivienda en casa de vecindad (013)",217,196,180,16,,21,1,4,15,1
+"Vivienda improvisada (015)",626,552,390,154,8,74,,,67,7
+"Local no dest.para hab. humana (016)",31,31,31,,,,,,,
+"Otro tipo (017)",123,123,123,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",3754,2777,2047,314,416,977,3,55,886,33
+"Casa independiente (019)",3108,2267,1696,257,314,841,3,55,750,33
+"Choza o cabaña (023)",644,508,349,57,102,136,,,136,
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,
+"Otro tipo (026)",1,1,1,,,,,,,

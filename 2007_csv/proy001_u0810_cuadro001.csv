@@ -1,0 +1,26 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia PARURO (000)",10964,9809,8302,926,581,1155,7,99,996,53
+"Casa independiente (001)",9797,8719,7412,834,473,1078,7,96,925,50
+"Vivienda en casa de vecindad (004)",30,23,22,1,,7,,3,4,
+"Choza o cabaña (005)",1108,1048,859,81,108,60,,,58,2
+"Vivienda improvisada (006)",20,10,,10,,10,,,9,1
+"Local no dest.para hab. humana (007)",7,7,7,,,,,,,
+"Otro tipo (008)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",3983,3475,2987,381,107,508,3,34,461,10
+"Casa independiente (010)",3927,3436,2959,370,107,491,3,31,448,9
+"Vivienda en casa de vecindad (013)",30,23,22,1,,7,,3,4,
+"Vivienda improvisada (015)",20,10,,10,,10,,,9,1
+"Local no dest.para hab. humana (016)",5,5,5,,,,,,,
+"Otro tipo (017)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",6981,6334,5315,545,474,647,4,65,535,43
+"Casa independiente (019)",5870,5283,4453,464,366,587,4,65,477,41
+"Choza o cabaña (023)",1108,1048,859,81,108,60,,,58,2
+"Local no dest.para hab. humana (025)",2,2,2,,,,,,,
+"Otro tipo (026)",1,1,1,,,,,,,

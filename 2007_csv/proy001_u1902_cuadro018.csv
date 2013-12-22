@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia DANIEL ALCIDES CARRION (000)",10984,6446,4538
+"Red pública de desague dentro de la vivienda (001)",659,583,76
+"Red pública de desague fuera de la vivienda (002)",621,523,98
+"Pozo séptico (003)",412,246,166
+"Pozo ciego o negro / letrina (004)",1751,1083,668
+"Río, acequia o canal (005)",228,161,67
+"No tiene (006)",7313,3850,3463
+,,,
+"URBANA (008)",6558,4549,2009
+"Red pública de desague dentro de la vivienda (009)",640,571,69
+"Red pública de desague fuera de la vivienda (010)",585,492,93
+"Pozo séptico (011)",163,115,48
+"Pozo ciego o negro / letrina (012)",308,222,86
+"Río, acequia o canal (013)",166,131,35
+"No tiene (014)",4696,3018,1678
+,,,
+"RURAL (016)",4426,1897,2529
+"Red pública de desague dentro de la vivienda (017)",19,12,7
+"Red pública de desague fuera de la vivienda (018)",36,31,5
+"Pozo séptico (019)",249,131,118
+"Pozo ciego o negro / letrina (020)",1443,861,582
+"Río, acequia o canal (021)",62,30,32
+"No tiene (022)",2617,832,1785

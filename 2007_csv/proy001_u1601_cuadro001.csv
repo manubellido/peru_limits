@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia MAYNAS (000)",102972,99797,96113,3244,440,3175,350,580,2066,179
+"Casa independiente (001)",83685,81482,79437,1865,180,2203,180,573,1327,123
+"Departamento en edificio (002)",608,581,534,46,1,27,17,,10,
+"Vivienda en quinta (003)",3986,3738,3447,267,24,248,152,6,77,13
+"Vivienda en casa de vecindad (004)",413,401,381,20,,12,1,1,10,
+"Choza o cabaña (005)",13376,12769,11567,974,228,607,,,579,28
+"Vivienda improvisada (006)",728,650,571,72,7,78,,,63,15
+"Local no dest.para hab. humana (007)",139,139,139,,,,,,,
+"Otro tipo (008)",37,37,37,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",81102,78865,76743,1954,168,2237,343,391,1362,141
+"Casa independiente (010)",75211,73339,71654,1549,136,1872,173,384,1202,113
+"Departamento en edificio (011)",608,581,534,46,1,27,17,,10,
+"Vivienda en quinta (012)",3986,3738,3447,267,24,248,152,6,77,13
+"Vivienda en casa de vecindad (013)",413,401,381,20,,12,1,1,10,
+"Vivienda improvisada (015)",728,650,571,72,7,78,,,63,15
+"Local no dest.para hab. humana (016)",124,124,124,,,,,,,
+"Otro tipo (017)",32,32,32,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",21870,20932,19370,1290,272,938,7,189,704,38
+"Casa independiente (019)",8474,8143,7783,316,44,331,7,189,125,10
+"Choza o cabaña (023)",13376,12769,11567,974,228,607,,,579,28
+"Local no dest.para hab. humana (025)",15,15,15,,,,,,,
+"Otro tipo (026)",5,5,5,,,,,,,

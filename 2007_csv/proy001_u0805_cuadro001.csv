@@ -1,0 +1,24 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CANAS (000)",15495,14174,10007,1273,2894,1321,12,182,1106,21
+"Casa independiente (001)",12531,11367,8784,971,1612,1164,10,181,958,15
+"Vivienda en quinta (003)",3,3,3,,,,,,,
+"Vivienda en casa de vecindad (004)",242,237,200,33,4,5,2,1,2,
+"Choza o cabaña (005)",2712,2560,1017,265,1278,152,,,146,6
+"Vivienda improvisada (006)",5,5,1,4,,,,,,
+"Local no dest.para hab. humana (007)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",2509,2228,1751,396,81,281,6,55,215,5
+"Casa independiente (010)",2257,1981,1545,359,77,276,4,54,213,5
+"Vivienda en quinta (012)",3,3,3,,,,,,,
+"Vivienda en casa de vecindad (013)",242,237,200,33,4,5,2,1,2,
+"Vivienda improvisada (015)",5,5,1,4,,,,,,
+"Local no dest.para hab. humana (016)",2,2,2,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",12986,11946,8256,877,2813,1040,6,127,891,16
+"Casa independiente (019)",10274,9386,7239,612,1535,888,6,127,745,10
+"Choza o cabaña (023)",2712,2560,1017,265,1278,152,,,146,6

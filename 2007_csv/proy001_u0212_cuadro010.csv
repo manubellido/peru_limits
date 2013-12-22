@@ -1,0 +1,64 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia HUAYLAS",,,
+"Viviendas particulares (001)",8668,8321,347
+"Ocupantes presentes (002)",37718,36236,1482
+"Casa independiente",,,
+"Viviendas particulares (004)",8548,8201,347
+"Ocupantes presentes (005)",37295,35813,1482
+"Departamento en edificio",,,
+"Viviendas particulares (007)",28,28,
+"Ocupantes presentes (008)",99,99,
+"Vivienda en quinta",,,
+"Viviendas particulares (010)",45,45,
+"Ocupantes presentes (011)",153,153,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",42,42,
+"Ocupantes presentes (014)",156,156,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (022)",5,5,
+"Ocupantes presentes (023)",15,15,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",3790,3695,95
+"Ocupantes presentes (029)",15780,15373,407
+"Casa independiente",,,
+"Viviendas particulares (031)",3673,3578,95
+"Ocupantes presentes (032)",15365,14958,407
+"Departamento en edificio",,,
+"Viviendas particulares (034)",28,28,
+"Ocupantes presentes (035)",99,99,
+"Vivienda en quinta",,,
+"Viviendas particulares (037)",45,45,
+"Ocupantes presentes (038)",153,153,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",42,42,
+"Ocupantes presentes (041)",156,156,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (049)",2,2,
+"Ocupantes presentes (050)",7,7,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",4878,4626,252
+"Ocupantes presentes (056)",21938,20863,1075
+"Casa independiente",,,
+"Viviendas particulares (058)",4875,4623,252
+"Ocupantes presentes (059)",21930,20855,1075
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (076)",3,3,
+"Ocupantes presentes (077)",8,8,
+"Otro tipo",,,

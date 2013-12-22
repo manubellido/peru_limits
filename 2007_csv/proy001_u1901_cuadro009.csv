@@ -1,0 +1,78 @@
+"CUADRO Nº 9: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR TIPO DE ABASTECIMIENTO DE AGUA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"TIPO DE ABASTECIMIENTO DE AGUA",,,,,,,
+,,"RED PÚBLICA DENTRO DE LA VIVIENDA (AGUA POTABLE)","RED PÚBLICA FUERA DE LA VIVIENDA PERO DENTRO DE LA EDIFICACIÓN (AGUA POTABLE)","PILÓN DE USO PÚBLICO (AGUA POTABLE)","CAMIÓN-CISTERNA U OTRO SIMILAR",POZO,"RÍO, ACEQUIA, MANANTIAL O SIMILAR",VECINO,OTRO
+,,,,,,,,,
+"Provincia PASCO",,,,,,,,,
+"Viviendas particulares (001)",34693,11570,4704,1504,277,850,13758,1323,707
+"Ocupantes presentes (002)",144874,49583,20180,6264,1116,3259,56567,5117,2788
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (004)",30276,9944,3956,1383,265,748,12082,1223,675
+"Ocupantes presentes (005)",128086,43101,17377,5758,1078,2949,50413,4733,2677
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (007)",721,639,72,,,,,10,
+"Ocupantes presentes (008)",3006,2637,321,,,,,48,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (010)",1080,696,332,,,,,52,
+"Ocupantes presentes (011)",4010,2607,1203,,,,,200,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (013)",1258,258,333,65,8,6,542,28,18
+"Ocupantes presentes (014)",4763,1125,1237,266,26,20,1917,113,59
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (016)",1231,,,45,,94,1081,,11
+"Ocupantes presentes (017)",4584,,,217,,284,4042,,41
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (019)",45,11,7,5,2,,17,2,1
+"Ocupantes presentes (020)",174,35,33,9,10,,80,4,3
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (022)",58,22,4,5,2,2,16,6,1
+"Ocupantes presentes (023)",180,78,9,13,2,6,54,13,5
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (025)",24,,,1,,,20,2,1
+"Ocupantes presentes (026)",71,,,1,,,61,6,3
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Viviendas particulares (028)",26737,11063,4424,1027,244,563,7491,1272,653
+"Ocupantes presentes (029)",110696,47349,18818,4132,978,2211,29681,4940,2587
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (031)",23570,9438,3678,951,233,555,6910,1172,633
+"Ocupantes presentes (032)",98572,40875,16022,3843,941,2185,27630,4556,2520
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (034)",721,639,72,,,,,10,
+"Ocupantes presentes (035)",3006,2637,321,,,,,48,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (037)",1080,696,332,,,,,52,
+"Ocupantes presentes (038)",4010,2607,1203,,,,,200,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (040)",1258,258,333,65,8,6,542,28,18
+"Ocupantes presentes (041)",4763,1125,1237,266,26,20,1917,113,59
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (046)",45,11,7,5,2,,17,2,1
+"Ocupantes presentes (047)",174,35,33,9,10,,80,4,3
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (049)",47,21,2,5,1,2,9,6,1
+"Ocupantes presentes (050)",137,70,2,13,1,6,27,13,5
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (052)",16,,,1,,,13,2,
+"Ocupantes presentes (053)",34,,,1,,,27,6,
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Viviendas particulares (055)",7956,507,280,477,33,287,6267,51,54
+"Ocupantes presentes (056)",34178,2234,1362,2132,138,1048,26886,177,201
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (058)",6706,506,278,432,32,193,5172,51,42
+"Ocupantes presentes (059)",29514,2226,1355,1915,137,764,22783,177,157
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (070)",1231,,,45,,94,1081,,11
+"Ocupantes presentes (071)",4584,,,217,,284,4042,,41
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (076)",11,1,2,,1,,7,,
+"Ocupantes presentes (077)",43,8,7,,1,,27,,
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (079)",8,,,,,,7,,1
+"Ocupantes presentes (080)",37,,,,,,34,,3

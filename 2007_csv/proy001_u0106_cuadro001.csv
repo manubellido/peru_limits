@@ -1,0 +1,28 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia RODRIGUEZ DE MENDOZA (000)",8941,8360,6801,523,1036,581,25,138,392,26
+"Casa independiente (001)",8690,8133,6744,489,900,557,25,138,368,26
+"Vivienda en quinta (003)",20,20,18,2,,,,,,
+"Vivienda en casa de vecindad (004)",2,2,2,,,,,,,
+"Choza o cabaña (005)",215,193,30,27,136,22,,,22,
+"Vivienda improvisada (006)",9,7,2,5,,2,,,2,
+"Local no dest.para hab. humana (007)",3,3,3,,,,,,,
+"Otro tipo (008)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",2647,2494,2273,131,90,153,13,50,85,5
+"Casa independiente (010)",2613,2462,2248,124,90,151,13,50,83,5
+"Vivienda en quinta (012)",20,20,18,2,,,,,,
+"Vivienda en casa de vecindad (013)",2,2,2,,,,,,,
+"Vivienda improvisada (015)",9,7,2,5,,2,,,2,
+"Local no dest.para hab. humana (016)",2,2,2,,,,,,,
+"Otro tipo (017)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",6294,5866,4528,392,946,428,12,88,307,21
+"Casa independiente (019)",6077,5671,4496,365,810,406,12,88,285,21
+"Choza o cabaña (023)",215,193,30,27,136,22,,,22,
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,
+"Otro tipo (026)",1,1,1,,,,,,,

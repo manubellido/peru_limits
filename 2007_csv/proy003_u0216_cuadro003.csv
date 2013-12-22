@@ -1,0 +1,21 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia POMABAMBA (000)",27783,585,10184,6547,4583,3791,2093
+"Casa independiente (001)",27512,579,10081,6488,4536,3759,2069
+"Vivienda en quinta (003)",66,,22,17,20,7,
+"Vivienda en casa de vecindad (004)",46,1,16,11,8,7,3
+"Choza o cabaña (005)",148,4,62,29,16,17,20
+"Local no destinado para hab.humana (007)",11,1,3,2,3,1,1
+,,,,,,,
+"URBANA (009)",5971,111,1829,1533,1186,884,428
+"Casa independiente (010)",5848,109,1788,1503,1155,869,424
+"Vivienda en quinta (012)",66,,22,17,20,7,
+"Vivienda en casa de vecindad (013)",46,1,16,11,8,7,3
+"Local no destinado para hab.humana (016)",11,1,3,2,3,1,1
+,,,,,,,
+"RURAL (018)",21812,474,8355,5014,3397,2907,1665
+"Casa independiente (019)",21664,470,8293,4985,3381,2890,1645
+"Choza o cabaña (023)",148,4,62,29,16,17,20

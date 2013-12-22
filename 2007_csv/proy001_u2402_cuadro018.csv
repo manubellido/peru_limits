@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CONTRALMIRANTE VILLAR (000)",4113,3137,976
+"Red pública de desague dentro de la vivienda (001)",876,841,35
+"Red pública de desague fuera de la vivienda (002)",157,147,10
+"Pozo séptico (003)",444,370,74
+"Pozo ciego o negro / letrina (004)",929,733,196
+"Río, acequia o canal (005)",19,12,7
+"No tiene (006)",1688,1034,654
+,,,
+"URBANA (008)",3062,2574,488
+"Red pública de desague dentro de la vivienda (009)",869,836,33
+"Red pública de desague fuera de la vivienda (010)",149,140,9
+"Pozo séptico (011)",326,282,44
+"Pozo ciego o negro / letrina (012)",483,428,55
+"Río, acequia o canal (013)",11,9,2
+"No tiene (014)",1224,879,345
+,,,
+"RURAL (016)",1051,563,488
+"Red pública de desague dentro de la vivienda (017)",7,5,2
+"Red pública de desague fuera de la vivienda (018)",8,7,1
+"Pozo séptico (019)",118,88,30
+"Pozo ciego o negro / letrina (020)",446,305,141
+"Río, acequia o canal (021)",8,3,5
+"No tiene (022)",464,155,309

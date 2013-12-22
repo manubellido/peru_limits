@@ -1,0 +1,27 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia HUALGAYOC (000)",88199,1622,28735,23993,15959,11886,6004
+"Casa independiente (001)",85654,1545,27913,23169,15495,11617,5915
+"Departamento en edificio (002)",179,4,40,57,55,20,3
+"Vivienda en quinta (003)",331,8,91,117,73,34,8
+"Vivienda en casa de vecindad (004)",562,18,151,204,109,59,21
+"Choza o cabaña (005)",1459,47,536,441,225,153,57
+"Vivienda improvisada (006)",3,,,1,,2,
+"Local no destinado para hab.humana (007)",7,,2,3,1,1,
+"Otro tipo (008)",4,,2,1,1,,
+,,,,,,,
+"URBANA (009)",19077,342,5516,5412,3905,2775,1127
+"Casa independiente (010)",17991,312,5230,5029,3666,2659,1095
+"Departamento en edificio (011)",179,4,40,57,55,20,3
+"Vivienda en quinta (012)",331,8,91,117,73,34,8
+"Vivienda en casa de vecindad (013)",562,18,151,204,109,59,21
+"Vivienda improvisada (015)",3,,,1,,2,
+"Local no destinado para hab.humana (016)",7,,2,3,1,1,
+"Otro tipo (017)",4,,2,1,1,,
+,,,,,,,
+"RURAL (018)",69122,1280,23219,18581,12054,9111,4877
+"Casa independiente (019)",67663,1233,22683,18140,11829,8958,4820
+"Choza o cabaña (023)",1459,47,536,441,225,153,57

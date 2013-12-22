@@ -1,0 +1,28 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia MARISCAL NIETO (000)",71151,1056,16798,19303,16642,12195,5157
+"Casa independiente (001)",63701,938,14861,17022,14986,11124,4770
+"Departamento en edificio (002)",684,12,151,175,205,125,16
+"Vivienda en quinta (003)",219,1,62,64,48,35,9
+"Vivienda en casa de vecindad (004)",207,3,42,71,41,34,16
+"Choza o cabaña (005)",2311,25,516,584,481,472,233
+"Vivienda improvisada (006)",3951,77,1155,1355,864,389,111
+"Local no destinado para hab.humana (007)",58,,11,27,9,10,1
+"Otro tipo (008)",20,,,5,8,6,1
+,,,,,,,
+"URBANA (009)",61771,944,14786,17026,14623,10303,4089
+"Casa independiente (010)",56647,851,13365,15334,13454,9708,3935
+"Departamento en edificio (011)",684,12,151,175,205,125,16
+"Vivienda en quinta (012)",219,1,62,64,48,35,9
+"Vivienda en casa de vecindad (013)",207,3,42,71,41,34,16
+"Vivienda improvisada (015)",3951,77,1155,1355,864,389,111
+"Local no destinado para hab.humana (016)",58,,11,27,9,10,1
+"Otro tipo (017)",5,,,,2,2,1
+,,,,,,,
+"RURAL (018)",9380,112,2012,2277,2019,1892,1068
+"Casa independiente (019)",7054,87,1496,1688,1532,1416,835
+"Choza o cabaña (023)",2311,25,516,584,481,472,233
+"Otro tipo (026)",15,,,5,6,4,

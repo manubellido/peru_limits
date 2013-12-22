@@ -1,0 +1,29 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia HUAMALIES (000)",21420,19594,15352,1340,2902,1826,47,328,1297,154
+"Casa independiente (001)",20100,18370,14516,1231,2623,1730,47,328,1208,147
+"Departamento en edificio (002)",3,3,3,,,,,,,
+"Vivienda en quinta (003)",29,29,29,,,,,,,
+"Vivienda en casa de vecindad (004)",65,59,58,1,,6,,,6,
+"Choza o cabaña (005)",1181,1097,727,98,272,84,,,78,6
+"Vivienda improvisada (006)",32,26,9,10,7,6,,,5,1
+"Local no dest.para hab. humana (007)",8,8,8,,,,,,,
+"Otro tipo (008)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",5244,4820,4208,370,242,424,17,110,269,28
+"Casa independiente (010)",5111,4699,4105,359,235,412,17,110,258,27
+"Departamento en edificio (011)",3,3,3,,,,,,,
+"Vivienda en quinta (012)",29,29,29,,,,,,,
+"Vivienda en casa de vecindad (013)",65,59,58,1,,6,,,6,
+"Vivienda improvisada (015)",32,26,9,10,7,6,,,5,1
+"Local no dest.para hab. humana (016)",4,4,4,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",16176,14774,11144,970,2660,1402,30,218,1028,126
+"Casa independiente (019)",14989,13671,10411,872,2388,1318,30,218,950,120
+"Choza o cabaña (023)",1181,1097,727,98,272,84,,,78,6
+"Local no dest.para hab. humana (025)",4,4,4,,,,,,,
+"Otro tipo (026)",2,2,2,,,,,,,

@@ -1,0 +1,23 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia HUACAYBAMBA (000)",5980,5557,4433,593,531,423,21,93,280,29
+"Casa independiente (001)",5887,5469,4373,587,509,418,21,93,275,29
+"Vivienda en quinta (003)",2,2,2,,,,,,,
+"Choza o cabaña (005)",86,81,56,5,20,5,,,5,
+"Vivienda improvisada (006)",3,3,,1,2,,,,,
+"Local no dest.para hab. humana (007)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",1027,976,852,93,31,51,6,24,21,
+"Casa independiente (010)",1021,970,849,92,29,51,6,24,21,
+"Vivienda en quinta (012)",2,2,2,,,,,,,
+"Vivienda improvisada (015)",3,3,,1,2,,,,,
+"Local no dest.para hab. humana (016)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",4953,4581,3581,500,500,372,15,69,259,29
+"Casa independiente (019)",4866,4499,3524,495,480,367,15,69,254,29
+"Choza o cabaña (023)",86,81,56,5,20,5,,,5,
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,

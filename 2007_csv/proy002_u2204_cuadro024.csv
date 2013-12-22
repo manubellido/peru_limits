@@ -1,0 +1,70 @@
+"CUADRO Nº 6: TOTAL DE HOGARES EN VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR PERSONAS QUE PERTENECÍAN AL HOGAR Y AHORA VIVEN PERMANENTEMENTE EN OTRO PAÍS, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO Y PROVINCIA, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE PERSONAS QUE VIVEN PERMANENTEMENTE EN OTRO PAÍS",,,,,,,NINGUNA
+,,1,2,3,4,5,6,"7 Y MÁS",
+,,,,,,,,,
+"Provincia HUALLAGA",,,,,,,,,
+"Hogares (001)",6101,183,75,46,23,23,10,13,5728
+"Ocupantes presentes (002)",24441,671,265,154,94,86,47,65,23059
+"Casa independiente",,,,,,,,,
+"Hogares (004)",5145,167,68,42,23,23,10,13,4799
+"Ocupantes presentes (005)",20841,602,235,144,94,86,47,65,19568
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Hogares (010)",44,4,1,1,,,,,38
+"Ocupantes presentes (011)",139,21,3,3,,,,,112
+"Vivienda en casa de vecindad",,,,,,,,,
+"Hogares (013)",25,2,1,,,,,,22
+"Ocupantes presentes (014)",117,11,5,,,,,,101
+"Choza o cabaña",,,,,,,,,
+"Hogares (016)",875,10,5,3,,,,,857
+"Ocupantes presentes (017)",3302,37,22,7,,,,,3236
+"Vivienda improvisada",,,,,,,,,
+"Hogares (019)",2,,,,,,,,2
+"Ocupantes presentes (020)",10,,,,,,,,10
+"Local no dest.para hab. humana",,,,,,,,,
+"Hogares (022)",6,,,,,,,,6
+"Ocupantes presentes (023)",22,,,,,,,,22
+"Otro tipo",,,,,,,,,
+"Hogares (025)",4,,,,,,,,4
+"Ocupantes presentes (026)",10,,,,,,,,10
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Hogares (028)",3371,161,64,39,23,21,7,12,3044
+"Ocupantes presentes (029)",13274,593,221,135,94,76,29,57,12069
+"Casa independiente",,,,,,,,,
+"Hogares (031)",3290,155,62,38,23,21,7,12,2972
+"Ocupantes presentes (032)",12976,561,213,132,94,76,29,57,11814
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Hogares (037)",44,4,1,1,,,,,38
+"Ocupantes presentes (038)",139,21,3,3,,,,,112
+"Vivienda en casa de vecindad",,,,,,,,,
+"Hogares (040)",25,2,1,,,,,,22
+"Ocupantes presentes (041)",117,11,5,,,,,,101
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Hogares (046)",2,,,,,,,,2
+"Ocupantes presentes (047)",10,,,,,,,,10
+"Local no dest.para hab. humana",,,,,,,,,
+"Hogares (049)",6,,,,,,,,6
+"Ocupantes presentes (050)",22,,,,,,,,22
+"Otro tipo",,,,,,,,,
+"Hogares (052)",4,,,,,,,,4
+"Ocupantes presentes (053)",10,,,,,,,,10
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Hogares (055)",2730,22,11,7,,2,3,1,2684
+"Ocupantes presentes (056)",11167,78,44,19,,10,18,8,10990
+"Casa independiente",,,,,,,,,
+"Hogares (058)",1855,12,6,4,,2,3,1,1827
+"Ocupantes presentes (059)",7865,41,22,12,,10,18,8,7754
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Hogares (070)",875,10,5,3,,,,,857
+"Ocupantes presentes (071)",3302,37,22,7,,,,,3236
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Otro tipo",,,,,,,,,

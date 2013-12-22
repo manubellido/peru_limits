@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia ZARUMILLA (000)",10243,7753,2490
+"Red pública de desague dentro de la vivienda (001)",4083,3864,219
+"Red pública de desague fuera de la vivienda (002)",513,445,68
+"Pozo séptico (003)",435,313,122
+"Pozo ciego o negro / letrina (004)",1987,1431,556
+"Río, acequia o canal (005)",74,47,27
+"No tiene (006)",3151,1653,1498
+,,,
+"URBANA (008)",9281,7179,2102
+"Red pública de desague dentro de la vivienda (009)",4080,3862,218
+"Red pública de desague fuera de la vivienda (010)",509,443,66
+"Pozo séptico (011)",414,297,117
+"Pozo ciego o negro / letrina (012)",1336,974,362
+"Río, acequia o canal (013)",72,45,27
+"No tiene (014)",2870,1558,1312
+,,,
+"RURAL (016)",962,574,388
+"Red pública de desague dentro de la vivienda (017)",3,2,1
+"Red pública de desague fuera de la vivienda (018)",4,2,2
+"Pozo séptico (019)",21,16,5
+"Pozo ciego o negro / letrina (020)",651,457,194
+"Río, acequia o canal (021)",2,2,
+"No tiene (022)",281,95,186

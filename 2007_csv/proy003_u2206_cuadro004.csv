@@ -1,0 +1,106 @@
+"CUADRO Nº 4: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y PARENTESCO CON EL JEFE DEL HOGAR",,,,,,,
+,,,,,,,
+"PROVINCIA, DISTRITO, ÁREA, URBANA Y RURAL, SEXO Y PARENTESCO CON EL JEFE DEL HOGAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia MARISCAL CACERES (000)",50139,1131,16660,13089,10215,6754,2290
+"Jefe o Jefa (001)",12267,,23,2113,5029,3857,1245
+"Esposa(o) / compañera(o) (002)",8441,,33,2531,3433,2015,429
+"Hijo(a) / hijastro(a) (003)",20530,745,13101,5725,796,160,3
+"Yerno / nuera (004)",748,,21,526,168,31,2
+"Nieto(a) (005)",2482,262,1858,341,19,2,
+"Padres / suegros (006)",683,,,,22,207,454
+"Otro(a) pariente (007)",3914,113,1480,1341,547,307,126
+"Trabajador(a) del hogar (008)",113,,8,87,12,4,2
+"Pensionistas (009)",88,,7,46,19,13,3
+"Otro(a) no pariente (010)",873,11,129,379,170,158,26
+"Hombres (011)",26380,611,8597,6771,5493,3770,1138
+"Jefe o Jefa (012)",10034,,12,1702,4252,3161,907
+"Esposa(o) / compañera(o) (013)",340,,10,99,125,89,17
+"Hijo(a) / hijastro(a) (014)",11224,405,6732,3499,499,88,1
+"Yerno / nuera (015)",309,,5,168,110,26,
+"Nieto(a) (016)",1355,136,988,222,9,,
+"Padres / suegros (017)",230,,,,10,82,138
+"Otro(a) pariente (018)",2242,65,780,804,351,186,56
+"Trabajador(a) del hogar (019)",14,,,12,1,1,
+"Pensionistas (020)",62,,4,30,13,12,3
+"Otro(a) no pariente (021)",570,5,66,235,123,125,16
+"Mujeres (022)",23759,520,8063,6318,4722,2984,1152
+"Jefe o Jefa (023)",2233,,11,411,777,696,338
+"Esposa(o) / compañera(o) (024)",8101,,23,2432,3308,1926,412
+"Hijo(a) / hijastro(a) (025)",9306,340,6369,2226,297,72,2
+"Yerno / nuera (026)",439,,16,358,58,5,2
+"Nieto(a) (027)",1127,126,870,119,10,2,
+"Padres / suegros (028)",453,,,,12,125,316
+"Otro(a) pariente (029)",1672,48,700,537,196,121,70
+"Trabajador(a) del hogar (030)",99,,8,75,11,3,2
+"Pensionistas (031)",26,,3,16,6,1,
+"Otro(a) no pariente (032)",303,6,63,144,47,33,10
+,,,,,,,
+"URBANA (033)",30883,672,9681,8081,6425,4432,1592
+"Jefe o Jefa (034)",7468,,17,1096,3014,2494,847
+"Esposa(o) / compañera(o) (035)",5062,,18,1225,2180,1336,303
+"Hijo(a) / hijastro(a) (036)",12402,416,7326,3924,604,131,1
+"Yerno / nuera (037)",542,,13,369,132,26,2
+"Nieto(a) (038)",1845,191,1363,275,14,2,
+"Padres / suegros (039)",482,,,,18,141,323
+"Otro(a) pariente (040)",2327,56,828,816,335,199,93
+"Trabajador(a) del hogar (041)",102,,8,78,11,3,2
+"Pensionistas (042)",59,,7,32,11,6,3
+"Otro(a) no pariente (043)",594,9,101,266,106,94,18
+"Hombres (044)",15582,366,4951,3978,3203,2335,749
+"Jefe o Jefa (045)",5705,,8,772,2392,1939,594
+"Esposa(o) / compañera(o) (046)",243,,7,66,90,67,13
+"Hijo(a) / hijastro(a) (047)",6605,231,3743,2217,341,72,1
+"Yerno / nuera (048)",237,,4,122,89,22,
+"Nieto(a) (049)",987,99,712,170,6,,
+"Padres / suegros (050)",147,,,,7,48,92
+"Otro(a) pariente (051)",1262,31,424,456,204,111,36
+"Trabajador(a) del hogar (052)",11,,,10,1,,
+"Pensionistas (053)",34,,4,17,5,5,3
+"Otro(a) no pariente (054)",351,5,49,148,68,71,10
+"Mujeres (055)",15301,306,4730,4103,3222,2097,843
+"Jefe o Jefa (056)",1763,,9,324,622,555,253
+"Esposa(o) / compañera(o) (057)",4819,,11,1159,2090,1269,290
+"Hijo(a) / hijastro(a) (058)",5797,185,3583,1707,263,59,
+"Yerno / nuera (059)",305,,9,247,43,4,2
+"Nieto(a) (060)",858,92,651,105,8,2,
+"Padres / suegros (061)",335,,,,11,93,231
+"Otro(a) pariente (062)",1065,25,404,360,131,88,57
+"Trabajador(a) del hogar (063)",91,,8,68,10,3,2
+"Pensionistas (064)",25,,3,15,6,1,
+"Otro(a) no pariente (065)",243,4,52,118,38,23,8
+,,,,,,,
+"RURAL (066)",19256,459,6979,5008,3790,2322,698
+"Jefe o Jefa (067)",4799,,6,1017,2015,1363,398
+"Esposa(o) / compañera(o) (068)",3379,,15,1306,1253,679,126
+"Hijo(a) / hijastro(a) (069)",8128,329,5775,1801,192,29,2
+"Yerno / nuera (070)",206,,8,157,36,5,
+"Nieto(a) (071)",637,71,495,66,5,,
+"Padres / suegros (072)",201,,,,4,66,131
+"Otro(a) pariente (073)",1587,57,652,525,212,108,33
+"Trabajador(a) del hogar (074)",11,,,9,1,1,
+"Pensionistas (075)",29,,,14,8,7,
+"Otro(a) no pariente (076)",279,2,28,113,64,64,8
+"Hombres (077)",10798,245,3646,2793,2290,1435,389
+"Jefe o Jefa (078)",4329,,4,930,1860,1222,313
+"Esposa(o) / compañera(o) (079)",97,,3,33,35,22,4
+"Hijo(a) / hijastro(a) (080)",4619,174,2989,1282,158,16,
+"Yerno / nuera (081)",72,,1,46,21,4,
+"Nieto(a) (082)",368,37,276,52,3,,
+"Padres / suegros (083)",83,,,,3,34,46
+"Otro(a) pariente (084)",980,34,356,348,147,75,20
+"Trabajador(a) del hogar (085)",3,,,2,,1,
+"Pensionistas (086)",28,,,13,8,7,
+"Otro(a) no pariente (087)",219,,17,87,55,54,6
+"Mujeres (088)",8458,214,3333,2215,1500,887,309
+"Jefe o Jefa (089)",470,,2,87,155,141,85
+"Esposa(o) / compañera(o) (090)",3282,,12,1273,1218,657,122
+"Hijo(a) / hijastro(a) (091)",3509,155,2786,519,34,13,2
+"Yerno / nuera (092)",134,,7,111,15,1,
+"Nieto(a) (093)",269,34,219,14,2,,
+"Padres / suegros (094)",118,,,,1,32,85
+"Otro(a) pariente (095)",607,23,296,177,65,33,13
+"Trabajador(a) del hogar (096)",8,,,7,1,,
+"Pensionistas (097)",1,,,1,,,
+"Otro(a) no pariente (098)",60,2,11,26,9,10,2

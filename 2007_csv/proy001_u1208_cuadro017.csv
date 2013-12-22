@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia YAULI (000)",13427,11475,1952
+"Red pública dentro de la vivienda (001)",7240,6924,316
+"Red pública fuera de la vivienda (002)",2298,2133,165
+"Pilón de uso público (003)",986,847,139
+"Camión - cisterna u otro similar (004)",203,158,45
+"Pozo (005)",209,154,55
+"Río, acequia, manatial o similar (006)",2217,1048,1169
+"Vecino (007)",177,138,39
+"Otro (008)",97,73,24
+,,,
+"URBANA (010)",11405,10656,749
+"Red pública dentro de la vivienda (011)",6801,6549,252
+"Red pública fuera de la vivienda (012)",2198,2041,157
+"Pilón de uso público (013)",817,714,103
+"Camión - cisterna u otro similar (014)",203,158,45
+"Pozo (015)",125,116,9
+"Río, acequia, manatial o similar (016)",1007,876,131
+"Vecino (017)",169,133,36
+"Otro (018)",85,69,16
+,,,
+"RURAL (020)",2022,819,1203
+"Red pública dentro de la vivienda (021)",439,375,64
+"Red pública fuera de la vivienda (022)",100,92,8
+"Pilón de uso público (023)",169,133,36
+"Pozo (025)",84,38,46
+"Río, acequia, manatial o similar (026)",1210,172,1038
+"Vecino (027)",8,5,3
+"Otro (028)",12,4,8

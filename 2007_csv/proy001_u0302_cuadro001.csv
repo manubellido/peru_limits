@@ -1,0 +1,29 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia ANDAHUAYLAS (000)",50087,44123,35330,2886,5907,5964,72,628,4935,329
+"Casa independiente (001)",48027,42292,34100,2644,5548,5735,63,624,4745,303
+"Departamento en edificio (002)",241,239,227,9,3,2,2,,,
+"Vivienda en quinta (003)",139,136,128,2,6,3,1,1,,1
+"Vivienda en casa de vecindad (004)",393,369,309,40,20,24,6,3,13,2
+"Choza o cabaña (005)",1191,1005,506,175,324,186,,,165,21
+"Vivienda improvisada (006)",69,55,33,16,6,14,,,12,2
+"Local no dest.para hab. humana (007)",20,20,20,,,,,,,
+"Otro tipo (008)",7,7,7,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",18689,17340,15527,1204,609,1349,48,209,1016,76
+"Casa independiente (010)",17824,16518,14807,1137,574,1306,39,205,991,71
+"Departamento en edificio (011)",241,239,227,9,3,2,2,,,
+"Vivienda en quinta (012)",139,136,128,2,6,3,1,1,,1
+"Vivienda en casa de vecindad (013)",393,369,309,40,20,24,6,3,13,2
+"Vivienda improvisada (015)",69,55,33,16,6,14,,,12,2
+"Local no dest.para hab. humana (016)",16,16,16,,,,,,,
+"Otro tipo (017)",7,7,7,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",31398,26783,19803,1682,5298,4615,24,419,3919,253
+"Casa independiente (019)",30203,25774,19293,1507,4974,4429,24,419,3754,232
+"Choza o cabaña (023)",1191,1005,506,175,324,186,,,165,21
+"Local no dest.para hab. humana (025)",4,4,4,,,,,,,

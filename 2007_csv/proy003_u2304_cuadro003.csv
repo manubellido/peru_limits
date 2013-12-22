@@ -1,0 +1,24 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia TARATA (000)",7686,111,1759,1792,1546,1487,991
+"Casa independiente (001)",7395,107,1690,1703,1486,1442,967
+"Vivienda en casa de vecindad (004)",177,3,46,56,39,20,13
+"Choza o cabaña (005)",92,1,22,19,17,23,10
+"Vivienda improvisada (006)",11,,1,7,1,2,
+"Local no destinado para hab.humana (007)",10,,,7,2,,1
+"Otro tipo (008)",1,,,,1,,
+,,,,,,,
+"URBANA (009)",5995,87,1371,1411,1212,1147,767
+"Casa independiente (010)",5797,84,1324,1342,1169,1125,753
+"Vivienda en casa de vecindad (013)",177,3,46,56,39,20,13
+"Vivienda improvisada (015)",11,,1,7,1,2,
+"Local no destinado para hab.humana (016)",9,,,6,2,,1
+"Otro tipo (017)",1,,,,1,,
+,,,,,,,
+"RURAL (018)",1691,24,388,381,334,340,224
+"Casa independiente (019)",1598,23,366,361,317,317,214
+"Choza o cabaña (023)",92,1,22,19,17,23,10
+"Local no destinado para hab.humana (025)",1,,,1,,,

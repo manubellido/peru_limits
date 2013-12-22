@@ -1,0 +1,23 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia OYON (000)",18829,401,6305,4516,3525,2581,1501
+"Casa independiente (001)",17210,359,5759,4125,3212,2382,1373
+"Departamento en edificio (002)",78,3,15,25,15,15,5
+"Vivienda en quinta (003)",430,9,167,126,85,29,14
+"Vivienda en casa de vecindad (004)",491,15,194,120,110,38,14
+"Choza o cabaña (005)",596,14,161,114,98,116,93
+"Local no destinado para hab.humana (007)",24,1,9,6,5,1,2
+,,,,,,,
+"URBANA (009)",12942,301,4384,3182,2477,1642,956
+"Casa independiente (010)",11919,273,3999,2905,2262,1559,921
+"Departamento en edificio (011)",78,3,15,25,15,15,5
+"Vivienda en quinta (012)",430,9,167,126,85,29,14
+"Vivienda en casa de vecindad (013)",491,15,194,120,110,38,14
+"Local no destinado para hab.humana (016)",24,1,9,6,5,1,2
+,,,,,,,
+"RURAL (018)",5887,100,1921,1334,1048,939,545
+"Casa independiente (019)",5291,86,1760,1220,950,823,452
+"Choza o cabaña (023)",596,14,161,114,98,116,93

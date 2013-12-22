@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia MARISCAL CACERES (000)",14193,13729,11941,1392,396,464,47,103,290,24
+"Casa independiente (001)",10797,10451,9349,937,165,346,43,103,180,20
+"Departamento en edificio (002)",57,57,51,5,1,,,,,
+"Vivienda en quinta (003)",447,442,389,51,2,5,4,,1,
+"Vivienda en casa de vecindad (004)",58,57,56,1,,1,,,1,
+"Choza o cabaña (005)",2712,2607,1995,386,226,105,,,101,4
+"Vivienda improvisada (006)",92,85,71,12,2,7,,,7,
+"Local no dest.para hab. humana (007)",22,22,22,,,,,,,
+"Otro tipo (008)",8,8,8,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",8254,8024,7179,788,57,230,36,41,141,12
+"Casa independiente (010)",7578,7361,6590,719,52,217,32,41,132,12
+"Departamento en edificio (011)",57,57,51,5,1,,,,,
+"Vivienda en quinta (012)",447,442,389,51,2,5,4,,1,
+"Vivienda en casa de vecindad (013)",58,57,56,1,,1,,,1,
+"Vivienda improvisada (015)",92,85,71,12,2,7,,,7,
+"Local no dest.para hab. humana (016)",19,19,19,,,,,,,
+"Otro tipo (017)",3,3,3,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",5939,5705,4762,604,339,234,11,62,149,12
+"Casa independiente (019)",3219,3090,2759,218,113,129,11,62,48,8
+"Choza o cabaña (023)",2712,2607,1995,386,226,105,,,101,4
+"Local no dest.para hab. humana (025)",3,3,3,,,,,,,
+"Otro tipo (026)",5,5,5,,,,,,,

@@ -1,0 +1,50 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia CHACHAPOYAS",,,,,
+"Viviendas particulares (001)",480,129,85,132,134
+"Ocupantes presentes (002)",1943,471,376,578,518
+"Casa independiente",,,,,
+"Viviendas particulares (004)",469,125,85,128,131
+"Ocupantes presentes (005)",1894,456,376,568,494
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (013)",11,4,,4,3
+"Ocupantes presentes (014)",49,15,,10,24
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",180,37,23,42,78
+"Ocupantes presentes (029)",703,148,87,173,295
+"Casa independiente",,,,,
+"Viviendas particulares (031)",169,33,23,38,75
+"Ocupantes presentes (032)",654,133,87,163,271
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (040)",11,4,,4,3
+"Ocupantes presentes (041)",49,15,,10,24
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",300,92,62,90,56
+"Ocupantes presentes (056)",1240,323,289,405,223
+"Casa independiente",,,,,
+"Viviendas particulares (058)",300,92,62,90,56
+"Ocupantes presentes (059)",1240,323,289,405,223
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

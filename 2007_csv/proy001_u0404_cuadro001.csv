@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CASTILLA (000)",14701,13319,10664,1315,1340,1382,48,187,1070,77
+"Casa independiente (001)",13296,12022,9836,1080,1106,1274,47,184,972,71
+"Departamento en edificio (002)",28,28,27,1,,,,,,
+"Vivienda en quinta (003)",71,69,64,5,,2,,,2,
+"Vivienda en casa de vecindad (004)",454,437,391,42,4,17,1,3,12,1
+"Choza o cabaña (005)",779,697,285,185,227,82,,,79,3
+"Vivienda improvisada (006)",29,22,17,2,3,7,,,5,2
+"Local no dest.para hab. humana (007)",39,39,39,,,,,,,
+"Otro tipo (008)",5,5,5,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",7504,6892,6170,482,240,612,29,94,443,46
+"Casa independiente (010)",6900,6314,5649,432,233,586,28,91,424,43
+"Departamento en edificio (011)",28,28,27,1,,,,,,
+"Vivienda en quinta (012)",71,69,64,5,,2,,,2,
+"Vivienda en casa de vecindad (013)",454,437,391,42,4,17,1,3,12,1
+"Vivienda improvisada (015)",29,22,17,2,3,7,,,5,2
+"Local no dest.para hab. humana (016)",19,19,19,,,,,,,
+"Otro tipo (017)",3,3,3,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",7197,6427,4494,833,1100,770,19,93,627,31
+"Casa independiente (019)",6396,5708,4187,648,873,688,19,93,548,28
+"Choza o cabaña (023)",779,697,285,185,227,82,,,79,3
+"Local no dest.para hab. humana (025)",20,20,20,,,,,,,
+"Otro tipo (026)",2,2,2,,,,,,,
