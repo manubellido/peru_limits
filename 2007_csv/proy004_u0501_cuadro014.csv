@@ -1,0 +1,70 @@
+"CUADRO Nº 15: POBLACIÓN OCUPADA DE 6 Y MÁS AÑOS DE EDAD, POR NIVEL EDUCATIVO ALCANZADO, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y CATEGORÍA DE OCUPACIÓN",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y CATEGORIA DE OCUPACIÓN",TOTAL,"NIVEL EDUCATIVO ALCANZADO",,,,,,,
+,,"SIN NIVEL","EDUCACIÓN INICIAL",PRIMARIA,SECUNDARIA,"SUP. NO UNIV. INCOMPLETA","SUP. NO UNIV. COMPLETA","SUP. UNIV. INCOMPLETA","SUP. UNIV. COMPLETA"
+,,,,,,,,,
+"Provincia HUAMANGA (000)",71283,4496,120,16765,23508,3666,6418,4737,11573
+"Empleado (001)",21482,140,3,806,4131,1438,4029,2235,8700
+"Obrero (002)",9687,699,54,3390,4380,364,311,308,181
+"Trabajador independiente (003)",31604,2804,36,9555,11835,1521,1795,1795,2263
+"Empleador o patrono (004)",1247,53,1,251,396,65,94,130,257
+"Trabajador familiar no remunerado (005)",5723,697,23,2293,1979,184,150,236,161
+"Trabajador del hogar (006)",1540,103,3,470,787,94,39,33,11
+"Hombres (008)",43379,1767,72,10433,16100,2077,3088,3178,6664
+"Empleado (009)",11865,28,,395,2633,765,1821,1448,4775
+"Obrero (010)",8136,413,43,2759,3895,311,271,283,161
+"Trabajador independiente (011)",19868,1158,22,6033,8139,894,909,1244,1469
+"Empleador o patrono (012)",881,25,1,178,301,43,51,93,189
+"Trabajador familiar no remunerado (013)",2557,140,6,1047,1091,62,35,108,68
+"Trabajador del hogar (014)",72,3,,21,41,2,1,2,2
+"Mujeres (016)",27904,2729,48,6332,7408,1589,3330,1559,4909
+"Empleado (017)",9617,112,3,411,1498,673,2208,787,3925
+"Obrero (018)",1551,286,11,631,485,53,40,25,20
+"Trabajador independiente (019)",11736,1646,14,3522,3696,627,886,551,794
+"Empleador o patrono (020)",366,28,,73,95,22,43,37,68
+"Trabajador familiar no remunerado (021)",3166,557,17,1246,888,122,115,128,93
+"Trabajador del hogar (022)",1468,100,3,449,746,92,38,31,9
+,,,,,,,,,
+"URBANA (024)",57995,2317,42,10261,19455,3534,6289,4649,11448
+"Empleado (025)",21015,119,1,734,3937,1409,3969,2219,8627
+"Obrero (026)",7271,363,12,2135,3637,345,300,301,178
+"Trabajador independiente (027)",24004,1502,18,5758,9559,1457,1747,1741,2222
+"Empleador o patrono (028)",1067,29,1,159,337,64,92,129,256
+"Trabajador familiar no remunerado (029)",3174,211,7,1036,1230,167,142,227,154
+"Trabajador del hogar (030)",1464,93,3,439,755,92,39,32,11
+"Hombres (032)",33456,609,19,5460,12698,1995,3000,3105,6570
+"Empleado (033)",11575,24,,355,2496,754,1785,1437,4724
+"Obrero (034)",6150,212,7,1726,3217,293,260,277,158
+"Trabajador independiente (035)",13678,327,9,2839,6145,853,874,1195,1436
+"Empleador o patrono (036)",718,7,1,93,245,42,49,92,189
+"Trabajador familiar no remunerado (037)",1266,37,2,428,554,51,31,102,61
+"Trabajador del hogar (038)",69,2,,19,41,2,1,2,2
+"Mujeres (040)",24539,1708,23,4801,6757,1539,3289,1544,4878
+"Empleado (041)",9440,95,1,379,1441,655,2184,782,3903
+"Obrero (042)",1121,151,5,409,420,52,40,24,20
+"Trabajador independiente (043)",10326,1175,9,2919,3414,604,873,546,786
+"Empleador o patrono (044)",349,22,,66,92,22,43,37,67
+"Trabajador familiar no remunerado (045)",1908,174,5,608,676,116,111,125,93
+"Trabajador del hogar (046)",1395,91,3,420,714,90,38,30,9
+,,,,,,,,,
+"RURAL (048)",13288,2179,78,6504,4053,132,129,88,125
+"Empleado (049)",467,21,2,72,194,29,60,16,73
+"Obrero (050)",2416,336,42,1255,743,19,11,7,3
+"Trabajador independiente (051)",7600,1302,18,3797,2276,64,48,54,41
+"Empleador o patrono (052)",180,24,,92,59,1,2,1,1
+"Trabajador familiar no remunerado (053)",2549,486,16,1257,749,17,8,9,7
+"Trabajador del hogar (054)",76,10,,31,32,2,,1,
+"Hombres (056)",9923,1158,53,4973,3402,82,88,73,94
+"Empleado (057)",290,4,,40,137,11,36,11,51
+"Obrero (058)",1986,201,36,1033,678,18,11,6,3
+"Trabajador independiente (059)",6190,831,13,3194,1994,41,35,49,33
+"Empleador o patrono (060)",163,18,,85,56,1,2,1,
+"Trabajador familiar no remunerado (061)",1291,103,4,619,537,11,4,6,7
+"Trabajador del hogar (062)",3,1,,2,,,,,
+"Mujeres (064)",3365,1021,25,1531,651,50,41,15,31
+"Empleado (065)",177,17,2,32,57,18,24,5,22
+"Obrero (066)",430,135,6,222,65,1,,1,
+"Trabajador independiente (067)",1410,471,5,603,282,23,13,5,8
+"Empleador o patrono (068)",17,6,,7,3,,,,1
+"Trabajador familiar no remunerado (069)",1258,383,12,638,212,6,4,3,
+"Trabajador del hogar (070)",73,9,,29,32,2,,1,

@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia DANIEL ALCIDES CARRION (000)",12981,12354,10984,849,521,627,14,76,471,66
+"Casa independiente (001)",12145,11563,10278,776,509,582,14,74,434,60
+"Departamento en edificio (002)",7,7,6,,1,,,,,
+"Vivienda en quinta (003)",133,130,128,2,,3,,1,1,1
+"Vivienda en casa de vecindad (004)",141,130,115,12,3,11,,1,9,1
+"Choza o cabaña (005)",536,508,445,56,7,28,,,26,2
+"Vivienda improvisada (006)",7,4,,3,1,3,,,1,2
+"Local no dest.para hab. humana (007)",9,9,9,,,,,,,
+"Otro tipo (008)",3,3,3,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",7614,7275,6558,384,333,339,9,63,238,29
+"Casa independiente (010)",7321,6999,6304,367,328,322,9,61,227,25
+"Departamento en edificio (011)",7,7,6,,1,,,,,
+"Vivienda en quinta (012)",133,130,128,2,,3,,1,1,1
+"Vivienda en casa de vecindad (013)",141,130,115,12,3,11,,1,9,1
+"Vivienda improvisada (015)",7,4,,3,1,3,,,1,2
+"Local no dest.para hab. humana (016)",3,3,3,,,,,,,
+"Otro tipo (017)",2,2,2,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",5367,5079,4426,465,188,288,5,13,233,37
+"Casa independiente (019)",4824,4564,3974,409,181,260,5,13,207,35
+"Choza o cabaña (023)",536,508,445,56,7,28,,,26,2
+"Local no dest.para hab. humana (025)",6,6,6,,,,,,,
+"Otro tipo (026)",1,1,1,,,,,,,

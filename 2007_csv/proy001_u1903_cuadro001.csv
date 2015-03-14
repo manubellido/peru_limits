@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia OXAPAMPA (000)",21725,20855,19105,971,779,870,64,239,535,32
+"Casa independiente (001)",15968,15271,14004,608,659,697,46,238,383,30
+"Departamento en edificio (002)",64,64,62,2,,,,,,
+"Vivienda en quinta (003)",402,394,377,17,,8,7,1,,
+"Vivienda en casa de vecindad (004)",384,368,349,19,,16,11,,5,
+"Choza o cabaña (005)",4735,4589,4149,320,120,146,,,144,2
+"Vivienda improvisada (006)",97,94,89,5,,3,,,3,
+"Local no dest.para hab. humana (007)",47,47,47,,,,,,,
+"Otro tipo (008)",28,28,28,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",7657,7408,7036,336,36,249,36,82,118,13
+"Casa independiente (010)",6665,6443,6114,293,36,222,18,81,110,13
+"Departamento en edificio (011)",64,64,62,2,,,,,,
+"Vivienda en quinta (012)",402,394,377,17,,8,7,1,,
+"Vivienda en casa de vecindad (013)",384,368,349,19,,16,11,,5,
+"Vivienda improvisada (015)",97,94,89,5,,3,,,3,
+"Local no dest.para hab. humana (016)",25,25,25,,,,,,,
+"Otro tipo (017)",20,20,20,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",14068,13447,12069,635,743,621,28,157,417,19
+"Casa independiente (019)",9303,8828,7890,315,623,475,28,157,273,17
+"Choza o cabaña (023)",4735,4589,4149,320,120,146,,,144,2
+"Local no dest.para hab. humana (025)",22,22,22,,,,,,,
+"Otro tipo (026)",8,8,8,,,,,,,

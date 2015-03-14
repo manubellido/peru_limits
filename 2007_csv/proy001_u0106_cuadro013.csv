@@ -1,0 +1,46 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia RODRIGUEZ DE MENDOZA",,,,,
+"Viviendas particulares (001)",46,20,2,8,16
+"Ocupantes presentes (002)",177,70,5,29,73
+"Casa independiente",,,,,
+"Viviendas particulares (004)",46,20,2,8,16
+"Ocupantes presentes (005)",177,70,5,29,73
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",26,11,,5,10
+"Ocupantes presentes (029)",105,39,,18,48
+"Casa independiente",,,,,
+"Viviendas particulares (031)",26,11,,5,10
+"Ocupantes presentes (032)",105,39,,18,48
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",20,9,2,3,6
+"Ocupantes presentes (056)",72,31,5,11,25
+"Casa independiente",,,,,
+"Viviendas particulares (058)",20,9,2,3,6
+"Ocupantes presentes (059)",72,31,5,11,25
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

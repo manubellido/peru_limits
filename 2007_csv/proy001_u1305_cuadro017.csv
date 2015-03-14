@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia JULCAN (000)",8163,1643,6520
+"Red pública dentro de la vivienda (001)",960,212,748
+"Red pública fuera de la vivienda (002)",1232,644,588
+"Pilón de uso público (003)",379,115,264
+"Camión - cisterna u otro similar (004)",12,,12
+"Pozo (005)",2544,396,2148
+"Río, acequia, manatial o similar (006)",2689,169,2520
+"Vecino (007)",205,63,142
+"Otro (008)",142,44,98
+,,,
+"URBANA (010)",1356,792,564
+"Red pública dentro de la vivienda (011)",297,187,110
+"Red pública fuera de la vivienda (012)",486,372,114
+"Pilón de uso público (013)",14,10,4
+"Pozo (015)",285,129,156
+"Río, acequia, manatial o similar (016)",122,8,114
+"Vecino (017)",95,45,50
+"Otro (018)",57,41,16
+,,,
+"RURAL (020)",6807,851,5956
+"Red pública dentro de la vivienda (021)",663,25,638
+"Red pública fuera de la vivienda (022)",746,272,474
+"Pilón de uso público (023)",365,105,260
+"Camión - cisterna u otro similar (024)",12,,12
+"Pozo (025)",2259,267,1992
+"Río, acequia, manatial o similar (026)",2567,161,2406
+"Vecino (027)",110,18,92
+"Otro (028)",85,3,82

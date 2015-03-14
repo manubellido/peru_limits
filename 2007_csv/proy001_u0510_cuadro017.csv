@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia VICTOR FAJARDO (000)",7936,4398,3538
+"Red pública dentro de la vivienda (001)",3174,2315,859
+"Red pública fuera de la vivienda (002)",1102,650,452
+"Pilón de uso público (003)",119,91,28
+"Pozo (005)",221,100,121
+"Río, acequia, manatial o similar (006)",2653,1015,1638
+"Vecino (007)",606,206,400
+"Otro (008)",61,21,40
+,,,
+"URBANA (010)",5617,3674,1943
+"Red pública dentro de la vivienda (011)",2723,2059,664
+"Red pública fuera de la vivienda (012)",800,537,263
+"Pilón de uso público (013)",51,44,7
+"Pozo (015)",24,10,14
+"Río, acequia, manatial o similar (016)",1512,853,659
+"Vecino (017)",455,154,301
+"Otro (018)",52,17,35
+,,,
+"RURAL (020)",2319,724,1595
+"Red pública dentro de la vivienda (021)",451,256,195
+"Red pública fuera de la vivienda (022)",302,113,189
+"Pilón de uso público (023)",68,47,21
+"Pozo (025)",197,90,107
+"Río, acequia, manatial o similar (026)",1141,162,979
+"Vecino (027)",151,52,99
+"Otro (028)",9,4,5

@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia MARISCAL CACERES (000)",11941,6714,5227
+"Red pública dentro de la vivienda (001)",4115,3842,273
+"Red pública fuera de la vivienda (002)",2565,1932,633
+"Pilón de uso público (003)",82,36,46
+"Camión - cisterna u otro similar (004)",39,25,14
+"Pozo (005)",613,157,456
+"Río, acequia, manatial o similar (006)",4111,529,3582
+"Vecino (007)",351,165,186
+"Otro (008)",65,28,37
+,,,
+"URBANA (010)",7179,6067,1112
+"Red pública dentro de la vivienda (011)",3993,3774,219
+"Red pública fuera de la vivienda (012)",2260,1848,412
+"Pilón de uso público (013)",42,27,15
+"Camión - cisterna u otro similar (014)",39,25,14
+"Pozo (015)",183,80,103
+"Río, acequia, manatial o similar (016)",354,165,189
+"Vecino (017)",258,123,135
+"Otro (018)",50,25,25
+,,,
+"RURAL (020)",4762,647,4115
+"Red pública dentro de la vivienda (021)",122,68,54
+"Red pública fuera de la vivienda (022)",305,84,221
+"Pilón de uso público (023)",40,9,31
+"Pozo (025)",430,77,353
+"Río, acequia, manatial o similar (026)",3757,364,3393
+"Vecino (027)",93,42,51
+"Otro (028)",15,3,12

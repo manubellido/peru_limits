@@ -1,0 +1,29 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia HUANUCO (000)",267068,4668,87413,75786,48247,36180,14774
+"Casa independiente (001)",243473,4209,79968,68671,43797,33127,13701
+"Departamento en edificio (002)",6038,100,1417,2018,1346,917,240
+"Vivienda en quinta (003)",3558,63,948,1226,723,468,130
+"Vivienda en casa de vecindad (004)",4411,90,1232,1459,921,541,168
+"Choza o cabaña (005)",9346,204,3793,2325,1415,1080,529
+"Vivienda improvisada (006)",47,1,9,13,12,11,1
+"Local no destinado para hab.humana (007)",187,1,45,70,33,33,5
+"Otro tipo (008)",8,,1,4,,3,
+,,,,,,,
+"URBANA (009)",161416,2773,46908,48937,30928,22969,8901
+"Casa independiente (010)",147181,2518,43259,44155,27896,20996,8357
+"Departamento en edificio (011)",6038,100,1417,2018,1346,917,240
+"Vivienda en quinta (012)",3558,63,948,1226,723,468,130
+"Vivienda en casa de vecindad (013)",4411,90,1232,1459,921,541,168
+"Vivienda improvisada (015)",47,1,9,13,12,11,1
+"Local no destinado para hab.humana (016)",176,1,43,64,30,33,5
+"Otro tipo (017)",5,,,2,,3,
+,,,,,,,
+"RURAL (018)",105652,1895,40505,26849,17319,13211,5873
+"Casa independiente (019)",96292,1691,36709,24516,15901,12131,5344
+"Choza o cabaña (023)",9346,204,3793,2325,1415,1080,529
+"Local no destinado para hab.humana (025)",11,,2,6,3,,
+"Otro tipo (026)",3,,1,2,,,

@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CAYLLOMA (000)",27549,25576,20664,3258,1654,1973,39,206,1634,94
+"Casa independiente (001)",21099,19720,16489,2210,1021,1379,36,204,1078,61
+"Departamento en edificio (002)",100,98,92,6,,2,1,1,,
+"Vivienda en quinta (003)",174,166,135,30,1,8,1,,7,
+"Vivienda en casa de vecindad (004)",584,574,555,18,1,10,1,1,7,1
+"Choza o cabaña (005)",3421,3286,1981,694,611,135,,,109,26
+"Vivienda improvisada (006)",2124,1685,1365,300,20,439,,,433,6
+"Local no dest.para hab. humana (007)",39,39,39,,,,,,,
+"Otro tipo (008)",8,8,8,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",16609,15102,13299,1475,328,1507,30,180,1256,41
+"Casa independiente (010)",13591,12543,11116,1121,306,1048,27,178,809,34
+"Departamento en edificio (011)",100,98,92,6,,2,1,1,,
+"Vivienda en quinta (012)",174,166,135,30,1,8,1,,7,
+"Vivienda en casa de vecindad (013)",584,574,555,18,1,10,1,1,7,1
+"Vivienda improvisada (015)",2124,1685,1365,300,20,439,,,433,6
+"Local no dest.para hab. humana (016)",31,31,31,,,,,,,
+"Otro tipo (017)",5,5,5,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",10940,10474,7365,1783,1326,466,9,26,378,53
+"Casa independiente (019)",7508,7177,5373,1089,715,331,9,26,269,27
+"Choza o cabaña (023)",3421,3286,1981,694,611,135,,,109,26
+"Local no dest.para hab. humana (025)",8,8,8,,,,,,,
+"Otro tipo (026)",3,3,3,,,,,,,

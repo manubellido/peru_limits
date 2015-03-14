@@ -1,0 +1,46 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia CARLOS FERMIN FITZCARRALD",,,,,
+"Viviendas particulares (001)",20,10,6,3,1
+"Ocupantes presentes (002)",88,48,26,13,1
+"Casa independiente",,,,,
+"Viviendas particulares (004)",20,10,6,3,1
+"Ocupantes presentes (005)",88,48,26,13,1
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",5,4,1,,
+"Ocupantes presentes (029)",15,13,2,,
+"Casa independiente",,,,,
+"Viviendas particulares (031)",5,4,1,,
+"Ocupantes presentes (032)",15,13,2,,
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",15,6,5,3,1
+"Ocupantes presentes (056)",73,35,24,13,1
+"Casa independiente",,,,,
+"Viviendas particulares (058)",15,6,5,3,1
+"Ocupantes presentes (059)",73,35,24,13,1
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

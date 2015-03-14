@@ -1,0 +1,26 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia PUERTO INCA (000)",30810,803,11703,8183,5622,3541,958
+"Casa independiente (001)",19746,498,7411,5234,3717,2265,621
+"Vivienda en quinta (003)",11,,3,5,2,1,
+"Vivienda en casa de vecindad (004)",41,,11,15,12,3,
+"Choza o cabaña (005)",10944,304,4256,2913,1870,1267,334
+"Vivienda improvisada (006)",31,1,11,7,8,2,2
+"Local no destinado para hab.humana (007)",19,,6,5,7,1,
+"Otro tipo (008)",18,,5,4,6,2,1
+,,,,,,,
+"URBANA (009)",5982,144,2129,1544,1203,749,213
+"Casa independiente (010)",5886,143,2099,1515,1175,743,211
+"Vivienda en quinta (012)",11,,3,5,2,1,
+"Vivienda en casa de vecindad (013)",41,,11,15,12,3,
+"Vivienda improvisada (015)",31,1,11,7,8,2,2
+"Local no destinado para hab.humana (016)",13,,5,2,6,,
+,,,,,,,
+"RURAL (018)",24828,659,9574,6639,4419,2792,745
+"Casa independiente (019)",13860,355,5312,3719,2542,1522,410
+"Choza o cabaña (023)",10944,304,4256,2913,1870,1267,334
+"Local no destinado para hab.humana (025)",6,,1,3,1,1,
+"Otro tipo (026)",18,,5,4,6,2,1

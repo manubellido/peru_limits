@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia HUAYLAS (000)",12729,8040,4689
+"Red pública dentro de la vivienda (001)",6539,5254,1285
+"Red pública fuera de la vivienda (002)",1963,1104,859
+"Pilón de uso público (003)",166,78,88
+"Pozo (005)",201,51,150
+"Río, acequia, manatial o similar (006)",3412,1389,2023
+"Vecino (007)",352,129,223
+"Otro (008)",96,35,61
+,,,
+"URBANA (010)",4224,3706,518
+"Red pública dentro de la vivienda (011)",3415,3132,283
+"Red pública fuera de la vivienda (012)",361,325,36
+"Pilón de uso público (013)",14,12,2
+"Pozo (015)",13,7,6
+"Río, acequia, manatial o similar (016)",325,185,140
+"Vecino (017)",71,32,39
+"Otro (018)",25,13,12
+,,,
+"RURAL (020)",8505,4334,4171
+"Red pública dentro de la vivienda (021)",3124,2122,1002
+"Red pública fuera de la vivienda (022)",1602,779,823
+"Pilón de uso público (023)",152,66,86
+"Pozo (025)",188,44,144
+"Río, acequia, manatial o similar (026)",3087,1204,1883
+"Vecino (027)",281,97,184
+"Otro (028)",71,22,49

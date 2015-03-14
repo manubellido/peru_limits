@@ -1,0 +1,26 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia OYON (000)",6809,6217,4943,896,378,592,21,67,474,30
+"Casa independiente (001)",6221,5646,4471,823,352,575,21,67,459,28
+"Departamento en edificio (002)",25,25,25,,,,,,,
+"Vivienda en quinta (003)",99,99,92,7,,,,,,
+"Vivienda en casa de vecindad (004)",118,115,111,3,1,3,,,3,
+"Choza o cabaña (005)",329,318,237,62,19,11,,,10,1
+"Vivienda improvisada (006)",10,7,,1,6,3,,,2,1
+"Local no dest.para hab. humana (007)",7,7,7,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",4148,3803,3199,451,153,345,14,45,266,20
+"Casa independiente (010)",3889,3550,2964,440,146,339,14,45,261,19
+"Departamento en edificio (011)",25,25,25,,,,,,,
+"Vivienda en quinta (012)",99,99,92,7,,,,,,
+"Vivienda en casa de vecindad (013)",118,115,111,3,1,3,,,3,
+"Vivienda improvisada (015)",10,7,,1,6,3,,,2,1
+"Local no dest.para hab. humana (016)",7,7,7,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",2661,2414,1744,445,225,247,7,22,208,10
+"Casa independiente (019)",2332,2096,1507,383,206,236,7,22,198,9
+"Choza o cabaña (023)",329,318,237,62,19,11,,,10,1

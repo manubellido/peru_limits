@@ -1,0 +1,29 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia CARAVELI (000)",32412,622,9264,8509,7168,4736,2113
+"Casa independiente (001)",29352,547,8444,7424,6469,4411,2057
+"Departamento en edificio (002)",7,,,2,2,3,
+"Vivienda en quinta (003)",242,5,69,66,64,34,4
+"Vivienda en casa de vecindad (004)",388,5,125,111,98,44,5
+"Choza o cabaña (005)",1832,51,418,733,387,204,39
+"Vivienda improvisada (006)",469,11,179,141,109,24,5
+"Local no destinado para hab.humana (007)",89,3,17,22,33,12,2
+"Otro tipo (008)",33,,12,10,6,4,1
+,,,,,,,
+"URBANA (009)",21984,375,6481,5453,5026,3232,1417
+"Casa independiente (010)",20768,352,6080,5108,4714,3114,1400
+"Departamento en edificio (011)",7,,,2,2,3,
+"Vivienda en quinta (012)",242,5,69,66,64,34,4
+"Vivienda en casa de vecindad (013)",388,5,125,111,98,44,5
+"Vivienda improvisada (015)",469,11,179,141,109,24,5
+"Local no destinado para hab.humana (016)",86,2,17,20,33,12,2
+"Otro tipo (017)",24,,11,5,6,1,1
+,,,,,,,
+"RURAL (018)",10428,247,2783,3056,2142,1504,696
+"Casa independiente (019)",8584,195,2364,2316,1755,1297,657
+"Choza o cabaña (023)",1832,51,418,733,387,204,39
+"Local no destinado para hab.humana (025)",3,1,,2,,,
+"Otro tipo (026)",9,,1,5,,3,

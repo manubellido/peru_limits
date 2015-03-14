@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia ANGARAES (000)",13518,7468,6050
+"Red pública de desague dentro de la vivienda (001)",1498,1393,105
+"Red pública de desague fuera de la vivienda (002)",294,258,36
+"Pozo séptico (003)",581,380,201
+"Pozo ciego o negro / letrina (004)",3824,2296,1528
+"Río, acequia o canal (005)",176,85,91
+"No tiene (006)",7145,3056,4089
+,,,
+"URBANA (008)",4232,3042,1190
+"Red pública de desague dentro de la vivienda (009)",1443,1342,101
+"Red pública de desague fuera de la vivienda (010)",260,237,23
+"Pozo séptico (011)",61,40,21
+"Pozo ciego o negro / letrina (012)",443,299,144
+"Río, acequia o canal (013)",54,41,13
+"No tiene (014)",1971,1083,888
+,,,
+"RURAL (016)",9286,4426,4860
+"Red pública de desague dentro de la vivienda (017)",55,51,4
+"Red pública de desague fuera de la vivienda (018)",34,21,13
+"Pozo séptico (019)",520,340,180
+"Pozo ciego o negro / letrina (020)",3381,1997,1384
+"Río, acequia o canal (021)",122,44,78
+"No tiene (022)",5174,1973,3201

@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CARAVELI (000)",9386,5999,3387
+"Red pública de desague dentro de la vivienda (001)",2203,2029,174
+"Red pública de desague fuera de la vivienda (002)",387,282,105
+"Pozo séptico (003)",904,798,106
+"Pozo ciego o negro / letrina (004)",2295,1510,785
+"Río, acequia o canal (005)",267,97,170
+"No tiene (006)",3330,1283,2047
+,,,
+"URBANA (008)",6019,4939,1080
+"Red pública de desague dentro de la vivienda (009)",2085,1962,123
+"Red pública de desague fuera de la vivienda (010)",291,271,20
+"Pozo séptico (011)",779,724,55
+"Pozo ciego o negro / letrina (012)",1236,1059,177
+"Río, acequia o canal (013)",80,54,26
+"No tiene (014)",1548,869,679
+,,,
+"RURAL (016)",3367,1060,2307
+"Red pública de desague dentro de la vivienda (017)",118,67,51
+"Red pública de desague fuera de la vivienda (018)",96,11,85
+"Pozo séptico (019)",125,74,51
+"Pozo ciego o negro / letrina (020)",1059,451,608
+"Río, acequia o canal (021)",187,43,144
+"No tiene (022)",1782,414,1368

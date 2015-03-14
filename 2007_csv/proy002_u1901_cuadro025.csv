@@ -1,0 +1,78 @@
+"CUADRO Nº 7: TOTAL DE HOGARES EN VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR PADECIMIENTO DE ALGUNA DIFICULTAD O LIMITACIÓN FÍSICA O MENTAL PERMANENTE DE ALGÚN MIEMBRO DEL HOGAR, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,
+,,,,,,,
+"DEPARTAMENTO Y PROVINCIA, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISCAPACIDAD FÍSICA O MENTAL",,,,,"NINGUNA PERSONA CON DISCAPACIDAD"
+,,"PARA VER, AÚN USANDO LENTES","PARA OÍR, AÚN USANDO AUDÍ-FONOS PARA SORDERA","PARA HABLAR (ENTONAR / VOCALIZAR)","PARA USAR BRAZOS Y MANOS / PIERNAS Y PIES","ALGUNA OTRA DIFICULTAD O LIMITACIÓN",
+,,,,,,,
+"Provincia PASCO",,,,,,,
+"Hogares (001)",36019,2402,447,258,667,628,31961
+"Ocupantes presentes (002)",144874,10287,1762,1172,2850,2877,127374
+"Casa independiente",,,,,,,
+"Hogares (004)",31434,2115,391,229,580,554,27867
+"Ocupantes presentes (005)",128086,9147,1570,1036,2486,2498,112623
+"Departamento en edificio",,,,,,,
+"Hogares (007)",744,68,2,3,9,7,657
+"Ocupantes presentes (008)",3006,267,7,9,43,38,2650
+"Vivienda en quinta",,,,,,,
+"Hogares (010)",1161,93,16,6,22,18,1017
+"Ocupantes presentes (011)",4010,350,37,26,92,79,3463
+"Vivienda en casa de vecindad",,,,,,,
+"Hogares (013)",1321,72,10,3,17,18,1209
+"Ocupantes presentes (014)",4763,307,47,22,75,91,4261
+"Choza o cabaña",,,,,,,
+"Hogares (016)",1231,47,27,17,37,30,1092
+"Ocupantes presentes (017)",4584,192,100,79,148,166,3980
+"Vivienda improvisada",,,,,,,
+"Hogares (019)",45,4,,,1,1,41
+"Ocupantes presentes (020)",174,12,,,3,5,162
+"Local no dest.para hab. humana",,,,,,,
+"Hogares (022)",59,2,1,,1,,55
+"Ocupantes presentes (023)",180,9,1,,3,,167
+"Otro tipo",,,,,,,
+"Hogares (025)",24,1,,,,,23
+"Ocupantes presentes (026)",71,3,,,,,68
+,,,,,,,
+URBANA,,,,,,,
+"Hogares (028)",28011,2184,342,186,520,482,24567
+"Ocupantes presentes (029)",110696,9255,1290,811,2198,2176,96096
+"Casa independiente",,,,,,,
+"Hogares (031)",24676,1946,313,174,470,438,21582
+"Ocupantes presentes (032)",98572,8318,1198,754,1982,1963,85394
+"Departamento en edificio",,,,,,,
+"Hogares (034)",744,68,2,3,9,7,657
+"Ocupantes presentes (035)",3006,267,7,9,43,38,2650
+"Vivienda en quinta",,,,,,,
+"Hogares (037)",1161,93,16,6,22,18,1017
+"Ocupantes presentes (038)",4010,350,37,26,92,79,3463
+"Vivienda en casa de vecindad",,,,,,,
+"Hogares (040)",1321,72,10,3,17,18,1209
+"Ocupantes presentes (041)",4763,307,47,22,75,91,4261
+"Choza o cabaña",,,,,,,
+"Vivienda improvisada",,,,,,,
+"Hogares (046)",45,4,,,1,1,41
+"Ocupantes presentes (047)",174,12,,,3,5,162
+"Local no dest.para hab. humana",,,,,,,
+"Hogares (049)",48,1,1,,1,,45
+"Ocupantes presentes (050)",137,1,1,,3,,132
+"Otro tipo",,,,,,,
+"Hogares (052)",16,,,,,,16
+"Ocupantes presentes (053)",34,,,,,,34
+,,,,,,,
+RURAL,,,,,,,
+"Hogares (055)",8008,218,105,72,147,146,7394
+"Ocupantes presentes (056)",34178,1032,472,361,652,701,31278
+"Casa independiente",,,,,,,
+"Hogares (058)",6758,169,78,55,110,116,6285
+"Ocupantes presentes (059)",29514,829,372,282,504,535,27229
+"Departamento en edificio",,,,,,,
+"Vivienda en quinta",,,,,,,
+"Vivienda en casa de vecindad",,,,,,,
+"Choza o cabaña",,,,,,,
+"Hogares (070)",1231,47,27,17,37,30,1092
+"Ocupantes presentes (071)",4584,192,100,79,148,166,3980
+"Vivienda improvisada",,,,,,,
+"Local no dest.para hab. humana",,,,,,,
+"Hogares (076)",11,1,,,,,10
+"Ocupantes presentes (077)",43,8,,,,,35
+"Otro tipo",,,,,,,
+"Hogares (079)",8,1,,,,,7
+"Ocupantes presentes (080)",37,3,,,,,34

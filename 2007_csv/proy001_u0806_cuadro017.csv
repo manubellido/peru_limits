@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CANCHIS (000)",26133,19300,6833
+"Red pública dentro de la vivienda (001)",15096,13072,2024
+"Red pública fuera de la vivienda (002)",4948,4215,733
+"Pilón de uso público (003)",587,340,247
+"Camión - cisterna u otro similar (004)",7,5,2
+"Pozo (005)",659,325,334
+"Río, acequia, manatial o similar (006)",3919,937,2982
+"Vecino (007)",676,292,384
+"Otro (008)",241,114,127
+,,,
+"URBANA (010)",15250,13425,1825
+"Red pública dentro de la vivienda (011)",10328,9303,1025
+"Red pública fuera de la vivienda (012)",4013,3682,331
+"Pilón de uso público (013)",105,66,39
+"Camión - cisterna u otro similar (014)",2,2,
+"Pozo (015)",120,76,44
+"Río, acequia, manatial o similar (016)",207,107,100
+"Vecino (017)",395,165,230
+"Otro (018)",80,24,56
+,,,
+"RURAL (020)",10883,5875,5008
+"Red pública dentro de la vivienda (021)",4768,3769,999
+"Red pública fuera de la vivienda (022)",935,533,402
+"Pilón de uso público (023)",482,274,208
+"Camión - cisterna u otro similar (024)",5,3,2
+"Pozo (025)",539,249,290
+"Río, acequia, manatial o similar (026)",3712,830,2882
+"Vecino (027)",281,127,154
+"Otro (028)",161,90,71

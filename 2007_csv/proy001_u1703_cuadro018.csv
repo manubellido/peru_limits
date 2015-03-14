@@ -1,0 +1,26 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia TAHUAMANU (000)",2662,1683,979
+"Red pública de desague dentro de la vivienda (001)",414,409,5
+"Red pública de desague fuera de la vivienda (002)",451,438,13
+"Pozo séptico (003)",217,160,57
+"Pozo ciego o negro / letrina (004)",1188,609,579
+"Río, acequia o canal (005)",25,15,10
+"No tiene (006)",367,52,315
+,,,
+"URBANA (008)",1818,1561,257
+"Red pública de desague dentro de la vivienda (009)",414,409,5
+"Red pública de desague fuera de la vivienda (010)",451,438,13
+"Pozo séptico (011)",183,158,25
+"Pozo ciego o negro / letrina (012)",666,493,173
+"Río, acequia o canal (013)",18,15,3
+"No tiene (014)",86,48,38
+,,,
+"RURAL (016)",844,122,722
+"Pozo séptico (019)",34,2,32
+"Pozo ciego o negro / letrina (020)",522,116,406
+"Río, acequia o canal (021)",7,,7
+"No tiene (022)",281,4,277

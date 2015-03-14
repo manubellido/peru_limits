@@ -1,0 +1,23 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CORONGO (000)",2684,2290,1904,183,203,394,4,56,322,12
+"Casa independiente (001)",2648,2261,1890,180,191,387,4,54,317,12
+"Vivienda en casa de vecindad (004)",22,15,6,2,7,7,,2,5,
+"Choza o cabaña (005)",9,9,6,,3,,,,,
+"Vivienda improvisada (006)",3,3,,1,2,,,,,
+"Local no dest.para hab. humana (007)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",1425,1197,1015,90,92,228,3,27,188,10
+"Casa independiente (010)",1399,1178,1008,87,83,221,3,25,183,10
+"Vivienda en casa de vecindad (013)",22,15,6,2,7,7,,2,5,
+"Vivienda improvisada (015)",3,3,,1,2,,,,,
+"Local no dest.para hab. humana (016)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",1259,1093,889,93,111,166,1,29,134,2
+"Casa independiente (019)",1249,1083,882,93,108,166,1,29,134,2
+"Choza o cabaña (023)",9,9,6,,3,,,,,
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,

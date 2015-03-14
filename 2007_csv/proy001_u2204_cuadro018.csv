@@ -1,0 +1,27 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia HUALLAGA (000)",5940,2546,3394
+"Red pública de desague dentro de la vivienda (001)",1484,1362,122
+"Red pública de desague fuera de la vivienda (002)",88,73,15
+"Pozo séptico (003)",283,161,122
+"Pozo ciego o negro / letrina (004)",2884,892,1992
+"Río, acequia o canal (005)",27,3,24
+"No tiene (006)",1174,55,1119
+,,,
+"URBANA (008)",3218,2500,718
+"Red pública de desague dentro de la vivienda (009)",1483,1361,122
+"Red pública de desague fuera de la vivienda (010)",88,73,15
+"Pozo séptico (011)",242,158,84
+"Pozo ciego o negro / letrina (012)",1300,854,446
+"Río, acequia o canal (013)",5,3,2
+"No tiene (014)",100,51,49
+,,,
+"RURAL (016)",2722,46,2676
+"Red pública de desague dentro de la vivienda (017)",1,1,
+"Pozo séptico (019)",41,3,38
+"Pozo ciego o negro / letrina (020)",1584,38,1546
+"Río, acequia o canal (021)",22,,22
+"No tiene (022)",1074,4,1070

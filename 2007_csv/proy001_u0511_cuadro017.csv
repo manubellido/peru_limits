@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia VILCAS HUAMAN (000)",7073,1326,5747
+"Red pública dentro de la vivienda (001)",1908,794,1114
+"Red pública fuera de la vivienda (002)",1693,271,1422
+"Pilón de uso público (003)",128,6,122
+"Camión - cisterna u otro similar (004)",2,1,1
+"Pozo (005)",238,24,214
+"Río, acequia, manatial o similar (006)",2562,163,2399
+"Vecino (007)",438,59,379
+"Otro (008)",104,8,96
+,,,
+"URBANA (010)",2208,1184,1024
+"Red pública dentro de la vivienda (011)",1187,754,433
+"Red pública fuera de la vivienda (012)",438,219,219
+"Pilón de uso público (013)",22,6,16
+"Camión - cisterna u otro similar (014)",2,1,1
+"Pozo (015)",51,7,44
+"Río, acequia, manatial o similar (016)",323,139,184
+"Vecino (017)",157,52,105
+"Otro (018)",28,6,22
+,,,
+"RURAL (020)",4865,142,4723
+"Red pública dentro de la vivienda (021)",721,40,681
+"Red pública fuera de la vivienda (022)",1255,52,1203
+"Pilón de uso público (023)",106,,106
+"Pozo (025)",187,17,170
+"Río, acequia, manatial o similar (026)",2239,24,2215
+"Vecino (027)",281,7,274
+"Otro (028)",76,2,74

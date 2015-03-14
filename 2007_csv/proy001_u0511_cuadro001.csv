@@ -1,0 +1,26 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia VILCAS HUAMAN (000)",12944,10159,7073,1271,1815,2785,11,557,1827,390
+"Casa independiente (001)",12328,9675,6885,1214,1576,2653,11,554,1722,366
+"Vivienda en quinta (003)",30,28,26,2,,2,,1,1,
+"Vivienda en casa de vecindad (004)",20,13,10,2,1,7,,2,3,2
+"Choza o cabaña (005)",536,427,147,45,235,109,,,91,18
+"Vivienda improvisada (006)",28,14,3,8,3,14,,,10,4
+"Local no dest.para hab. humana (007)",1,1,1,,,,,,,
+"Otro tipo (008)",1,1,1,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",3223,2645,2208,302,135,578,4,101,445,28
+"Casa independiente (010)",3144,2589,2168,290,131,555,4,98,431,22
+"Vivienda en quinta (012)",30,28,26,2,,2,,1,1,
+"Vivienda en casa de vecindad (013)",20,13,10,2,1,7,,2,3,2
+"Vivienda improvisada (015)",28,14,3,8,3,14,,,10,4
+"Local no dest.para hab. humana (016)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",9721,7514,4865,969,1680,2207,7,456,1382,362
+"Casa independiente (019)",9184,7086,4717,924,1445,2098,7,456,1291,344
+"Choza o cabaña (023)",536,427,147,45,235,109,,,91,18
+"Otro tipo (026)",1,1,1,,,,,,,

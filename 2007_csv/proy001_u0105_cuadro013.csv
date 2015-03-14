@@ -1,0 +1,58 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia LUYA",,,,,
+"Viviendas particulares (001)",518,68,82,195,173
+"Ocupantes presentes (002)",2259,306,351,856,746
+"Casa independiente",,,,,
+"Viviendas particulares (004)",512,65,82,192,173
+"Ocupantes presentes (005)",2240,298,351,845,746
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (013)",3,,,3,
+"Ocupantes presentes (014)",11,,,11,
+"Choza o cabaña",,,,,
+"Viviendas particulares (016)",2,2,,,
+"Ocupantes presentes (017)",7,7,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Viviendas particulares (022)",1,1,,,
+"Ocupantes presentes (023)",1,1,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",204,19,32,55,98
+"Ocupantes presentes (029)",780,67,103,208,402
+"Casa independiente",,,,,
+"Viviendas particulares (031)",200,18,32,52,98
+"Ocupantes presentes (032)",768,66,103,197,402
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (040)",3,,,3,
+"Ocupantes presentes (041)",11,,,11,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Viviendas particulares (049)",1,1,,,
+"Ocupantes presentes (050)",1,1,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",314,49,50,140,75
+"Ocupantes presentes (056)",1479,239,248,648,344
+"Casa independiente",,,,,
+"Viviendas particulares (058)",312,47,50,140,75
+"Ocupantes presentes (059)",1472,232,248,648,344
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (070)",2,2,,,
+"Ocupantes presentes (071)",7,7,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

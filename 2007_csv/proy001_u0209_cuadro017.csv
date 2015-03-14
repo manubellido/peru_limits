@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CORONGO (000)",1904,1287,617
+"Red pública dentro de la vivienda (001)",1120,934,186
+"Red pública fuera de la vivienda (002)",173,142,31
+"Pilón de uso público (003)",6,4,2
+"Pozo (005)",218,58,160
+"Río, acequia, manatial o similar (006)",345,131,214
+"Vecino (007)",29,13,16
+"Otro (008)",13,5,8
+,,,
+"URBANA (010)",1015,877,138
+"Red pública dentro de la vivienda (011)",762,671,91
+"Red pública fuera de la vivienda (012)",97,85,12
+"Pilón de uso público (013)",4,2,2
+"Pozo (015)",43,39,4
+"Río, acequia, manatial o similar (016)",80,70,10
+"Vecino (017)",17,6,11
+"Otro (018)",12,4,8
+,,,
+"RURAL (020)",889,410,479
+"Red pública dentro de la vivienda (021)",358,263,95
+"Red pública fuera de la vivienda (022)",76,57,19
+"Pilón de uso público (023)",2,2,
+"Pozo (025)",175,19,156
+"Río, acequia, manatial o similar (026)",265,61,204
+"Vecino (027)",12,7,5
+"Otro (028)",1,1,

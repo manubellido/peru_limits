@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia ALTO AMAZONAS (000)",21248,10678,10570
+"Red pública dentro de la vivienda (001)",6953,6355,598
+"Red pública fuera de la vivienda (002)",405,336,69
+"Pilón de uso público (003)",52,28,24
+"Camión - cisterna u otro similar (004)",15,7,8
+"Pozo (005)",5983,3016,2967
+"Río, acequia, manatial o similar (006)",6769,473,6296
+"Vecino (007)",777,410,367
+"Otro (008)",294,53,241
+,,,
+"URBANA (010)",12980,10139,2841
+"Red pública dentro de la vivienda (011)",6950,6355,595
+"Red pública fuera de la vivienda (012)",405,336,69
+"Pilón de uso público (013)",47,27,20
+"Camión - cisterna u otro similar (014)",12,7,5
+"Pozo (015)",4413,2783,1630
+"Río, acequia, manatial o similar (016)",294,175,119
+"Vecino (017)",768,407,361
+"Otro (018)",91,49,42
+,,,
+"RURAL (020)",8268,539,7729
+"Red pública dentro de la vivienda (021)",3,,3
+"Pilón de uso público (023)",5,1,4
+"Camión - cisterna u otro similar (024)",3,,3
+"Pozo (025)",1570,233,1337
+"Río, acequia, manatial o similar (026)",6475,298,6177
+"Vecino (027)",9,3,6
+"Otro (028)",203,4,199

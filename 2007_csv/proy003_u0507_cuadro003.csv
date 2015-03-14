@@ -1,0 +1,26 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia PARINACOCHAS (000)",29306,546,9702,6809,5080,4303,2866
+"Casa independiente (001)",27090,495,9036,6208,4700,3978,2673
+"Vivienda en quinta (003)",127,3,31,54,22,13,4
+"Vivienda en casa de vecindad (004)",117,1,41,36,19,16,4
+"Choza o cabaña (005)",1606,37,482,371,264,267,185
+"Vivienda improvisada (006)",319,9,101,125,63,21,
+"Local no destinado para hab.humana (007)",29,1,9,6,9,4,
+"Otro tipo (008)",18,,2,9,3,4,
+,,,,,,,
+"URBANA (009)",17079,305,5588,4275,3167,2335,1409
+"Casa independiente (010)",16495,291,5408,4055,3058,2282,1401
+"Vivienda en quinta (012)",127,3,31,54,22,13,4
+"Vivienda en casa de vecindad (013)",117,1,41,36,19,16,4
+"Vivienda improvisada (015)",319,9,101,125,63,21,
+"Local no destinado para hab.humana (016)",21,1,7,5,5,3,
+,,,,,,,
+"RURAL (018)",12227,241,4114,2534,1913,1968,1457
+"Casa independiente (019)",10595,204,3628,2153,1642,1696,1272
+"Choza o cabaña (023)",1606,37,482,371,264,267,185
+"Local no destinado para hab.humana (025)",8,,2,1,4,1,
+"Otro tipo (026)",18,,2,9,3,4,

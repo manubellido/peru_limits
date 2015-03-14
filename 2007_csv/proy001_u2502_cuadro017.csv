@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia ATALAYA (000)",9398,2987,6411
+"Red pública dentro de la vivienda (001)",1522,1279,243
+"Red pública fuera de la vivienda (002)",394,284,110
+"Pilón de uso público (003)",336,92,244
+"Camión - cisterna u otro similar (004)",2,1,1
+"Pozo (005)",673,251,422
+"Río, acequia, manatial o similar (006)",6096,937,5159
+"Vecino (007)",211,104,107
+"Otro (008)",164,39,125
+,,,
+"URBANA (010)",3214,2476,738
+"Red pública dentro de la vivienda (011)",1509,1279,230
+"Red pública fuera de la vivienda (012)",386,284,102
+"Pilón de uso público (013)",105,82,23
+"Camión - cisterna u otro similar (014)",2,1,1
+"Pozo (015)",117,98,19
+"Río, acequia, manatial o similar (016)",856,611,245
+"Vecino (017)",188,94,94
+"Otro (018)",51,27,24
+,,,
+"RURAL (020)",6184,511,5673
+"Red pública dentro de la vivienda (021)",13,,13
+"Red pública fuera de la vivienda (022)",8,,8
+"Pilón de uso público (023)",231,10,221
+"Pozo (025)",556,153,403
+"Río, acequia, manatial o similar (026)",5240,326,4914
+"Vecino (027)",23,10,13
+"Otro (028)",113,12,101

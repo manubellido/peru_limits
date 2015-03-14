@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia SANDIA (000)",19006,8363,10643
+"Red pública dentro de la vivienda (001)",1202,1086,116
+"Red pública fuera de la vivienda (002)",1806,1599,207
+"Pilón de uso público (003)",350,268,82
+"Camión - cisterna u otro similar (004)",15,8,7
+"Pozo (005)",1928,1287,641
+"Río, acequia, manatial o similar (006)",13015,3767,9248
+"Vecino (007)",491,237,254
+"Otro (008)",199,111,88
+,,,
+"URBANA (010)",4404,3878,526
+"Red pública dentro de la vivienda (011)",935,898,37
+"Red pública fuera de la vivienda (012)",909,859,50
+"Pilón de uso público (013)",93,75,18
+"Camión - cisterna u otro similar (014)",6,5,1
+"Pozo (015)",835,748,87
+"Río, acequia, manatial o similar (016)",1374,1118,256
+"Vecino (017)",199,137,62
+"Otro (018)",53,38,15
+,,,
+"RURAL (020)",14602,4485,10117
+"Red pública dentro de la vivienda (021)",267,188,79
+"Red pública fuera de la vivienda (022)",897,740,157
+"Pilón de uso público (023)",257,193,64
+"Camión - cisterna u otro similar (024)",9,3,6
+"Pozo (025)",1093,539,554
+"Río, acequia, manatial o similar (026)",11641,2649,8992
+"Vecino (027)",292,100,192
+"Otro (028)",146,73,73

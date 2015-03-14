@@ -1,0 +1,28 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia HUAYLAS (000)",53368,1041,18367,12661,9494,7458,4347
+"Casa independiente (001)",52604,1018,18103,12444,9356,7370,4313
+"Departamento en edificio (002)",99,3,29,35,25,7,
+"Vivienda en quinta (003)",153,3,51,56,30,12,1
+"Vivienda en casa de vecindad (004)",172,3,58,55,29,17,10
+"Choza o cabaña (005)",316,14,119,69,47,46,21
+"Vivienda improvisada (006)",1,,,,,,1
+"Local no destinado para hab.humana (007)",21,,7,2,7,4,1
+"Otro tipo (008)",2,,,,,2,
+,,,,,,,
+"URBANA (009)",17187,296,5002,4396,3412,2696,1385
+"Casa independiente (010)",16755,287,4861,4250,3325,2659,1373
+"Departamento en edificio (011)",99,3,29,35,25,7,
+"Vivienda en quinta (012)",153,3,51,56,30,12,1
+"Vivienda en casa de vecindad (013)",172,3,58,55,29,17,10
+"Vivienda improvisada (015)",1,,,,,,1
+"Local no destinado para hab.humana (016)",7,,3,,3,1,
+,,,,,,,
+"RURAL (018)",36181,745,13365,8265,6082,4762,2962
+"Casa independiente (019)",35849,731,13242,8194,6031,4711,2940
+"Choza o cabaña (023)",316,14,119,69,47,46,21
+"Local no destinado para hab.humana (025)",14,,4,2,4,3,1
+"Otro tipo (026)",2,,,,,2,

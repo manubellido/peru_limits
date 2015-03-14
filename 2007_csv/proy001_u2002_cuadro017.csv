@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia AYABACA (000)",29322,7836,21486
+"Red pública dentro de la vivienda (001)",3297,2436,861
+"Red pública fuera de la vivienda (002)",1766,921,845
+"Pilón de uso público (003)",1854,304,1550
+"Camión - cisterna u otro similar (004)",153,4,149
+"Pozo (005)",2506,384,2122
+"Río, acequia, manatial o similar (006)",19321,3615,15706
+"Vecino (007)",297,112,185
+"Otro (008)",128,60,68
+,,,
+"URBANA (010)",3590,3156,434
+"Red pública dentro de la vivienda (011)",2025,1922,103
+"Red pública fuera de la vivienda (012)",245,215,30
+"Pilón de uso público (013)",139,58,81
+"Camión - cisterna u otro similar (014)",2,2,
+"Pozo (015)",109,63,46
+"Río, acequia, manatial o similar (016)",944,813,131
+"Vecino (017)",93,60,33
+"Otro (018)",33,23,10
+,,,
+"RURAL (020)",25732,4680,21052
+"Red pública dentro de la vivienda (021)",1272,514,758
+"Red pública fuera de la vivienda (022)",1521,706,815
+"Pilón de uso público (023)",1715,246,1469
+"Camión - cisterna u otro similar (024)",151,2,149
+"Pozo (025)",2397,321,2076
+"Río, acequia, manatial o similar (026)",18377,2802,15575
+"Vecino (027)",204,52,152
+"Otro (028)",95,37,58

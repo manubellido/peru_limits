@@ -1,0 +1,22 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia SIHUAS (000)",30554,580,11418,7008,5017,4181,2350
+"Casa independiente (001)",30199,569,11296,6905,4974,4132,2323
+"Vivienda en casa de vecindad (004)",70,3,25,24,11,4,3
+"Choza o cabaña (005)",275,8,95,75,30,43,24
+"Vivienda improvisada (006)",3,,1,2,,,
+"Local no destinado para hab.humana (007)",7,,1,2,2,2,
+,,,,,,,
+"URBANA (009)",7833,135,2551,1976,1486,1108,577
+"Casa independiente (010)",7755,132,2524,1948,1475,1102,574
+"Vivienda en casa de vecindad (013)",70,3,25,24,11,4,3
+"Vivienda improvisada (015)",3,,1,2,,,
+"Local no destinado para hab.humana (016)",5,,1,2,,2,
+,,,,,,,
+"RURAL (018)",22721,445,8867,5032,3531,3073,1773
+"Casa independiente (019)",22444,437,8772,4957,3499,3030,1749
+"Choza o cabaña (023)",275,8,95,75,30,43,24
+"Local no destinado para hab.humana (025)",2,,,,2,,

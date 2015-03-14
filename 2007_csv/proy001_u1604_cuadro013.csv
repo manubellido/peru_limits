@@ -1,0 +1,50 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia MARISCAL RAMON CASTILLA",,,,,
+"Viviendas particulares (001)",85,13,1,19,52
+"Ocupantes presentes (002)",454,73,4,105,272
+"Casa independiente",,,,,
+"Viviendas particulares (004)",48,12,1,19,16
+"Ocupantes presentes (005)",241,70,4,105,62
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (016)",37,1,,,36
+"Ocupantes presentes (017)",213,3,,,210
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",34,9,1,19,5
+"Ocupantes presentes (029)",184,50,4,105,25
+"Casa independiente",,,,,
+"Viviendas particulares (031)",34,9,1,19,5
+"Ocupantes presentes (032)",184,50,4,105,25
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",51,4,,,47
+"Ocupantes presentes (056)",270,23,,,247
+"Casa independiente",,,,,
+"Viviendas particulares (058)",14,3,,,11
+"Ocupantes presentes (059)",57,20,,,37
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (070)",37,1,,,36
+"Ocupantes presentes (071)",213,3,,,210
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

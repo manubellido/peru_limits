@@ -1,0 +1,54 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia OYON",,,,,
+"Viviendas particulares (001)",278,101,29,48,100
+"Ocupantes presentes (002)",1212,348,121,233,510
+"Casa independiente",,,,,
+"Viviendas particulares (004)",255,88,29,43,95
+"Ocupantes presentes (005)",1110,308,121,207,474
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Viviendas particulares (010)",9,4,,1,4
+"Ocupantes presentes (011)",46,12,,3,31
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (013)",14,9,,4,1
+"Ocupantes presentes (014)",56,28,,23,5
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",258,88,27,46,97
+"Ocupantes presentes (029)",1156,319,112,224,501
+"Casa independiente",,,,,
+"Viviendas particulares (031)",235,75,27,41,92
+"Ocupantes presentes (032)",1054,279,112,198,465
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Viviendas particulares (037)",9,4,,1,4
+"Ocupantes presentes (038)",46,12,,3,31
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (040)",14,9,,4,1
+"Ocupantes presentes (041)",56,28,,23,5
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",20,13,2,2,3
+"Ocupantes presentes (056)",56,29,9,9,9
+"Casa independiente",,,,,
+"Viviendas particulares (058)",20,13,2,2,3
+"Ocupantes presentes (059)",56,29,9,9,9
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

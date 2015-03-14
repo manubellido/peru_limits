@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CORONEL PORTILLO (000)",76695,74578,72167,2243,168,2117,257,329,1426,105
+"Casa independiente (001)",67552,65888,63918,1855,115,1664,133,322,1122,87
+"Departamento en edificio (002)",480,453,428,21,4,27,19,5,3,
+"Vivienda en quinta (003)",2835,2709,2532,161,16,126,93,,27,6
+"Vivienda en casa de vecindad (004)",563,535,525,5,5,28,12,2,14,
+"Choza o cabaña (005)",4165,3970,3832,121,17,195,,,185,10
+"Vivienda improvisada (006)",964,887,796,80,11,77,,,75,2
+"Local no dest.para hab. humana (007)",106,106,106,,,,,,,
+"Otro tipo (008)",30,30,30,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",64366,62753,60844,1777,132,1613,243,229,1058,83
+"Casa independiente (010)",59402,58047,56441,1510,96,1355,119,222,939,75
+"Departamento en edificio (011)",480,453,428,21,4,27,19,5,3,
+"Vivienda en quinta (012)",2835,2709,2532,161,16,126,93,,27,6
+"Vivienda en casa de vecindad (013)",563,535,525,5,5,28,12,2,14,
+"Vivienda improvisada (015)",964,887,796,80,11,77,,,75,2
+"Local no dest.para hab. humana (016)",102,102,102,,,,,,,
+"Otro tipo (017)",20,20,20,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",12329,11825,11323,466,36,504,14,100,368,22
+"Casa independiente (019)",8150,7841,7477,345,19,309,14,100,183,12
+"Choza o cabaña (023)",4165,3970,3832,121,17,195,,,185,10
+"Local no dest.para hab. humana (025)",4,4,4,,,,,,,
+"Otro tipo (026)",10,10,10,,,,,,,

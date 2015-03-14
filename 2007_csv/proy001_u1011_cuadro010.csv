@@ -1,0 +1,58 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia YAROWILCA",,,
+"Viviendas particulares (001)",1706,1527,179
+"Ocupantes presentes (002)",7046,6233,813
+"Casa independiente",,,
+"Viviendas particulares (004)",1699,1520,179
+"Ocupantes presentes (005)",7024,6211,813
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",2,2,
+"Ocupantes presentes (014)",9,9,
+"Choza o cabaña",,,
+"Viviendas particulares (016)",4,4,
+"Ocupantes presentes (017)",12,12,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (022)",1,1,
+"Ocupantes presentes (023)",1,1,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",783,712,71
+"Ocupantes presentes (029)",3267,2936,331
+"Casa independiente",,,
+"Viviendas particulares (031)",780,709,71
+"Ocupantes presentes (032)",3257,2926,331
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",2,2,
+"Ocupantes presentes (041)",9,9,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (049)",1,1,
+"Ocupantes presentes (050)",1,1,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",923,815,108
+"Ocupantes presentes (056)",3779,3297,482
+"Casa independiente",,,
+"Viviendas particulares (058)",919,811,108
+"Ocupantes presentes (059)",3767,3285,482
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Viviendas particulares (070)",4,4,
+"Ocupantes presentes (071)",12,12,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

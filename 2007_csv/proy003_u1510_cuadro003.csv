@@ -1,0 +1,29 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia YAUYOS (000)",25093,422,7554,4861,4603,4214,3439
+"Casa independiente (001)",23502,385,7083,4532,4285,3939,3278
+"Departamento en edificio (002)",13,,3,3,5,2,
+"Vivienda en quinta (003)",103,2,34,13,20,17,17
+"Vivienda en casa de vecindad (004)",407,9,130,99,87,51,31
+"Choza o cabaña (005)",869,25,241,168,168,175,92
+"Vivienda improvisada (006)",146,,48,32,22,26,18
+"Local no destinado para hab.humana (007)",24,1,6,7,8,1,1
+"Otro tipo (008)",29,,9,7,8,3,2
+,,,,,,,
+"URBANA (009)",15451,216,4533,3020,2957,2567,2158
+"Casa independiente (010)",14734,204,4305,2861,2808,2467,2089
+"Departamento en edificio (011)",13,,3,3,5,2,
+"Vivienda en quinta (012)",103,2,34,13,20,17,17
+"Vivienda en casa de vecindad (013)",407,9,130,99,87,51,31
+"Vivienda improvisada (015)",146,,48,32,22,26,18
+"Local no destinado para hab.humana (016)",20,1,5,5,7,1,1
+"Otro tipo (017)",28,,8,7,8,3,2
+,,,,,,,
+"RURAL (018)",9642,206,3021,1841,1646,1647,1281
+"Casa independiente (019)",8768,181,2778,1671,1477,1472,1189
+"Choza o cabaña (023)",869,25,241,168,168,175,92
+"Local no destinado para hab.humana (025)",4,,1,2,1,,
+"Otro tipo (026)",1,,1,,,,

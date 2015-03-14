@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia AIJA (000)",2110,1438,672
+"Red pública dentro de la vivienda (001)",642,572,70
+"Red pública fuera de la vivienda (002)",180,141,39
+"Pilón de uso público (003)",9,8,1
+"Camión - cisterna u otro similar (004)",2,,2
+"Pozo (005)",51,16,35
+"Río, acequia, manatial o similar (006)",1147,656,491
+"Vecino (007)",73,42,31
+"Otro (008)",6,3,3
+,,,
+"URBANA (010)",723,608,115
+"Red pública dentro de la vivienda (011)",490,434,56
+"Red pública fuera de la vivienda (012)",120,98,22
+"Pilón de uso público (013)",7,6,1
+"Pozo (015)",6,2,4
+"Río, acequia, manatial o similar (016)",69,52,17
+"Vecino (017)",26,13,13
+"Otro (018)",5,3,2
+,,,
+"RURAL (020)",1387,830,557
+"Red pública dentro de la vivienda (021)",152,138,14
+"Red pública fuera de la vivienda (022)",60,43,17
+"Pilón de uso público (023)",2,2,
+"Camión - cisterna u otro similar (024)",2,,2
+"Pozo (025)",45,14,31
+"Río, acequia, manatial o similar (026)",1078,604,474
+"Vecino (027)",47,29,18
+"Otro (028)",1,,1

@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia REQUENA (000)",13076,12668,12133,474,61,408,5,120,253,30
+"Casa independiente (001)",10818,10498,10130,318,50,320,5,120,168,27
+"Departamento en edificio (002)",5,5,5,,,,,,,
+"Vivienda en quinta (003)",75,73,72,1,,2,,,2,
+"Vivienda en casa de vecindad (004)",6,6,6,,,,,,,
+"Choza o cabaña (005)",2077,1997,1837,151,9,80,,,77,3
+"Vivienda improvisada (006)",70,64,58,4,2,6,,,6,
+"Local no dest.para hab. humana (007)",15,15,15,,,,,,,
+"Otro tipo (008)",10,10,10,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",7076,6926,6785,124,17,150,2,45,98,5
+"Casa independiente (010)",6908,6766,6632,119,15,142,2,45,90,5
+"Departamento en edificio (011)",5,5,5,,,,,,,
+"Vivienda en quinta (012)",75,73,72,1,,2,,,2,
+"Vivienda en casa de vecindad (013)",6,6,6,,,,,,,
+"Vivienda improvisada (015)",70,64,58,4,2,6,,,6,
+"Local no dest.para hab. humana (016)",10,10,10,,,,,,,
+"Otro tipo (017)",2,2,2,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",6000,5742,5348,350,44,258,3,75,155,25
+"Casa independiente (019)",3910,3732,3498,199,35,178,3,75,78,22
+"Choza o cabaña (023)",2077,1997,1837,151,9,80,,,77,3
+"Local no dest.para hab. humana (025)",5,5,5,,,,,,,
+"Otro tipo (026)",8,8,8,,,,,,,

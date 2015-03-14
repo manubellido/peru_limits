@@ -1,0 +1,24 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia SAN PABLO (000)",7590,6951,5750,517,684,639,12,114,490,23
+"Casa independiente (001)",7407,6779,5640,508,631,628,12,114,479,23
+"Vivienda en quinta (003)",42,42,41,1,,,,,,
+"Vivienda en casa de vecindad (004)",15,15,15,,,,,,,
+"Choza o cabaña (005)",121,111,51,8,52,10,,,10,
+"Vivienda improvisada (006)",3,2,1,,1,1,,,1,
+"Local no dest.para hab. humana (007)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",1095,1035,937,75,23,60,,16,42,2
+"Casa independiente (010)",1035,976,880,74,22,59,,16,41,2
+"Vivienda en quinta (012)",42,42,41,1,,,,,,
+"Vivienda en casa de vecindad (013)",15,15,15,,,,,,,
+"Vivienda improvisada (015)",3,2,1,,1,1,,,1,
+,,,,,,,,,,
+"RURAL (018)",6495,5916,4813,442,661,579,12,98,448,21
+"Casa independiente (019)",6372,5803,4760,434,609,569,12,98,438,21
+"Choza o cabaña (023)",121,111,51,8,52,10,,,10,
+"Local no dest.para hab. humana (025)",2,2,2,,,,,,,

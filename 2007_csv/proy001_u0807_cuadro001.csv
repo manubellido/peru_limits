@@ -1,0 +1,29 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CHUMBIVILCAS (000)",26562,24767,19393,3404,1970,1795,11,307,1435,42
+"Casa independiente (001)",21998,20509,16927,2658,924,1489,11,306,1132,40
+"Departamento en edificio (002)",7,7,7,,,,,,,
+"Vivienda en quinta (003)",29,28,24,4,,1,,1,,
+"Vivienda en casa de vecindad (004)",239,237,226,10,1,2,,,2,
+"Choza o cabaña (005)",4238,3949,2183,724,1042,289,,,287,2
+"Vivienda improvisada (006)",29,15,4,8,3,14,,,14,
+"Local no dest.para hab. humana (007)",20,20,20,,,,,,,
+"Otro tipo (008)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",5921,5407,4636,653,118,514,6,131,362,15
+"Casa independiente (010)",5605,5108,4363,631,114,497,6,130,346,15
+"Departamento en edificio (011)",7,7,7,,,,,,,
+"Vivienda en quinta (012)",29,28,24,4,,1,,1,,
+"Vivienda en casa de vecindad (013)",239,237,226,10,1,2,,,2,
+"Vivienda improvisada (015)",29,15,4,8,3,14,,,14,
+"Local no dest.para hab. humana (016)",12,12,12,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",20641,19360,14757,2751,1852,1281,5,176,1073,27
+"Casa independiente (019)",16393,15401,12564,2027,810,992,5,176,786,25
+"Choza o cabaña (023)",4238,3949,2183,724,1042,289,,,287,2
+"Local no dest.para hab. humana (025)",8,8,8,,,,,,,
+"Otro tipo (026)",2,2,2,,,,,,,

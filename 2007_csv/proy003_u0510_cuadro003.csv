@@ -1,0 +1,23 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia VICTOR FAJARDO (000)",24942,459,7923,5132,4223,4103,3102
+"Casa independiente (001)",23744,438,7630,4952,4027,3841,2856
+"Vivienda en quinta (003)",55,1,20,11,13,7,3
+"Vivienda en casa de vecindad (004)",115,6,35,25,23,12,14
+"Choza o cabaña (005)",1004,14,234,138,155,240,223
+"Vivienda improvisada (006)",20,,2,6,3,3,6
+"Local no destinado para hab.humana (007)",4,,2,,2,,
+,,,,,,,
+"URBANA (009)",18434,328,5850,3892,3221,2996,2147
+"Casa independiente (010)",18240,321,5791,3850,3180,2974,2124
+"Vivienda en quinta (012)",55,1,20,11,13,7,3
+"Vivienda en casa de vecindad (013)",115,6,35,25,23,12,14
+"Vivienda improvisada (015)",20,,2,6,3,3,6
+"Local no destinado para hab.humana (016)",4,,2,,2,,
+,,,,,,,
+"RURAL (018)",6508,131,2073,1240,1002,1107,955
+"Casa independiente (019)",5504,117,1839,1102,847,867,732
+"Choza o cabaña (023)",1004,14,234,138,155,240,223

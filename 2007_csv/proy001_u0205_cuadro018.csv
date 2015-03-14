@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia BOLOGNESI (000)",7480,4978,2502
+"Red pública de desague dentro de la vivienda (001)",2288,2122,166
+"Red pública de desague fuera de la vivienda (002)",229,204,25
+"Pozo séptico (003)",184,114,70
+"Pozo ciego o negro / letrina (004)",422,291,131
+"Río, acequia o canal (005)",170,109,61
+"No tiene (006)",4187,2138,2049
+,,,
+"URBANA (008)",4718,3850,868
+"Red pública de desague dentro de la vivienda (009)",2209,2048,161
+"Red pública de desague fuera de la vivienda (010)",216,193,23
+"Pozo séptico (011)",96,82,14
+"Pozo ciego o negro / letrina (012)",132,101,31
+"Río, acequia o canal (013)",88,70,18
+"No tiene (014)",1977,1356,621
+,,,
+"RURAL (016)",2762,1128,1634
+"Red pública de desague dentro de la vivienda (017)",79,74,5
+"Red pública de desague fuera de la vivienda (018)",13,11,2
+"Pozo séptico (019)",88,32,56
+"Pozo ciego o negro / letrina (020)",290,190,100
+"Río, acequia o canal (021)",82,39,43
+"No tiene (022)",2210,782,1428

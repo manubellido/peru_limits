@@ -1,0 +1,50 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia PUERTO INCA",,,
+"Viviendas particulares (001)",253,150,103
+"Ocupantes presentes (002)",1078,678,400
+"Casa independiente",,,
+"Viviendas particulares (004)",247,150,97
+"Ocupantes presentes (005)",1067,678,389
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (010)",6,,6
+"Ocupantes presentes (011)",11,,11
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",202,107,95
+"Ocupantes presentes (029)",842,483,359
+"Casa independiente",,,
+"Viviendas particulares (031)",196,107,89
+"Ocupantes presentes (032)",831,483,348
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (037)",6,,6
+"Ocupantes presentes (038)",11,,11
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",51,43,8
+"Ocupantes presentes (056)",236,195,41
+"Casa independiente",,,
+"Viviendas particulares (058)",51,43,8
+"Ocupantes presentes (059)",236,195,41
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

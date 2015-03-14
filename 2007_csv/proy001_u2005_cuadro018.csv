@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia PAITA (000)",24305,18574,5731
+"Red pública de desague dentro de la vivienda (001)",9669,9224,445
+"Red pública de desague fuera de la vivienda (002)",548,480,68
+"Pozo séptico (003)",1952,1484,468
+"Pozo ciego o negro / letrina (004)",5365,3751,1614
+"Río, acequia o canal (005)",117,57,60
+"No tiene (006)",6654,3578,3076
+,,,
+"URBANA (008)",23213,17989,5224
+"Red pública de desague dentro de la vivienda (009)",9638,9197,441
+"Red pública de desague fuera de la vivienda (010)",543,475,68
+"Pozo séptico (011)",1908,1454,454
+"Pozo ciego o negro / letrina (012)",4970,3498,1472
+"Río, acequia o canal (013)",75,45,30
+"No tiene (014)",6079,3320,2759
+,,,
+"RURAL (016)",1092,585,507
+"Red pública de desague dentro de la vivienda (017)",31,27,4
+"Red pública de desague fuera de la vivienda (018)",5,5,
+"Pozo séptico (019)",44,30,14
+"Pozo ciego o negro / letrina (020)",395,253,142
+"Río, acequia o canal (021)",42,12,30
+"No tiene (022)",575,258,317

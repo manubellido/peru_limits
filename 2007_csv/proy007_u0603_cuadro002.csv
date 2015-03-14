@@ -1,0 +1,88 @@
+"CUADRO Nº 2: POBLACIÓN DE 3 Y MÁS AÑOS DE EDAD, POR AFILIACIÓN A ALGÚN TIPO DE SEGURO DE SALUD, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",TOTAL,"AFILIADO A ALGÚN SEGURO DE SALUD",,,
+,,"SIS (SEGURO INTEGRAL DE SALUD)",ESSALUD,"OTRO SEGURO DE SALUD",NINGUNO
+,,,,,
+"Provincia CELENDIN (000)",82653,29290,4565,885,47967
+"Sin Nivel (001)",15887,6480,411,114,8894
+"Educación Inicial (002)",1699,1118,123,18,441
+"Primaria (003)",47005,17635,1496,356,27545
+"Secundaria (004)",12436,3536,887,180,7837
+"Sup. no Univ. Incompleta (005)",1377,154,107,30,1086
+"Sup. no Univ. Completa (006)",2682,220,1078,96,1298
+"Sup. Univ. Incompleta (007)",528,41,68,19,400
+"Sup. Univ. Completa (008)",1039,106,395,72,466
+"Hombres (010)",40538,13841,2201,462,24067
+"Sin Nivel (011)",5573,2602,186,41,2751
+"Educación Inicial (012)",868,588,59,6,215
+"Primaria (013)",23884,8387,745,166,14601
+"Secundaria (014)",7338,2024,436,111,4769
+"Sup. no Univ. Incompleta (015)",685,70,46,18,551
+"Sup. no Univ. Completa (016)",1282,97,470,61,663
+"Sup. Univ. Incompleta (017)",309,17,40,10,242
+"Sup. Univ. Completa (018)",599,56,219,49,275
+"Mujeres (020)",42115,15449,2364,423,23900
+"Sin Nivel (021)",10314,3878,225,73,6143
+"Educación Inicial (022)",831,530,64,12,226
+"Primaria (023)",23121,9248,751,190,12944
+"Secundaria (024)",5098,1512,451,69,3068
+"Sup. no Univ. Incompleta (025)",692,84,61,12,535
+"Sup. no Univ. Completa (026)",1400,123,608,35,635
+"Sup. Univ. Incompleta (027)",219,24,28,9,158
+"Sup. Univ. Completa (028)",440,50,176,23,191
+,,,,,
+"URBANA (030)",20887,4098,3337,495,12978
+"Sin Nivel (031)",2231,663,203,40,1329
+"Educación Inicial (032)",547,218,100,10,219
+"Primaria (033)",8120,1893,816,141,5274
+"Secundaria (034)",5361,961,726,114,3563
+"Sup. no Univ. Incompleta (035)",1042,95,92,26,829
+"Sup. no Univ. Completa (036)",2234,157,983,84,1020
+"Sup. Univ. Incompleta (037)",445,33,59,17,336
+"Sup. Univ. Completa (038)",907,78,358,63,408
+"Hombres (040)",10031,1888,1568,270,6317
+"Sin Nivel (041)",810,276,86,13,436
+"Educación Inicial (042)",271,118,48,4,101
+"Primaria (043)",3842,877,390,61,2514
+"Secundaria (044)",2809,463,355,71,1922
+"Sup. no Univ. Incompleta (045)",489,34,39,15,401
+"Sup. no Univ. Completa (046)",1040,66,419,54,510
+"Sup. Univ. Incompleta (047)",251,12,36,8,195
+"Sup. Univ. Completa (048)",519,42,195,44,238
+"Mujeres (050)",10856,2210,1769,225,6661
+"Sin Nivel (051)",1421,387,117,27,893
+"Educación Inicial (052)",276,100,52,6,118
+"Primaria (053)",4278,1016,426,80,2760
+"Secundaria (054)",2552,498,371,43,1641
+"Sup. no Univ. Incompleta (055)",553,61,53,11,428
+"Sup. no Univ. Completa (056)",1194,91,564,30,510
+"Sup. Univ. Incompleta (057)",194,21,23,9,141
+"Sup. Univ. Completa (058)",388,36,163,19,170
+,,,,,
+"RURAL (060)",61766,25192,1228,390,34989
+"Sin Nivel (061)",13656,5817,208,74,7565
+"Educación Inicial (062)",1152,900,23,8,222
+"Primaria (063)",38885,15742,680,215,22271
+"Secundaria (064)",7075,2575,161,66,4274
+"Sup. no Univ. Incompleta (065)",335,59,15,4,257
+"Sup. no Univ. Completa (066)",448,63,95,12,278
+"Sup. Univ. Incompleta (067)",83,8,9,2,64
+"Sup. Univ. Completa (068)",132,28,37,9,58
+"Hombres (070)",30507,11953,633,192,17750
+"Sin Nivel (071)",4763,2326,100,28,2315
+"Educación Inicial (072)",597,470,11,2,114
+"Primaria (073)",20042,7510,355,105,12087
+"Secundaria (074)",4529,1561,81,40,2847
+"Sup. no Univ. Incompleta (075)",196,36,7,3,150
+"Sup. no Univ. Completa (076)",242,31,51,7,153
+"Sup. Univ. Incompleta (077)",58,5,4,2,47
+"Sup. Univ. Completa (078)",80,14,24,5,37
+"Mujeres (080)",31259,13239,595,198,17239
+"Sin Nivel (081)",8893,3491,108,46,5250
+"Educación Inicial (082)",555,430,12,6,108
+"Primaria (083)",18843,8232,325,110,10184
+"Secundaria (084)",2546,1014,80,26,1427
+"Sup. no Univ. Incompleta (085)",139,23,8,1,107
+"Sup. no Univ. Completa (086)",206,32,44,5,125
+"Sup. Univ. Incompleta (087)",25,3,5,,17
+"Sup. Univ. Completa (088)",52,14,13,4,21

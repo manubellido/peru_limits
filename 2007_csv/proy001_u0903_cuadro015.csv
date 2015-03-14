@@ -1,0 +1,76 @@
+"CUADRO Nº 15: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE SERVICIO HIGIÉNICO EN LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"SERVICIO HIGIÉNICO CONECTADO A:",,,,,
+,,"RED PÚBLICA DE DESAGÜE (DENTRO DE LA VIVIENDA)","RED PÚBLICA DE DESAGÜE (FUERA DE LA VIVIENDA PERO DENTRO DE LA EDIFICACIÓN)","POZO SÉPTICO","POZO CIEGO O NEGRO / LETRINA","RÍO, ACEQUIA O CANAL","NO TIENE"
+,,,,,,,
+"Provincia ANGARAES",,,,,,,
+"Viviendas particulares (001)",13518,1498,294,581,3824,176,7145
+"Ocupantes presentes (002)",55528,6015,1145,2607,18031,750,26980
+"Casa independiente",,,,,,,
+"Viviendas particulares (004)",12279,1411,235,539,3642,156,6296
+"Ocupantes presentes (005)",51169,5766,944,2417,17315,676,24051
+"Departamento en edificio",,,,,,,
+"Viviendas particulares (007)",9,6,3,,,,
+"Ocupantes presentes (008)",31,15,16,,,,
+"Vivienda en quinta",,,,,,,
+"Viviendas particulares (010)",124,68,33,,,,23
+"Ocupantes presentes (011)",420,203,129,,,,88
+"Vivienda en casa de vecindad",,,,,,,
+"Viviendas particulares (013)",47,13,20,,,,14
+"Ocupantes presentes (014)",136,31,43,,,,62
+"Choza o cabaña",,,,,,,
+"Viviendas particulares (016)",1039,,,42,181,20,796
+"Ocupantes presentes (017)",3716,,,190,715,74,2737
+"Vivienda improvisada",,,,,,,
+"Viviendas particulares (019)",1,,1,,,,
+"Ocupantes presentes (020)",2,,2,,,,
+"Local no dest.para hab. humana",,,,,,,
+"Viviendas particulares (022)",17,,2,,1,,14
+"Ocupantes presentes (023)",50,,11,,1,,38
+"Otro tipo",,,,,,,
+"Viviendas particulares (025)",2,,,,,,2
+"Ocupantes presentes (026)",4,,,,,,4
+,,,,,,,
+URBANA,,,,,,,
+"Viviendas particulares (028)",4232,1443,260,61,443,54,1971
+"Ocupantes presentes (029)",15911,5796,1020,260,2028,264,6543
+"Casa independiente",,,,,,,
+"Viviendas particulares (031)",4037,1356,201,61,443,54,1922
+"Ocupantes presentes (032)",15277,5547,819,260,2028,264,6359
+"Departamento en edificio",,,,,,,
+"Viviendas particulares (034)",9,6,3,,,,
+"Ocupantes presentes (035)",31,15,16,,,,
+"Vivienda en quinta",,,,,,,
+"Viviendas particulares (037)",124,68,33,,,,23
+"Ocupantes presentes (038)",420,203,129,,,,88
+"Vivienda en casa de vecindad",,,,,,,
+"Viviendas particulares (040)",47,13,20,,,,14
+"Ocupantes presentes (041)",136,31,43,,,,62
+"Choza o cabaña",,,,,,,
+"Vivienda improvisada",,,,,,,
+"Viviendas particulares (046)",1,,1,,,,
+"Ocupantes presentes (047)",2,,2,,,,
+"Local no dest.para hab. humana",,,,,,,
+"Viviendas particulares (049)",14,,2,,,,12
+"Ocupantes presentes (050)",45,,11,,,,34
+"Otro tipo",,,,,,,
+,,,,,,,
+RURAL,,,,,,,
+"Viviendas particulares (055)",9286,55,34,520,3381,122,5174
+"Ocupantes presentes (056)",39617,219,125,2347,16003,486,20437
+"Casa independiente",,,,,,,
+"Viviendas particulares (058)",8242,55,34,478,3199,102,4374
+"Ocupantes presentes (059)",35892,219,125,2157,15287,412,17692
+"Departamento en edificio",,,,,,,
+"Vivienda en quinta",,,,,,,
+"Vivienda en casa de vecindad",,,,,,,
+"Choza o cabaña",,,,,,,
+"Viviendas particulares (070)",1039,,,42,181,20,796
+"Ocupantes presentes (071)",3716,,,190,715,74,2737
+"Vivienda improvisada",,,,,,,
+"Local no dest.para hab. humana",,,,,,,
+"Viviendas particulares (076)",3,,,,1,,2
+"Ocupantes presentes (077)",5,,,,1,,4
+"Otro tipo",,,,,,,
+"Viviendas particulares (079)",2,,,,,,2
+"Ocupantes presentes (080)",4,,,,,,4

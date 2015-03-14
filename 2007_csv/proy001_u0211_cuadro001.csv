@@ -1,0 +1,27 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia HUARMEY (000)",8039,7463,6602,581,280,576,13,103,428,32
+"Casa independiente (001)",7665,7139,6340,541,258,526,13,102,386,25
+"Departamento en edificio (002)",14,14,13,1,,,,,,
+"Vivienda en quinta (003)",67,67,67,,,,,,,
+"Vivienda en casa de vecindad (004)",49,47,46,1,,2,,1,1,
+"Choza o cabaña (005)",191,147,92,34,21,44,,,37,7
+"Vivienda improvisada (006)",46,42,37,4,1,4,,,4,
+"Local no dest.para hab. humana (007)",7,7,7,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",5577,5243,4818,318,107,334,11,87,225,11
+"Casa independiente (010)",5395,5067,4649,312,106,328,11,86,220,11
+"Departamento en edificio (011)",14,14,13,1,,,,,,
+"Vivienda en quinta (012)",67,67,67,,,,,,,
+"Vivienda en casa de vecindad (013)",49,47,46,1,,2,,1,1,
+"Vivienda improvisada (015)",46,42,37,4,1,4,,,4,
+"Local no dest.para hab. humana (016)",6,6,6,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",2462,2220,1784,263,173,242,2,16,203,21
+"Casa independiente (019)",2270,2072,1691,229,152,198,2,16,166,14
+"Choza o cabaña (023)",191,147,92,34,21,44,,,37,7
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,

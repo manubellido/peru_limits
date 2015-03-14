@@ -1,0 +1,25 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia PAUCAR DEL SARA SARA (000)",5286,4309,3207,557,545,977,17,98,803,59
+"Casa independiente (001)",4835,3912,2938,484,490,923,16,97,753,57
+"Vivienda en quinta (003)",10,9,9,,,1,1,,,
+"Vivienda en casa de vecindad (004)",114,108,99,3,6,6,,1,3,2
+"Choza o cabaña (005)",319,274,157,70,47,45,,,45,
+"Vivienda improvisada (006)",5,3,1,,2,2,,,2,
+"Local no dest.para hab. humana (007)",3,3,3,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",3055,2572,2137,241,194,483,16,74,363,30
+"Casa independiente (010)",2924,2450,2026,238,186,474,15,73,358,28
+"Vivienda en quinta (012)",10,9,9,,,1,1,,,
+"Vivienda en casa de vecindad (013)",114,108,99,3,6,6,,1,3,2
+"Vivienda improvisada (015)",5,3,1,,2,2,,,2,
+"Local no dest.para hab. humana (016)",2,2,2,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",2231,1737,1070,316,351,494,1,24,440,29
+"Casa independiente (019)",1911,1462,912,246,304,449,1,24,395,29
+"Choza o cabaña (023)",319,274,157,70,47,45,,,45,
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,

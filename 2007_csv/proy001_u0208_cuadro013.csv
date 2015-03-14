@@ -1,0 +1,54 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia CASMA",,,,,
+"Viviendas particulares (001)",918,43,29,581,265
+"Ocupantes presentes (002)",3176,145,92,1930,1009
+"Casa independiente",,,,,
+"Viviendas particulares (004)",913,43,29,579,262
+"Ocupantes presentes (005)",3159,145,92,1924,998
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Viviendas particulares (019)",4,,,2,2
+"Ocupantes presentes (020)",12,,,6,6
+"Local no dest.para hab. humana",,,,,
+"Viviendas particulares (022)",1,,,,1
+"Ocupantes presentes (023)",5,,,,5
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",656,38,28,463,127
+"Ocupantes presentes (029)",2103,121,87,1487,408
+"Casa independiente",,,,,
+"Viviendas particulares (031)",652,38,28,461,125
+"Ocupantes presentes (032)",2091,121,87,1481,402
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Viviendas particulares (046)",4,,,2,2
+"Ocupantes presentes (047)",12,,,6,6
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",262,5,1,118,138
+"Ocupantes presentes (056)",1073,24,5,443,601
+"Casa independiente",,,,,
+"Viviendas particulares (058)",261,5,1,118,137
+"Ocupantes presentes (059)",1068,24,5,443,596
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Viviendas particulares (076)",1,,,,1
+"Ocupantes presentes (077)",5,,,,5
+"Otro tipo",,,,,

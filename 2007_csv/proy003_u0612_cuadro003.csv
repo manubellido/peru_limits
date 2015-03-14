@@ -1,0 +1,23 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia SAN PABLO (000)",23092,486,7523,5798,4181,3224,1880
+"Casa independiente (001)",22690,473,7367,5688,4104,3194,1864
+"Vivienda en quinta (003)",152,4,51,50,30,12,5
+"Vivienda en casa de vecindad (004)",38,2,12,8,12,3,1
+"Choza o cabaña (005)",199,5,89,49,32,15,9
+"Vivienda improvisada (006)",7,1,3,1,2,,
+"Local no destinado para hab.humana (007)",6,1,1,2,1,,1
+,,,,,,,
+"URBANA (009)",3572,81,1038,854,795,543,261
+"Casa independiente (010)",3375,74,972,795,751,528,255
+"Vivienda en quinta (012)",152,4,51,50,30,12,5
+"Vivienda en casa de vecindad (013)",38,2,12,8,12,3,1
+"Vivienda improvisada (015)",7,1,3,1,2,,
+,,,,,,,
+"RURAL (018)",19520,405,6485,4944,3386,2681,1619
+"Casa independiente (019)",19315,399,6395,4893,3353,2666,1609
+"Choza o cabaña (023)",199,5,89,49,32,15,9
+"Local no destinado para hab.humana (025)",6,1,1,2,1,,1

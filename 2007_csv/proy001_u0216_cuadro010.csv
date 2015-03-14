@@ -1,0 +1,58 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia POMABAMBA",,,
+"Viviendas particulares (001)",2967,2479,488
+"Ocupantes presentes (002)",13093,10968,2125
+"Casa independiente",,,
+"Viviendas particulares (004)",2939,2458,481
+"Ocupantes presentes (005)",12976,10872,2104
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (010)",15,11,4
+"Ocupantes presentes (011)",66,57,9
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",12,9,3
+"Ocupantes presentes (014)",46,34,12
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (022)",1,1,
+"Ocupantes presentes (023)",5,5,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",1069,863,206
+"Ocupantes presentes (029)",4618,3717,901
+"Casa independiente",,,
+"Viviendas particulares (031)",1041,842,199
+"Ocupantes presentes (032)",4501,3621,880
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (037)",15,11,4
+"Ocupantes presentes (038)",66,57,9
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",12,9,3
+"Ocupantes presentes (041)",46,34,12
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (049)",1,1,
+"Ocupantes presentes (050)",5,5,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",1898,1616,282
+"Ocupantes presentes (056)",8475,7251,1224
+"Casa independiente",,,
+"Viviendas particulares (058)",1898,1616,282
+"Ocupantes presentes (059)",8475,7251,1224
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

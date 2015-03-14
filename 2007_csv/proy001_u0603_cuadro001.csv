@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CELENDIN (000)",28256,26031,21318,1906,2807,2225,61,257,1802,105
+"Casa independiente (001)",26969,24811,20409,1791,2611,2158,58,257,1745,98
+"Departamento en edificio (002)",13,13,12,1,,,,,,
+"Vivienda en quinta (003)",147,145,139,5,1,2,1,,,1
+"Vivienda en casa de vecindad (004)",116,110,93,16,1,6,2,,4,
+"Choza o cabaña (005)",980,923,642,88,193,57,,,51,6
+"Vivienda improvisada (006)",9,7,1,5,1,2,,,2,
+"Local no dest.para hab. humana (007)",17,17,17,,,,,,,
+"Otro tipo (008)",5,5,5,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",6259,5863,5303,428,132,396,16,73,289,18
+"Casa independiente (010)",5962,5576,5046,401,129,386,13,73,283,17
+"Departamento en edificio (011)",13,13,12,1,,,,,,
+"Vivienda en quinta (012)",147,145,139,5,1,2,1,,,1
+"Vivienda en casa de vecindad (013)",116,110,93,16,1,6,2,,4,
+"Vivienda improvisada (015)",9,7,1,5,1,2,,,2,
+"Local no dest.para hab. humana (016)",9,9,9,,,,,,,
+"Otro tipo (017)",3,3,3,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",21997,20168,16015,1478,2675,1829,45,184,1513,87
+"Casa independiente (019)",21007,19235,15363,1390,2482,1772,45,184,1462,81
+"Choza o cabaña (023)",980,923,642,88,193,57,,,51,6
+"Local no dest.para hab. humana (025)",8,8,8,,,,,,,
+"Otro tipo (026)",2,2,2,,,,,,,

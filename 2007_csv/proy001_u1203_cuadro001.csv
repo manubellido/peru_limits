@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CHANCHAMAYO (000)",48686,46813,41934,3490,1389,1873,136,339,1263,135
+"Casa independiente (001)",36953,35453,32165,2492,796,1500,109,336,949,106
+"Departamento en edificio (002)",649,627,583,44,,22,9,1,9,3
+"Vivienda en quinta (003)",1084,1053,979,69,5,31,7,1,23,
+"Vivienda en casa de vecindad (004)",1110,1081,1029,51,1,29,11,1,12,5
+"Choza o cabaña (005)",8266,8018,6659,781,578,248,,,229,19
+"Vivienda improvisada (006)",487,444,382,53,9,43,,,41,2
+"Local no dest.para hab. humana (007)",103,103,103,,,,,,,
+"Otro tipo (008)",34,34,34,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",25159,24247,22733,1393,121,912,106,173,567,66
+"Casa independiente (010)",21715,20928,19646,1176,106,787,79,170,482,56
+"Departamento en edificio (011)",649,627,583,44,,22,9,1,9,3
+"Vivienda en quinta (012)",1084,1053,979,69,5,31,7,1,23,
+"Vivienda en casa de vecindad (013)",1110,1081,1029,51,1,29,11,1,12,5
+"Vivienda improvisada (015)",487,444,382,53,9,43,,,41,2
+"Local no dest.para hab. humana (016)",87,87,87,,,,,,,
+"Otro tipo (017)",27,27,27,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",23527,22566,19201,2097,1268,961,30,166,696,69
+"Casa independiente (019)",15238,14525,12519,1316,690,713,30,166,467,50
+"Choza o cabaña (023)",8266,8018,6659,781,578,248,,,229,19
+"Local no dest.para hab. humana (025)",16,16,16,,,,,,,
+"Otro tipo (026)",7,7,7,,,,,,,

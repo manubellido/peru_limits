@@ -1,0 +1,54 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia CASTROVIRREYNA",,,,,
+"Viviendas particulares (001)",105,17,3,21,64
+"Ocupantes presentes (002)",415,61,6,89,259
+"Casa independiente",,,,,
+"Viviendas particulares (004)",97,17,3,21,56
+"Ocupantes presentes (005)",384,61,6,89,228
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (016)",7,,,,7
+"Ocupantes presentes (017)",28,,,,28
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+"Viviendas particulares (025)",1,,,,1
+"Ocupantes presentes (026)",3,,,,3
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",12,2,3,2,5
+"Ocupantes presentes (029)",39,3,6,10,20
+"Casa independiente",,,,,
+"Viviendas particulares (031)",12,2,3,2,5
+"Ocupantes presentes (032)",39,3,6,10,20
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",93,15,,19,59
+"Ocupantes presentes (056)",376,58,,79,239
+"Casa independiente",,,,,
+"Viviendas particulares (058)",85,15,,19,51
+"Ocupantes presentes (059)",345,58,,79,208
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (070)",7,,,,7
+"Ocupantes presentes (071)",28,,,,28
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+"Viviendas particulares (079)",1,,,,1
+"Ocupantes presentes (080)",3,,,,3

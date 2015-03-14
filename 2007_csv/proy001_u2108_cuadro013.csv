@@ -1,0 +1,54 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia MELGAR",,,,,
+"Viviendas particulares (001)",563,157,59,164,183
+"Ocupantes presentes (002)",2151,589,212,649,701
+"Casa independiente",,,,,
+"Viviendas particulares (004)",555,155,59,160,181
+"Ocupantes presentes (005)",2115,583,212,632,688
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (013)",7,2,,4,1
+"Ocupantes presentes (014)",25,6,,17,2
+"Choza o cabaña",,,,,
+"Viviendas particulares (016)",1,,,,1
+"Ocupantes presentes (017)",11,,,,11
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",407,93,36,137,141
+"Ocupantes presentes (029)",1565,354,131,528,552
+"Casa independiente",,,,,
+"Viviendas particulares (031)",400,91,36,133,140
+"Ocupantes presentes (032)",1540,348,131,511,550
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (040)",7,2,,4,1
+"Ocupantes presentes (041)",25,6,,17,2
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",156,64,23,27,42
+"Ocupantes presentes (056)",586,235,81,121,149
+"Casa independiente",,,,,
+"Viviendas particulares (058)",155,64,23,27,41
+"Ocupantes presentes (059)",575,235,81,121,138
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (070)",1,,,,1
+"Ocupantes presentes (071)",11,,,,11
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

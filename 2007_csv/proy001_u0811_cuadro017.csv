@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia PAUCARTAMBO (000)",11311,5187,6124
+"Red pública dentro de la vivienda (001)",1559,1148,411
+"Red pública fuera de la vivienda (002)",4021,2707,1314
+"Pilón de uso público (003)",584,193,391
+"Camión - cisterna u otro similar (004)",28,5,23
+"Pozo (005)",1029,173,856
+"Río, acequia, manatial o similar (006)",3365,697,2668
+"Vecino (007)",602,224,378
+"Otro (008)",123,40,83
+,,,
+"URBANA (010)",2178,1758,420
+"Red pública dentro de la vivienda (011)",480,428,52
+"Red pública fuera de la vivienda (012)",1354,1109,245
+"Pilón de uso público (013)",37,30,7
+"Pozo (015)",33,23,10
+"Río, acequia, manatial o similar (016)",85,64,21
+"Vecino (017)",155,81,74
+"Otro (018)",34,23,11
+,,,
+"RURAL (020)",9133,3429,5704
+"Red pública dentro de la vivienda (021)",1079,720,359
+"Red pública fuera de la vivienda (022)",2667,1598,1069
+"Pilón de uso público (023)",547,163,384
+"Camión - cisterna u otro similar (024)",28,5,23
+"Pozo (025)",996,150,846
+"Río, acequia, manatial o similar (026)",3280,633,2647
+"Vecino (027)",447,143,304
+"Otro (028)",89,17,72

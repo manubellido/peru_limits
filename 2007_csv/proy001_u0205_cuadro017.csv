@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia BOLOGNESI (000)",7480,4978,2502
+"Red pública dentro de la vivienda (001)",3606,3137,469
+"Red pública fuera de la vivienda (002)",469,383,86
+"Pilón de uso público (003)",38,28,10
+"Pozo (005)",154,40,114
+"Río, acequia, manatial o similar (006)",2873,1237,1636
+"Vecino (007)",257,121,136
+"Otro (008)",83,32,51
+,,,
+"URBANA (010)",4718,3850,868
+"Red pública dentro de la vivienda (011)",3021,2647,374
+"Red pública fuera de la vivienda (012)",404,326,78
+"Pilón de uso público (013)",31,24,7
+"Pozo (015)",44,28,16
+"Río, acequia, manatial o similar (016)",932,690,242
+"Vecino (017)",231,112,119
+"Otro (018)",55,23,32
+,,,
+"RURAL (020)",2762,1128,1634
+"Red pública dentro de la vivienda (021)",585,490,95
+"Red pública fuera de la vivienda (022)",65,57,8
+"Pilón de uso público (023)",7,4,3
+"Pozo (025)",110,12,98
+"Río, acequia, manatial o similar (026)",1941,547,1394
+"Vecino (027)",26,9,17
+"Otro (028)",28,9,19

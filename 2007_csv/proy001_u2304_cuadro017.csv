@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia TARATA (000)",2717,1717,1000
+"Red pública dentro de la vivienda (001)",1396,1123,273
+"Red pública fuera de la vivienda (002)",54,39,15
+"Pilón de uso público (003)",42,11,31
+"Pozo (005)",397,251,146
+"Río, acequia, manatial o similar (006)",752,265,487
+"Vecino (007)",49,23,26
+"Otro (008)",27,5,22
+,,,
+"URBANA (010)",2062,1541,521
+"Red pública dentro de la vivienda (011)",1326,1084,242
+"Red pública fuera de la vivienda (012)",48,35,13
+"Pilón de uso público (013)",15,5,10
+"Pozo (015)",297,211,86
+"Río, acequia, manatial o similar (016)",321,189,132
+"Vecino (017)",32,12,20
+"Otro (018)",23,5,18
+,,,
+"RURAL (020)",655,176,479
+"Red pública dentro de la vivienda (021)",70,39,31
+"Red pública fuera de la vivienda (022)",6,4,2
+"Pilón de uso público (023)",27,6,21
+"Pozo (025)",100,40,60
+"Río, acequia, manatial o similar (026)",431,76,355
+"Vecino (027)",17,11,6
+"Otro (028)",4,,4

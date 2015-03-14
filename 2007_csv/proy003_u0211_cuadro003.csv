@@ -1,0 +1,26 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia HUARMEY (000)",27279,447,7997,6933,5672,4073,2157
+"Casa independiente (001)",26268,433,7689,6633,5452,3950,2111
+"Departamento en edificio (002)",58,,20,11,19,7,1
+"Vivienda en quinta (003)",212,2,58,64,53,28,7
+"Vivienda en casa de vecindad (004)",175,2,50,55,41,15,12
+"Choza o cabaña (005)",382,9,119,114,64,55,21
+"Vivienda improvisada (006)",157,1,57,46,35,13,5
+"Local no destinado para hab.humana (007)",27,,4,10,8,5,
+,,,,,,,
+"URBANA (009)",20609,331,5954,5169,4423,3080,1652
+"Casa independiente (010)",19981,326,5765,4984,4267,3012,1627
+"Departamento en edificio (011)",58,,20,11,19,7,1
+"Vivienda en quinta (012)",212,2,58,64,53,28,7
+"Vivienda en casa de vecindad (013)",175,2,50,55,41,15,12
+"Vivienda improvisada (015)",157,1,57,46,35,13,5
+"Local no destinado para hab.humana (016)",26,,4,9,8,5,
+,,,,,,,
+"RURAL (018)",6670,116,2043,1764,1249,993,505
+"Casa independiente (019)",6287,107,1924,1649,1185,938,484
+"Choza o cabaña (023)",382,9,119,114,64,55,21
+"Local no destinado para hab.humana (025)",1,,,1,,,

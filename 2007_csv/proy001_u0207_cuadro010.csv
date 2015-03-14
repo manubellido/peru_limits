@@ -1,0 +1,58 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia CARLOS FERMIN FITZCARRALD",,,
+"Viviendas particulares (001)",454,434,20
+"Ocupantes presentes (002)",1933,1845,88
+"Casa independiente",,,
+"Viviendas particulares (004)",436,416,20
+"Ocupantes presentes (005)",1891,1803,88
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (010)",15,15,
+"Ocupantes presentes (011)",34,34,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",1,1,
+"Ocupantes presentes (014)",3,3,
+"Choza o cabaña",,,
+"Viviendas particulares (016)",2,2,
+"Ocupantes presentes (017)",5,5,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",43,38,5
+"Ocupantes presentes (029)",133,118,15
+"Casa independiente",,,
+"Viviendas particulares (031)",27,22,5
+"Ocupantes presentes (032)",96,81,15
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (037)",15,15,
+"Ocupantes presentes (038)",34,34,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",1,1,
+"Ocupantes presentes (041)",3,3,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",411,396,15
+"Ocupantes presentes (056)",1800,1727,73
+"Casa independiente",,,
+"Viviendas particulares (058)",409,394,15
+"Ocupantes presentes (059)",1795,1722,73
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Viviendas particulares (070)",2,2,
+"Ocupantes presentes (071)",5,5,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

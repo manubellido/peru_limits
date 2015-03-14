@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia MELGAR (000)",29148,27598,19992,3423,4183,1550,59,292,1130,69
+"Casa independiente (001)",21680,20358,15613,2572,2173,1322,59,291,917,55
+"Departamento en edificio (002)",2,2,2,,,,,,,
+"Vivienda en quinta (003)",17,16,12,2,2,1,,,1,
+"Vivienda en casa de vecindad (004)",1011,1003,924,75,4,8,,1,2,5
+"Choza o cabaña (005)",6340,6130,3408,722,2000,210,,,201,9
+"Vivienda improvisada (006)",69,60,4,52,4,9,,,9,
+"Local no dest.para hab. humana (007)",22,22,22,,,,,,,
+"Otro tipo (008)",7,7,7,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",11768,11095,9531,1376,188,673,30,225,405,13
+"Casa independiente (010)",10650,9995,8570,1247,178,655,30,224,393,8
+"Departamento en edificio (011)",2,2,2,,,,,,,
+"Vivienda en quinta (012)",17,16,12,2,2,1,,,1,
+"Vivienda en casa de vecindad (013)",1011,1003,924,75,4,8,,1,2,5
+"Vivienda improvisada (015)",69,60,4,52,4,9,,,9,
+"Local no dest.para hab. humana (016)",17,17,17,,,,,,,
+"Otro tipo (017)",2,2,2,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",17380,16503,10461,2047,3995,877,29,67,725,56
+"Casa independiente (019)",11030,10363,7043,1325,1995,667,29,67,524,47
+"Choza o cabaña (023)",6340,6130,3408,722,2000,210,,,201,9
+"Local no dest.para hab. humana (025)",5,5,5,,,,,,,
+"Otro tipo (026)",5,5,5,,,,,,,

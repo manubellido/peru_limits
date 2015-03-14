@@ -1,0 +1,32 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia MARISCAL LUZURIAGA (000)",5380,1965,3415
+"Red pública dentro de la vivienda (001)",883,398,485
+"Red pública fuera de la vivienda (002)",354,149,205
+"Pilón de uso público (003)",148,32,116
+"Camión - cisterna u otro similar (004)",12,2,10
+"Pozo (005)",579,148,431
+"Río, acequia, manatial o similar (006)",2733,1025,1708
+"Vecino (007)",292,64,228
+"Otro (008)",379,147,232
+,,,
+"URBANA (010)",689,562,127
+"Red pública dentro de la vivienda (011)",371,299,72
+"Red pública fuera de la vivienda (012)",30,26,4
+"Pozo (015)",41,38,3
+"Río, acequia, manatial o similar (016)",156,134,22
+"Vecino (017)",37,26,11
+"Otro (018)",54,39,15
+,,,
+"RURAL (020)",4691,1403,3288
+"Red pública dentro de la vivienda (021)",512,99,413
+"Red pública fuera de la vivienda (022)",324,123,201
+"Pilón de uso público (023)",148,32,116
+"Camión - cisterna u otro similar (024)",12,2,10
+"Pozo (025)",538,110,428
+"Río, acequia, manatial o similar (026)",2577,891,1686
+"Vecino (027)",255,38,217
+"Otro (028)",325,108,217

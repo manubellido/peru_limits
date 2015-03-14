@@ -1,0 +1,22 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia POMABAMBA (000)",8533,7575,6425,313,837,958,2,111,828,17
+"Casa independiente (001)",8380,7464,6363,311,790,916,2,111,788,15
+"Vivienda en quinta (003)",15,15,15,,,,,,,
+"Vivienda en casa de vecindad (004)",13,13,12,1,,,,,,
+"Choza o cabaña (005)",123,81,33,1,47,42,,,40,2
+"Local no dest.para hab. humana (007)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",1606,1495,1419,46,30,111,,23,82,6
+"Casa independiente (010)",1576,1465,1390,45,30,111,,23,82,6
+"Vivienda en quinta (012)",15,15,15,,,,,,,
+"Vivienda en casa de vecindad (013)",13,13,12,1,,,,,,
+"Local no dest.para hab. humana (016)",2,2,2,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",6927,6080,5006,267,807,847,2,88,746,11
+"Casa independiente (019)",6804,5999,4973,266,760,805,2,88,706,9
+"Choza o cabaña (023)",123,81,33,1,47,42,,,40,2

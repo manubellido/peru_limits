@@ -1,0 +1,28 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia CONDORCANQUI (000)",42662,1550,20497,10668,6178,3237,532
+"Casa independiente (001)",9759,289,4315,2625,1531,876,123
+"Departamento en edificio (002)",15,,2,7,6,,
+"Vivienda en quinta (003)",33,1,12,7,10,3,
+"Vivienda en casa de vecindad (004)",166,4,62,51,36,12,1
+"Choza o cabaña (005)",32596,1252,16069,7952,4580,2335,408
+"Vivienda improvisada (006)",72,1,33,19,12,7,
+"Local no destinado para hab.humana (007)",13,1,2,4,2,4,
+"Otro tipo (008)",8,2,2,3,1,,
+,,,,,,,
+"URBANA (009)",6124,167,2711,1682,956,545,63
+"Casa independiente (010)",5831,161,2600,1597,891,520,62
+"Departamento en edificio (011)",15,,2,7,6,,
+"Vivienda en quinta (012)",33,1,12,7,10,3,
+"Vivienda en casa de vecindad (013)",166,4,62,51,36,12,1
+"Vivienda improvisada (015)",72,1,33,19,12,7,
+"Local no destinado para hab.humana (016)",7,,2,1,1,3,
+,,,,,,,
+"RURAL (018)",36538,1383,17786,8986,5222,2692,469
+"Casa independiente (019)",3928,128,1715,1028,640,356,61
+"Choza o cabaña (023)",32596,1252,16069,7952,4580,2335,408
+"Local no destinado para hab.humana (025)",6,1,,3,1,1,
+"Otro tipo (026)",8,2,2,3,1,,

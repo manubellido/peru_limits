@@ -1,0 +1,25 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia YUNGAY (000)",54181,1035,18281,13941,9611,7358,3955
+"Casa independiente (001)",53577,1013,18055,13796,9498,7292,3923
+"Departamento en edificio (002)",36,1,14,9,8,3,1
+"Vivienda en quinta (003)",87,3,34,25,19,6,
+"Vivienda en casa de vecindad (004)",50,4,9,14,11,7,5
+"Choza o cabaña (005)",420,14,165,95,71,50,25
+"Vivienda improvisada (006)",9,,4,2,2,,1
+"Local no destinado para hab.humana (007)",2,,,,2,,
+,,,,,,,
+"URBANA (009)",12560,219,3507,3340,2534,1913,1047
+"Casa independiente (010)",12378,211,3446,3290,2494,1897,1040
+"Departamento en edificio (011)",36,1,14,9,8,3,1
+"Vivienda en quinta (012)",87,3,34,25,19,6,
+"Vivienda en casa de vecindad (013)",50,4,9,14,11,7,5
+"Vivienda improvisada (015)",9,,4,2,2,,1
+,,,,,,,
+"RURAL (018)",41621,816,14774,10601,7077,5445,2908
+"Casa independiente (019)",41199,802,14609,10506,7004,5395,2883
+"Choza o cabaña (023)",420,14,165,95,71,50,25
+"Local no destinado para hab.humana (025)",2,,,,2,,

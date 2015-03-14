@@ -1,0 +1,29 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia LEONCIO PRADO (000)",114713,2173,36876,32418,22799,15494,4953
+"Casa independiente (001)",89295,1668,28490,25125,17547,12384,4081
+"Departamento en edificio (002)",1675,21,424,519,432,216,63
+"Vivienda en quinta (003)",3807,91,1083,1270,823,425,115
+"Vivienda en casa de vecindad (004)",1317,32,379,430,261,172,43
+"Choza o cabaña (005)",17728,342,6278,4804,3500,2172,632
+"Vivienda improvisada (006)",742,15,192,218,201,103,13
+"Local no destinado para hab.humana (007)",98,2,20,31,24,16,5
+"Otro tipo (008)",51,2,10,21,11,6,1
+,,,,,,,
+"URBANA (009)",66676,1268,20104,19332,13575,9496,2901
+"Casa independiente (010)",59025,1107,18002,16858,11831,8564,2663
+"Departamento en edificio (011)",1675,21,424,519,432,216,63
+"Vivienda en quinta (012)",3807,91,1083,1270,823,425,115
+"Vivienda en casa de vecindad (013)",1317,32,379,430,261,172,43
+"Vivienda improvisada (015)",742,15,192,218,201,103,13
+"Local no destinado para hab.humana (016)",97,2,20,31,24,16,4
+"Otro tipo (017)",13,,4,6,3,,
+,,,,,,,
+"RURAL (018)",48037,905,16772,13086,9224,5998,2052
+"Casa independiente (019)",30270,561,10488,8267,5716,3820,1418
+"Choza o cabaña (023)",17728,342,6278,4804,3500,2172,632
+"Local no destinado para hab.humana (025)",1,,,,,,1
+"Otro tipo (026)",38,2,6,15,8,6,1

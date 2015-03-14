@@ -1,0 +1,27 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia PUERTO INCA (000)",8782,8235,7097,885,253,547,10,145,349,43
+"Casa independiente (001)",5559,5190,4511,573,106,369,10,145,197,17
+"Vivienda en quinta (003)",6,6,6,,,,,,,
+"Vivienda en casa de vecindad (004)",13,13,13,,,,,,,
+"Choza o cabaña (005)",3180,3002,2546,309,147,178,,,152,26
+"Vivienda improvisada (006)",11,11,8,3,,,,,,
+"Local no dest.para hab. humana (007)",7,7,7,,,,,,,
+"Otro tipo (008)",6,6,6,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",1675,1532,1338,182,12,143,2,65,75,1
+"Casa independiente (010)",1643,1500,1309,179,12,143,2,65,75,1
+"Vivienda en quinta (012)",6,6,6,,,,,,,
+"Vivienda en casa de vecindad (013)",13,13,13,,,,,,,
+"Vivienda improvisada (015)",11,11,8,3,,,,,,
+"Local no dest.para hab. humana (016)",2,2,2,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",7107,6703,5759,703,241,404,8,80,274,42
+"Casa independiente (019)",3916,3690,3202,394,94,226,8,80,122,16
+"Choza o cabaña (023)",3180,3002,2546,309,147,178,,,152,26
+"Local no dest.para hab. humana (025)",5,5,5,,,,,,,
+"Otro tipo (026)",6,6,6,,,,,,,

@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia DATEM DEL MARAÑON (000)",8723,2349,6374
+"Red pública de desague dentro de la vivienda (001)",448,426,22
+"Red pública de desague fuera de la vivienda (002)",125,119,6
+"Pozo séptico (003)",265,154,111
+"Pozo ciego o negro / letrina (004)",2005,863,1142
+"Río, acequia o canal (005)",887,140,747
+"No tiene (006)",4993,647,4346
+,,,
+"URBANA (008)",2565,1883,682
+"Red pública de desague dentro de la vivienda (009)",442,422,20
+"Red pública de desague fuera de la vivienda (010)",120,117,3
+"Pozo séptico (011)",204,151,53
+"Pozo ciego o negro / letrina (012)",1012,745,267
+"Río, acequia o canal (013)",145,87,58
+"No tiene (014)",642,361,281
+,,,
+"RURAL (016)",6158,466,5692
+"Red pública de desague dentro de la vivienda (017)",6,4,2
+"Red pública de desague fuera de la vivienda (018)",5,2,3
+"Pozo séptico (019)",61,3,58
+"Pozo ciego o negro / letrina (020)",993,118,875
+"Río, acequia o canal (021)",742,53,689
+"No tiene (022)",4351,286,4065

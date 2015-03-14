@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CHURCAMPA (000)",11054,5921,5133
+"Red pública dentro de la vivienda (001)",1311,903,408
+"Red pública fuera de la vivienda (002)",1025,748,277
+"Pilón de uso público (003)",314,180,134
+"Camión - cisterna u otro similar (004)",21,6,15
+"Pozo (005)",171,55,116
+"Río, acequia, manatial o similar (006)",7539,3724,3815
+"Vecino (007)",392,153,239
+"Otro (008)",281,152,129
+,,,
+"URBANA (010)",2476,1956,520
+"Red pública dentro de la vivienda (011)",704,593,111
+"Red pública fuera de la vivienda (012)",523,443,80
+"Pilón de uso público (013)",47,31,16
+"Camión - cisterna u otro similar (014)",2,1,1
+"Pozo (015)",22,16,6
+"Río, acequia, manatial o similar (016)",977,772,205
+"Vecino (017)",171,81,90
+"Otro (018)",30,19,11
+,,,
+"RURAL (020)",8578,3965,4613
+"Red pública dentro de la vivienda (021)",607,310,297
+"Red pública fuera de la vivienda (022)",502,305,197
+"Pilón de uso público (023)",267,149,118
+"Camión - cisterna u otro similar (024)",19,5,14
+"Pozo (025)",149,39,110
+"Río, acequia, manatial o similar (026)",6562,2952,3610
+"Vecino (027)",221,72,149
+"Otro (028)",251,133,118

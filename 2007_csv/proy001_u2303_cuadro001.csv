@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia JORGE BASADRE (000)",5016,4178,3171,755,252,838,3,14,793,28
+"Casa independiente (001)",2177,2064,1824,183,57,113,3,9,93,8
+"Departamento en edificio (002)",1919,1240,745,441,54,679,,5,658,16
+"Vivienda en quinta (003)",25,25,25,,,,,,,
+"Vivienda en casa de vecindad (004)",148,148,138,10,,,,,,
+"Choza o cabaña (005)",703,660,402,117,141,43,,,39,4
+"Vivienda improvisada (006)",26,23,19,4,,3,,,3,
+"Local no dest.para hab. humana (007)",16,16,16,,,,,,,
+"Otro tipo (008)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",3274,2534,1897,572,65,740,,11,706,23
+"Casa independiente (010)",1147,1089,961,117,11,58,,6,45,7
+"Departamento en edificio (011)",1919,1240,745,441,54,679,,5,658,16
+"Vivienda en quinta (012)",25,25,25,,,,,,,
+"Vivienda en casa de vecindad (013)",148,148,138,10,,,,,,
+"Vivienda improvisada (015)",26,23,19,4,,3,,,3,
+"Local no dest.para hab. humana (016)",8,8,8,,,,,,,
+"Otro tipo (017)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",1742,1644,1274,183,187,98,3,3,87,5
+"Casa independiente (019)",1030,975,863,66,46,55,3,3,48,1
+"Choza o cabaña (023)",703,660,402,117,141,43,,,39,4
+"Local no dest.para hab. humana (025)",8,8,8,,,,,,,
+"Otro tipo (026)",1,1,1,,,,,,,

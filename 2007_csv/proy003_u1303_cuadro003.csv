@@ -1,0 +1,22 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia BOLIVAR (000)",16570,432,6622,3641,2778,2135,962
+"Casa independiente (001)",15700,401,6248,3460,2635,2048,908
+"Vivienda en quinta (003)",50,3,14,16,12,4,1
+"Vivienda en casa de vecindad (004)",5,,,,2,2,1
+"Choza o cabaña (005)",802,27,356,163,126,79,51
+"Local no destinado para hab.humana (007)",13,1,4,2,3,2,1
+,,,,,,,
+"URBANA (009)",5674,122,2031,1240,1042,876,363
+"Casa independiente (010)",5611,119,2015,1222,1026,869,360
+"Vivienda en quinta (012)",50,3,14,16,12,4,1
+"Vivienda en casa de vecindad (013)",5,,,,2,2,1
+"Local no destinado para hab.humana (016)",8,,2,2,2,1,1
+,,,,,,,
+"RURAL (018)",10896,310,4591,2401,1736,1259,599
+"Casa independiente (019)",10089,282,4233,2238,1609,1179,548
+"Choza o cabaña (023)",802,27,356,163,126,79,51
+"Local no destinado para hab.humana (025)",5,1,2,,1,1,

@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia QUISPICANCHI (000)",24897,22514,19502,1741,1271,2383,70,387,1885,41
+"Casa independiente (001)",22065,19919,17574,1446,899,2146,69,387,1653,37
+"Departamento en edificio (002)",23,22,22,,,1,1,,,
+"Vivienda en quinta (003)",33,33,33,,,,,,,
+"Vivienda en casa de vecindad (004)",70,69,66,1,2,1,,,1,
+"Choza o cabaña (005)",2617,2388,1738,284,366,229,,,225,4
+"Vivienda improvisada (006)",27,21,7,10,4,6,,,6,
+"Local no dest.para hab. humana (007)",23,23,23,,,,,,,
+"Otro tipo (008)",39,39,39,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",8337,7718,6844,662,212,619,27,155,419,18
+"Casa independiente (010)",8169,7558,6701,651,206,611,26,155,412,18
+"Departamento en edificio (011)",23,22,22,,,1,1,,,
+"Vivienda en quinta (012)",33,33,33,,,,,,,
+"Vivienda en casa de vecindad (013)",70,69,66,1,2,1,,,1,
+"Vivienda improvisada (015)",27,21,7,10,4,6,,,6,
+"Local no dest.para hab. humana (016)",14,14,14,,,,,,,
+"Otro tipo (017)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",16560,14796,12658,1079,1059,1764,43,232,1466,23
+"Casa independiente (019)",13896,12361,10873,795,693,1535,43,232,1241,19
+"Choza o cabaña (023)",2617,2388,1738,284,366,229,,,225,4
+"Local no dest.para hab. humana (025)",9,9,9,,,,,,,
+"Otro tipo (026)",38,38,38,,,,,,,

@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia HUAYTARA (000)",11741,10784,6777,2956,1051,957,18,129,781,29
+"Casa independiente (001)",9163,8371,5504,2280,587,792,18,129,622,23
+"Departamento en edificio (002)",12,12,6,6,,,,,,
+"Vivienda en quinta (003)",20,20,18,2,,,,,,
+"Vivienda en casa de vecindad (004)",55,54,34,19,1,1,,,1,
+"Choza o cabaña (005)",2473,2309,1197,649,463,164,,,158,6
+"Vivienda improvisada (006)",3,3,3,,,,,,,
+"Local no dest.para hab. humana (007)",11,11,11,,,,,,,
+"Otro tipo (008)",4,4,4,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",3086,2892,1965,820,107,194,4,43,137,10
+"Casa independiente (010)",2993,2800,1901,793,106,193,4,43,136,10
+"Departamento en edificio (011)",12,12,6,6,,,,,,
+"Vivienda en quinta (012)",20,20,18,2,,,,,,
+"Vivienda en casa de vecindad (013)",55,54,34,19,1,1,,,1,
+"Vivienda improvisada (015)",3,3,3,,,,,,,
+"Local no dest.para hab. humana (016)",2,2,2,,,,,,,
+"Otro tipo (017)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",8655,7892,4812,2136,944,763,14,86,644,19
+"Casa independiente (019)",6170,5571,3603,1487,481,599,14,86,486,13
+"Choza o cabaña (023)",2473,2309,1197,649,463,164,,,158,6
+"Local no dest.para hab. humana (025)",9,9,9,,,,,,,
+"Otro tipo (026)",3,3,3,,,,,,,

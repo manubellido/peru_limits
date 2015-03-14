@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia LIMA (000)",1718091,1627161,90930
+"Red pública de desague dentro de la vivienda (001)",1299566,1288231,11335
+"Red pública de desague fuera de la vivienda (002)",132091,128638,3453
+"Pozo séptico (003)",87661,69636,18025
+"Pozo ciego o negro / letrina (004)",138636,100577,38059
+"Río, acequia o canal (005)",8802,7629,1173
+"No tiene (006)",51335,32450,18885
+,,,
+"URBANA (008)",1715402,1626338,89064
+"Red pública de desague dentro de la vivienda (009)",1299527,1288205,11322
+"Red pública de desague fuera de la vivienda (010)",132067,128629,3438
+"Pozo séptico (011)",87022,69435,17587
+"Pozo ciego o negro / letrina (012)",137157,100085,37072
+"Río, acequia o canal (013)",8675,7590,1085
+"No tiene (014)",50954,32394,18560
+,,,
+"RURAL (016)",2689,823,1866
+"Red pública de desague dentro de la vivienda (017)",39,26,13
+"Red pública de desague fuera de la vivienda (018)",24,9,15
+"Pozo séptico (019)",639,201,438
+"Pozo ciego o negro / letrina (020)",1479,492,987
+"Río, acequia o canal (021)",127,39,88
+"No tiene (022)",381,56,325

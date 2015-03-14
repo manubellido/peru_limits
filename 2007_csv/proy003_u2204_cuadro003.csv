@@ -1,0 +1,25 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia HUALLAGA (000)",24441,485,7912,6247,4951,3414,1432
+"Casa independiente (001)",20841,384,6657,5166,4343,2995,1296
+"Vivienda en quinta (003)",139,,42,50,30,14,3
+"Vivienda en casa de vecindad (004)",117,1,36,37,19,19,5
+"Choza o cabaña (005)",3302,100,1161,983,553,379,126
+"Vivienda improvisada (006)",10,,4,2,1,3,
+"Local no destinado para hab.humana (007)",22,,10,7,3,2,
+"Otro tipo (008)",10,,2,2,2,2,2
+,,,,,,,
+"URBANA (009)",13274,208,3746,3066,2980,2210,1064
+"Casa independiente (010)",12976,207,3652,2968,2925,2170,1054
+"Vivienda en quinta (012)",139,,42,50,30,14,3
+"Vivienda en casa de vecindad (013)",117,1,36,37,19,19,5
+"Vivienda improvisada (015)",10,,4,2,1,3,
+"Local no destinado para hab.humana (016)",22,,10,7,3,2,
+"Otro tipo (017)",10,,2,2,2,2,2
+,,,,,,,
+"RURAL (018)",11167,277,4166,3181,1971,1204,368
+"Casa independiente (019)",7865,177,3005,2198,1418,825,242
+"Choza o cabaña (023)",3302,100,1161,983,553,379,126

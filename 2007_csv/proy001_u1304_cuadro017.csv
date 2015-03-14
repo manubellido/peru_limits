@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CHEPEN (000)",18630,13425,5205
+"Red pública dentro de la vivienda (001)",11983,10275,1708
+"Red pública fuera de la vivienda (002)",787,547,240
+"Pilón de uso público (003)",282,121,161
+"Camión - cisterna u otro similar (004)",59,12,47
+"Pozo (005)",3863,1825,2038
+"Río, acequia, manatial o similar (006)",436,43,393
+"Vecino (007)",1009,496,513
+"Otro (008)",211,106,105
+,,,
+"URBANA (010)",15212,12845,2367
+"Red pública dentro de la vivienda (011)",11100,9987,1113
+"Red pública fuera de la vivienda (012)",616,497,119
+"Pilón de uso público (013)",161,113,48
+"Camión - cisterna u otro similar (014)",17,11,6
+"Pozo (015)",2147,1626,521
+"Río, acequia, manatial o similar (016)",64,19,45
+"Vecino (017)",904,487,417
+"Otro (018)",203,105,98
+,,,
+"RURAL (020)",3418,580,2838
+"Red pública dentro de la vivienda (021)",883,288,595
+"Red pública fuera de la vivienda (022)",171,50,121
+"Pilón de uso público (023)",121,8,113
+"Camión - cisterna u otro similar (024)",42,1,41
+"Pozo (025)",1716,199,1517
+"Río, acequia, manatial o similar (026)",372,24,348
+"Vecino (027)",105,9,96
+"Otro (028)",8,1,7

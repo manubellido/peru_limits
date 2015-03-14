@@ -1,0 +1,58 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia MARAÑON",,,
+"Viviendas particulares (001)",127,92,35
+"Ocupantes presentes (002)",611,423,188
+"Casa independiente",,,
+"Viviendas particulares (004)",122,90,32
+"Ocupantes presentes (005)",593,414,179
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",1,1,
+"Ocupantes presentes (014)",5,5,
+"Choza o cabaña",,,
+"Viviendas particulares (016)",3,,3
+"Ocupantes presentes (017)",9,,9
+"Vivienda improvisada",,,
+"Viviendas particulares (019)",1,1,
+"Ocupantes presentes (020)",4,4,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",39,33,6
+"Ocupantes presentes (029)",175,144,31
+"Casa independiente",,,
+"Viviendas particulares (031)",37,31,6
+"Ocupantes presentes (032)",166,135,31
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",1,1,
+"Ocupantes presentes (041)",5,5,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Viviendas particulares (046)",1,1,
+"Ocupantes presentes (047)",4,4,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",88,59,29
+"Ocupantes presentes (056)",436,279,157
+"Casa independiente",,,
+"Viviendas particulares (058)",85,59,26
+"Ocupantes presentes (059)",427,279,148
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Viviendas particulares (070)",3,,3
+"Ocupantes presentes (071)",9,,9
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

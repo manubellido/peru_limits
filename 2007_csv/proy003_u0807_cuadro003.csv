@@ -1,0 +1,28 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia CHUMBIVILCAS (000)",75104,1525,30304,14978,12251,10735,5311
+"Casa independiente (001)",65685,1339,26430,13151,10711,9419,4635
+"Departamento en edificio (002)",28,,11,7,6,4,
+"Vivienda en quinta (003)",73,,24,24,16,5,4
+"Vivienda en casa de vecindad (004)",671,15,219,173,157,75,32
+"Choza o cabaña (005)",8576,170,3595,1609,1346,1223,633
+"Vivienda improvisada (006)",9,,3,,1,4,1
+"Local no destinado para hab.humana (007)",58,1,22,14,14,1,6
+"Otro tipo (008)",4,,,,,4,
+,,,,,,,
+"URBANA (009)",17041,334,6453,4101,3131,2128,894
+"Casa independiente (010)",16211,318,6174,3887,2940,2039,853
+"Departamento en edificio (011)",28,,11,7,6,4,
+"Vivienda en quinta (012)",73,,24,24,16,5,4
+"Vivienda en casa de vecindad (013)",671,15,219,173,157,75,32
+"Vivienda improvisada (015)",9,,3,,1,4,1
+"Local no destinado para hab.humana (016)",49,1,22,10,11,1,4
+,,,,,,,
+"RURAL (018)",58063,1191,23851,10877,9120,8607,4417
+"Casa independiente (019)",49474,1021,20256,9264,7771,7380,3782
+"Choza o cabaña (023)",8576,170,3595,1609,1346,1223,633
+"Local no destinado para hab.humana (025)",9,,,4,3,,2
+"Otro tipo (026)",4,,,,,4,
