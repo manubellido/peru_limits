@@ -1,0 +1,88 @@
+"CUADRO Nº 2: POBLACIÓN DE 3 Y MÁS AÑOS DE EDAD, POR AFILIACIÓN A ALGÚN TIPO DE SEGURO DE SALUD, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",TOTAL,"AFILIADO A ALGÚN SEGURO DE SALUD",,,
+,,"SIS (SEGURO INTEGRAL DE SALUD)",ESSALUD,"OTRO SEGURO DE SALUD",NINGUNO
+,,,,,
+"Provincia CONCEPCION (000)",56470,7626,5290,1488,42133
+"Sin Nivel (001)",7272,1460,334,98,5385
+"Educación Inicial (002)",1566,569,128,47,826
+"Primaria (003)",22029,3840,1331,391,16479
+"Secundaria (004)",17722,1586,1645,434,14071
+"Sup. no Univ. Incompleta (005)",2163,54,252,80,1780
+"Sup. no Univ. Completa (006)",2369,49,598,175,1554
+"Sup. Univ. Incompleta (007)",1351,31,193,84,1048
+"Sup. Univ. Completa (008)",1998,37,809,179,990
+"Hombres (010)",27403,3664,2782,911,20098
+"Sin Nivel (011)",2455,658,135,46,1617
+"Educación Inicial (012)",768,277,69,21,401
+"Primaria (013)",10125,1856,607,200,7472
+"Secundaria (014)",9937,805,981,300,7862
+"Sup. no Univ. Incompleta (015)",1104,20,150,61,876
+"Sup. no Univ. Completa (016)",1195,14,306,127,755
+"Sup. Univ. Incompleta (017)",751,14,108,56,578
+"Sup. Univ. Completa (018)",1068,20,426,100,537
+"Mujeres (020)",29067,3962,2508,577,22035
+"Sin Nivel (021)",4817,802,199,52,3768
+"Educación Inicial (022)",798,292,59,26,425
+"Primaria (023)",11904,1984,724,191,9007
+"Secundaria (024)",7785,781,664,134,6209
+"Sup. no Univ. Incompleta (025)",1059,34,102,19,904
+"Sup. no Univ. Completa (026)",1174,35,292,48,799
+"Sup. Univ. Incompleta (027)",600,17,85,28,470
+"Sup. Univ. Completa (028)",930,17,383,79,453
+,,,,,
+"URBANA (030)",28982,3049,3982,1101,20892
+"Sin Nivel (031)",2666,462,268,51,1887
+"Educación Inicial (032)",768,210,114,32,416
+"Primaria (033)",9157,1353,1063,224,6522
+"Secundaria (034)",10166,874,1126,351,7827
+"Sup. no Univ. Incompleta (035)",1614,47,176,71,1321
+"Sup. no Univ. Completa (036)",1843,42,445,150,1210
+"Sup. Univ. Incompleta (037)",1116,29,136,71,881
+"Sup. Univ. Completa (038)",1652,32,654,151,828
+"Hombres (040)",13807,1496,1859,691,9791
+"Sin Nivel (041)",919,215,110,25,570
+"Educación Inicial (042)",384,105,62,15,202
+"Primaria (043)",4089,713,478,117,2784
+"Secundaria (044)",5346,406,554,243,4152
+"Sup. no Univ. Incompleta (045)",782,15,85,54,629
+"Sup. no Univ. Completa (046)",852,11,191,110,544
+"Sup. Univ. Incompleta (047)",588,14,59,45,471
+"Sup. Univ. Completa (048)",847,17,320,82,439
+"Mujeres (050)",15175,1553,2123,410,11101
+"Sin Nivel (051)",1747,247,158,26,1317
+"Educación Inicial (052)",384,105,52,17,214
+"Primaria (053)",5068,640,585,107,3738
+"Secundaria (054)",4820,468,572,108,3675
+"Sup. no Univ. Incompleta (055)",832,32,91,17,692
+"Sup. no Univ. Completa (056)",991,31,254,40,666
+"Sup. Univ. Incompleta (057)",528,15,77,26,410
+"Sup. Univ. Completa (058)",805,15,334,69,389
+,,,,,
+"RURAL (060)",27488,4577,1308,387,21241
+"Sin Nivel (061)",4606,998,66,47,3498
+"Educación Inicial (062)",798,359,14,15,410
+"Primaria (063)",12872,2487,268,167,9957
+"Secundaria (064)",7556,712,519,83,6244
+"Sup. no Univ. Incompleta (065)",549,7,76,9,459
+"Sup. no Univ. Completa (066)",526,7,153,25,344
+"Sup. Univ. Incompleta (067)",235,2,57,13,167
+"Sup. Univ. Completa (068)",346,5,155,28,162
+"Hombres (070)",13596,2168,923,220,10307
+"Sin Nivel (071)",1536,443,25,21,1047
+"Educación Inicial (072)",384,172,7,6,199
+"Primaria (073)",6036,1143,129,83,4688
+"Secundaria (074)",4591,399,427,57,3710
+"Sup. no Univ. Incompleta (075)",322,5,65,7,247
+"Sup. no Univ. Completa (076)",343,3,115,17,211
+"Sup. Univ. Incompleta (077)",163,,49,11,107
+"Sup. Univ. Completa (078)",221,3,106,18,98
+"Mujeres (080)",13892,2409,385,167,10934
+"Sin Nivel (081)",3070,555,41,26,2451
+"Educación Inicial (082)",414,187,7,9,211
+"Primaria (083)",6836,1344,139,84,5269
+"Secundaria (084)",2965,313,92,26,2534
+"Sup. no Univ. Incompleta (085)",227,2,11,2,212
+"Sup. no Univ. Completa (086)",183,4,38,8,133
+"Sup. Univ. Incompleta (087)",72,2,8,2,60
+"Sup. Univ. Completa (088)",125,2,49,10,64

@@ -1,0 +1,28 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia SAN ROMAN (000)",238281,4051,71629,72961,49656,30804,9180
+"Casa independiente (001)",213002,3522,64108,65107,43923,27957,8385
+"Departamento en edificio (002)",2475,40,679,669,688,330,69
+"Vivienda en quinta (003)",2738,64,805,847,610,321,91
+"Vivienda en casa de vecindad (004)",19087,407,5780,6071,4266,2016,547
+"Choza o cabaña (005)",727,16,203,177,109,138,84
+"Vivienda improvisada (006)",48,,7,17,13,10,1
+"Local no destinado para hab.humana (007)",155,,39,52,36,25,3
+"Otro tipo (008)",49,2,8,21,11,7,
+,,,,,,,
+"URBANA (009)",218183,3701,65333,68217,46500,27426,7006
+"Casa independiente (010)",193636,3188,58017,60540,40879,24717,6295
+"Departamento en edificio (011)",2475,40,679,669,688,330,69
+"Vivienda en quinta (012)",2738,64,805,847,610,321,91
+"Vivienda en casa de vecindad (013)",19087,407,5780,6071,4266,2016,547
+"Vivienda improvisada (015)",48,,7,17,13,10,1
+"Local no destinado para hab.humana (016)",150,,37,52,33,25,3
+"Otro tipo (017)",49,2,8,21,11,7,
+,,,,,,,
+"RURAL (018)",20098,350,6296,4744,3156,3378,2174
+"Casa independiente (019)",19366,334,6091,4567,3044,3240,2090
+"Choza o cabaña (023)",727,16,203,177,109,138,84
+"Local no destinado para hab.humana (025)",5,,2,,3,,

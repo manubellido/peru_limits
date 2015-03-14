@@ -1,0 +1,24 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia MARAÑON (000)",26556,661,10594,6325,4367,3326,1283
+"Casa independiente (001)",23827,586,9601,5596,3867,3000,1177
+"Vivienda en casa de vecindad (004)",23,,5,8,3,7,
+"Choza o cabaña (005)",2673,73,975,715,486,318,106
+"Vivienda improvisada (006)",4,1,,2,1,,
+"Local no destinado para hab.humana (007)",15,1,7,1,6,,
+"Otro tipo (008)",14,,6,3,4,1,
+,,,,,,,
+"URBANA (009)",3943,69,1424,991,764,489,206
+"Casa independiente (010)",3915,68,1419,981,759,482,206
+"Vivienda en casa de vecindad (013)",23,,5,8,3,7,
+"Vivienda improvisada (015)",4,1,,2,1,,
+"Local no destinado para hab.humana (016)",1,,,,1,,
+,,,,,,,
+"RURAL (018)",22613,592,9170,5334,3603,2837,1077
+"Casa independiente (019)",19912,518,8182,4615,3108,2518,971
+"Choza o cabaña (023)",2673,73,975,715,486,318,106
+"Local no destinado para hab.humana (025)",14,1,7,1,5,,
+"Otro tipo (026)",14,,6,3,4,1,

@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia SULLANA (000)",63939,51258,12681
+"Red pública dentro de la vivienda (001)",38051,35785,2266
+"Red pública fuera de la vivienda (002)",2194,1830,364
+"Pilón de uso público (003)",2640,1772,868
+"Camión - cisterna u otro similar (004)",2803,1384,1419
+"Pozo (005)",2994,1780,1214
+"Río, acequia, manatial o similar (006)",8222,4474,3748
+"Vecino (007)",5084,3017,2067
+"Otro (008)",1951,1216,735
+,,,
+"URBANA (010)",57014,49012,8002
+"Red pública dentro de la vivienda (011)",37577,35472,2105
+"Red pública fuera de la vivienda (012)",2122,1798,324
+"Pilón de uso público (013)",2272,1595,677
+"Camión - cisterna u otro similar (014)",2541,1321,1220
+"Pozo (015)",1726,1498,228
+"Río, acequia, manatial o similar (016)",3852,3135,717
+"Vecino (017)",5036,2986,2050
+"Otro (018)",1888,1207,681
+,,,
+"RURAL (020)",6925,2246,4679
+"Red pública dentro de la vivienda (021)",474,313,161
+"Red pública fuera de la vivienda (022)",72,32,40
+"Pilón de uso público (023)",368,177,191
+"Camión - cisterna u otro similar (024)",262,63,199
+"Pozo (025)",1268,282,986
+"Río, acequia, manatial o similar (026)",4370,1339,3031
+"Vecino (027)",48,31,17
+"Otro (028)",63,9,54

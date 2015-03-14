@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia GENERAL SANCHEZ CERRO (000)",7599,4233,3366
+"Red pública dentro de la vivienda (001)",634,427,207
+"Red pública fuera de la vivienda (002)",875,589,286
+"Pilón de uso público (003)",207,44,163
+"Camión - cisterna u otro similar (004)",6,,6
+"Pozo (005)",141,49,92
+"Río, acequia, manatial o similar (006)",5506,3007,2499
+"Vecino (007)",173,97,76
+"Otro (008)",57,20,37
+,,,
+"URBANA (010)",3154,2328,826
+"Red pública dentro de la vivienda (011)",438,380,58
+"Red pública fuera de la vivienda (012)",547,386,161
+"Pilón de uso público (013)",89,22,67
+"Pozo (015)",16,5,11
+"Río, acequia, manatial o similar (016)",1905,1446,459
+"Vecino (017)",124,75,49
+"Otro (018)",35,14,21
+,,,
+"RURAL (020)",4445,1905,2540
+"Red pública dentro de la vivienda (021)",196,47,149
+"Red pública fuera de la vivienda (022)",328,203,125
+"Pilón de uso público (023)",118,22,96
+"Camión - cisterna u otro similar (024)",6,,6
+"Pozo (025)",125,44,81
+"Río, acequia, manatial o similar (026)",3601,1561,2040
+"Vecino (027)",49,22,27
+"Otro (028)",22,6,16

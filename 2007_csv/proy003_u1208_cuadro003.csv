@@ -1,0 +1,29 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia YAULI (000)",48147,834,14403,12425,11044,7365,2076
+"Casa independiente (001)",36603,649,10986,9596,8503,5165,1704
+"Departamento en edificio (002)",4867,59,1309,1092,1074,1245,88
+"Vivienda en quinta (003)",2327,46,729,609,569,301,73
+"Vivienda en casa de vecindad (004)",2454,52,832,668,573,263,66
+"Choza o cabaña (005)",1741,28,525,399,288,360,141
+"Vivienda improvisada (006)",24,,2,6,6,10,
+"Local no destinado para hab.humana (007)",69,,13,29,14,11,2
+"Otro tipo (008)",62,,7,26,17,10,2
+,,,,,,,
+"URBANA (009)",42472,749,12872,10905,9856,6401,1689
+"Casa independiente (010)",32706,592,9980,8493,7613,4569,1459
+"Departamento en edificio (011)",4867,59,1309,1092,1074,1245,88
+"Vivienda en quinta (012)",2327,46,729,609,569,301,73
+"Vivienda en casa de vecindad (013)",2454,52,832,668,573,263,66
+"Vivienda improvisada (015)",24,,2,6,6,10,
+"Local no destinado para hab.humana (016)",56,,13,21,11,9,2
+"Otro tipo (017)",38,,7,16,10,4,1
+,,,,,,,
+"RURAL (018)",5675,85,1531,1520,1188,964,387
+"Casa independiente (019)",3897,57,1006,1103,890,596,245
+"Choza o cabaña (023)",1741,28,525,399,288,360,141
+"Local no destinado para hab.humana (025)",13,,,8,3,2,
+"Otro tipo (026)",24,,,10,7,6,1

@@ -1,0 +1,34 @@
+"CUADRO Nº 8: POBLACIÓN DE 3 Y MÁS AÑOS DE EDAD, POR GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, SEXO Y CONDICIÓN DE ALFABETISMO",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, SEXO Y CONDICIÓN DE ALFABETISMO",TOTAL,"GRUPOS DE EDAD",,,,,,,
+,,"3 A 4 AÑOS","5 A 9 AÑOS","10 A 14 AÑOS","15 A 19 AÑOS","20 A 29 AÑOS","30 A 39 AÑOS","40 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,,,
+"Provincia ASUNCION (000)",8508,420,1056,1199,874,1147,1113,1795,904
+"Sabe leer y escribir (001)",6081,,719,1193,869,1093,988,976,243
+"No sabe leer y escribir (002)",2427,420,337,6,5,54,125,819,661
+"Hombres (004)",4103,209,569,601,463,544,510,833,374
+"Sabe leer y escribir (005)",3238,,403,598,461,527,465,611,173
+"No sabe leer y escribir (006)",865,209,166,3,2,17,45,222,201
+"Mujeres (008)",4405,211,487,598,411,603,603,962,530
+"Sabe leer y escribir (009)",2843,,316,595,408,566,523,365,70
+"No sabe leer y escribir (010)",1562,211,171,3,3,37,80,597,460
+,,,,,,,,,
+"URBANA (012)",2128,134,306,257,165,355,407,363,141
+"Sabe leer y escribir (013)",1814,,247,257,165,352,397,312,84
+"No sabe leer y escribir (014)",314,134,59,,,3,10,51,57
+"Hombres (016)",1079,72,174,136,86,173,185,196,57
+"Sabe leer y escribir (017)",936,,135,136,86,172,180,183,44
+"No sabe leer y escribir (018)",143,72,39,,,1,5,13,13
+"Mujeres (020)",1049,62,132,121,79,182,222,167,84
+"Sabe leer y escribir (021)",878,,112,121,79,180,217,129,40
+"No sabe leer y escribir (022)",171,62,20,,,2,5,38,44
+,,,,,,,,,
+"RURAL (024)",6380,286,750,942,709,792,706,1432,763
+"Sabe leer y escribir (025)",4267,,472,936,704,741,591,664,159
+"No sabe leer y escribir (026)",2113,286,278,6,5,51,115,768,604
+"Hombres (028)",3024,137,395,465,377,371,325,637,317
+"Sabe leer y escribir (029)",2302,,268,462,375,355,285,428,129
+"No sabe leer y escribir (030)",722,137,127,3,2,16,40,209,188
+"Mujeres (032)",3356,149,355,477,332,421,381,795,446
+"Sabe leer y escribir (033)",1965,,204,474,329,386,306,236,30
+"No sabe leer y escribir (034)",1391,149,151,3,3,35,75,559,416

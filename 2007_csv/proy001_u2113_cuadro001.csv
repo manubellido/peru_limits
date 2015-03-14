@@ -1,0 +1,29 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia YUNGUYO (000)",19051,16449,13233,1276,1940,2602,26,222,2299,55
+"Casa independiente (001)",18564,16083,12997,1211,1875,2481,25,222,2185,49
+"Departamento en edificio (002)",8,8,8,,,,,,,
+"Vivienda en quinta (003)",18,18,17,1,,,,,,
+"Vivienda en casa de vecindad (004)",25,16,12,3,1,9,1,,7,1
+"Choza o cabaña (005)",412,310,191,58,61,102,,,99,3
+"Vivienda improvisada (006)",16,6,,3,3,10,,,8,2
+"Local no dest.para hab. humana (007)",6,6,6,,,,,,,
+"Otro tipo (008)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",5492,5079,4466,416,197,413,21,67,309,16
+"Casa independiente (010)",5418,5024,4422,409,193,394,20,67,294,13
+"Departamento en edificio (011)",8,8,8,,,,,,,
+"Vivienda en quinta (012)",18,18,17,1,,,,,,
+"Vivienda en casa de vecindad (013)",25,16,12,3,1,9,1,,7,1
+"Vivienda improvisada (015)",16,6,,3,3,10,,,8,2
+"Local no dest.para hab. humana (016)",5,5,5,,,,,,,
+"Otro tipo (017)",2,2,2,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",13559,11370,8767,860,1743,2189,5,155,1990,39
+"Casa independiente (019)",13146,11059,8575,802,1682,2087,5,155,1891,36
+"Choza o cabaña (023)",412,310,191,58,61,102,,,99,3
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,

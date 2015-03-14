@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia LUCANAS (000)",18825,9258,9567
+"Red pública dentro de la vivienda (001)",8777,6399,2378
+"Red pública fuera de la vivienda (002)",922,572,350
+"Pilón de uso público (003)",510,133,377
+"Camión - cisterna u otro similar (004)",1243,306,937
+"Pozo (005)",138,29,109
+"Río, acequia, manatial o similar (006)",5795,1206,4589
+"Vecino (007)",1011,420,591
+"Otro (008)",429,193,236
+,,,
+"URBANA (010)",10186,7224,2962
+"Red pública dentro de la vivienda (011)",7044,5513,1531
+"Red pública fuera de la vivienda (012)",582,444,138
+"Pilón de uso público (013)",144,48,96
+"Camión - cisterna u otro similar (014)",4,,4
+"Pozo (015)",36,16,20
+"Río, acequia, manatial o similar (016)",1234,680,554
+"Vecino (017)",783,348,435
+"Otro (018)",359,175,184
+,,,
+"RURAL (020)",8639,2034,6605
+"Red pública dentro de la vivienda (021)",1733,886,847
+"Red pública fuera de la vivienda (022)",340,128,212
+"Pilón de uso público (023)",366,85,281
+"Camión - cisterna u otro similar (024)",1239,306,933
+"Pozo (025)",102,13,89
+"Río, acequia, manatial o similar (026)",4561,526,4035
+"Vecino (027)",228,72,156
+"Otro (028)",70,18,52

@@ -1,0 +1,88 @@
+"CUADRO Nº 3: POBLACIÓN DE 3 Y MÁS AÑOS DE EDAD, POR GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",TOTAL,"GRUPOS DE EDAD",,,,,,,
+,,"3 A 4 AÑOS","5 A 9 AÑOS","10 A 14 AÑOS","15 A 19 AÑOS","20 A 29 AÑOS","30 A 39 AÑOS","40 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,,,
+"Provincia HUANCAVELICA (000)",133203,7062,18789,19880,15433,23246,16372,24182,8239
+"Sin nivel (001)",24172,7062,2589,82,123,625,1447,7015,5229
+"Educación inicial (002)",3839,,3718,44,12,30,35,,
+"Primaria (003)",52522,,12482,13965,2404,5517,6008,9760,2386
+"Secundaria (004)",35652,,,5789,11842,9600,4130,3858,433
+"Superior no univ. incompleto (005)",2867,,,,396,1608,486,352,25
+"Superior no univ. completo (006)",4839,,,,,1565,1849,1355,70
+"Superior univ. incompleto (007)",3834,,,,656,2496,383,287,12
+"Superior univ. completo (008)",5478,,,,,1805,2034,1555,84
+"Hombres (010)",64819,3569,9421,10216,7562,11137,7709,11509,3696
+"Sin nivel (011)",8219,3569,1308,34,44,103,198,1474,1489
+"Educación inicial (012)",1896,,1854,18,6,7,11,,
+"Primaria (013)",25263,,6259,7024,822,1790,2457,5187,1724
+"Secundaria (014)",20343,,,3140,6193,5449,2587,2632,342
+"Superior no univ. incompleto (015)",1578,,,,186,864,273,235,20
+"Superior no univ. completo (016)",2388,,,,,740,853,750,45
+"Superior univ. incompleto (017)",2116,,,,311,1339,248,207,11
+"Superior univ. completo (018)",3016,,,,,845,1082,1024,65
+"Mujeres (020)",68384,3493,9368,9664,7871,12109,8663,12673,4543
+"Sin nivel (021)",15953,3493,1281,48,79,522,1249,5541,3740
+"Educación inicial (022)",1943,,1864,26,6,23,24,,
+"Primaria (023)",27259,,6223,6941,1582,3727,3551,4573,662
+"Secundaria (024)",15309,,,2649,5649,4151,1543,1226,91
+"Superior no univ. incompleto (025)",1289,,,,210,744,213,117,5
+"Superior no univ. completo (026)",2451,,,,,825,996,605,25
+"Superior univ. incompleto (027)",1718,,,,345,1157,135,80,1
+"Superior univ. completo (028)",2462,,,,,960,952,531,19
+,,,,,,,,,
+"URBANA (030)",56588,2413,6648,7658,6767,11362,7959,10626,3155
+"Sin nivel (031)",6225,2413,588,29,23,91,226,1385,1470
+"Educación inicial (032)",1428,,1379,24,5,12,8,,
+"Primaria (033)",16340,,4681,4608,367,838,1260,3422,1164
+"Secundaria (034)",17532,,,2997,5482,4003,2140,2562,348
+"Superior no univ. incompleto (035)",2239,,,,304,1222,387,302,24
+"Superior no univ. completo (036)",4337,,,,,1324,1683,1264,66
+"Superior univ. incompleto (037)",3425,,,,586,2228,342,258,11
+"Superior univ. completo (038)",5062,,,,,1644,1913,1433,72
+"Hombres (040)",27474,1177,3389,3969,3358,5484,3724,5048,1325
+"Sin nivel (041)",1989,1177,321,12,8,14,36,175,246
+"Educación inicial (042)",704,,688,7,4,1,4,,
+"Primaria (043)",7617,,2380,2375,162,254,386,1368,692
+"Secundaria (044)",9378,,,1575,2779,2098,1130,1533,263
+"Superior no univ. incompleto (045)",1196,,,,138,634,213,192,19
+"Superior no univ. completo (046)",2044,,,,,585,748,670,41
+"Superior univ. incompleto (047)",1834,,,,267,1156,217,184,10
+"Superior univ. completo (048)",2712,,,,,742,990,926,54
+"Mujeres (050)",29114,1236,3259,3689,3409,5878,4235,5578,1830
+"Sin nivel (051)",4236,1236,267,17,15,77,190,1210,1224
+"Educación inicial (052)",724,,691,17,1,11,4,,
+"Primaria (053)",8723,,2301,2233,205,584,874,2054,472
+"Secundaria (054)",8154,,,1422,2703,1905,1010,1029,85
+"Superior no univ. incompleto (055)",1043,,,,166,588,174,110,5
+"Superior no univ. completo (056)",2293,,,,,739,935,594,25
+"Superior univ. incompleto (057)",1591,,,,319,1072,125,74,1
+"Superior univ. completo (058)",2350,,,,,902,923,507,18
+,,,,,,,,,
+"RURAL (060)",76615,4649,12141,12222,8666,11884,8413,13556,5084
+"Sin nivel (061)",17947,4649,2001,53,100,534,1221,5630,3759
+"Educación inicial (062)",2411,,2339,20,7,18,27,,
+"Primaria (063)",36182,,7801,9357,2037,4679,4748,6338,1222
+"Secundaria (064)",18120,,,2792,6360,5597,1990,1296,85
+"Superior no univ. incompleto (065)",628,,,,92,386,99,50,1
+"Superior no univ. completo (066)",502,,,,,241,166,91,4
+"Superior univ. incompleto (067)",409,,,,70,268,41,29,1
+"Superior univ. completo (068)",416,,,,,161,121,122,12
+"Hombres (070)",37345,2392,6032,6247,4204,5653,3985,6461,2371
+"Sin nivel (071)",6230,2392,987,22,36,89,162,1299,1243
+"Educación inicial (072)",1192,,1166,11,2,6,7,,
+"Primaria (073)",17646,,3879,4649,660,1536,2071,3819,1032
+"Secundaria (074)",10965,,,1565,3414,3351,1457,1099,79
+"Superior no univ. incompleto (075)",382,,,,48,230,60,43,1
+"Superior no univ. completo (076)",344,,,,,155,105,80,4
+"Superior univ. incompleto (077)",282,,,,44,183,31,23,1
+"Superior univ. completo (078)",304,,,,,103,92,98,11
+"Mujeres (080)",39270,2257,6109,5975,4462,6231,4428,7095,2713
+"Sin nivel (081)",11717,2257,1014,31,64,445,1059,4331,2516
+"Educación inicial (082)",1219,,1173,9,5,12,20,,
+"Primaria (083)",18536,,3922,4708,1377,3143,2677,2519,190
+"Secundaria (084)",7155,,,1227,2946,2246,533,197,6
+"Superior no univ. incompleto (085)",246,,,,44,156,39,7,
+"Superior no univ. completo (086)",158,,,,,86,61,11,
+"Superior univ. incompleto (087)",127,,,,26,85,10,6,
+"Superior univ. completo (088)",112,,,,,58,29,24,1

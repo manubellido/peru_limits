@@ -1,0 +1,26 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia CARABAYA (000)",72425,1606,26303,19780,13031,8140,3565
+"Casa independiente (001)",61844,1396,22816,16896,11042,6729,2965
+"Vivienda en quinta (003)",15,2,4,9,,,
+"Vivienda en casa de vecindad (004)",716,22,224,244,164,50,12
+"Choza o cabaña (005)",9763,185,3249,2595,1799,1350,585
+"Vivienda improvisada (006)",9,,2,7,,,
+"Local no destinado para hab.humana (007)",16,,1,4,4,5,2
+"Otro tipo (008)",62,1,7,25,22,6,1
+,,,,,,,
+"URBANA (009)",29123,648,11060,7856,5331,2967,1261
+"Casa independiente (010)",28368,624,10829,7592,5163,2913,1247
+"Vivienda en quinta (012)",15,2,4,9,,,
+"Vivienda en casa de vecindad (013)",716,22,224,244,164,50,12
+"Vivienda improvisada (015)",9,,2,7,,,
+"Local no destinado para hab.humana (016)",15,,1,4,4,4,2
+,,,,,,,
+"RURAL (018)",43302,958,15243,11924,7700,5173,2304
+"Casa independiente (019)",33476,772,11987,9304,5879,3816,1718
+"Choza o cabaña (023)",9763,185,3249,2595,1799,1350,585
+"Local no destinado para hab.humana (025)",1,,,,,1,
+"Otro tipo (026)",62,1,7,25,22,6,1

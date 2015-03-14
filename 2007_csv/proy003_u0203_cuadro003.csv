@@ -1,0 +1,21 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia ANTONIO RAYMONDI (000)",16819,394,6296,3621,2545,2370,1593
+"Casa independiente (001)",16664,389,6226,3593,2518,2358,1580
+"Vivienda en casa de vecindad (004)",13,,4,4,3,,2
+"Choza o cabaña (005)",133,5,61,23,21,12,11
+"Vivienda improvisada (006)",4,,2,,2,,
+"Local no destinado para hab.humana (007)",5,,3,1,1,,
+,,,,,,,
+"URBANA (009)",4233,86,1361,993,759,636,398
+"Casa independiente (010)",4211,86,1352,988,753,636,396
+"Vivienda en casa de vecindad (013)",13,,4,4,3,,2
+"Vivienda improvisada (015)",4,,2,,2,,
+"Local no destinado para hab.humana (016)",5,,3,1,1,,
+,,,,,,,
+"RURAL (018)",12586,308,4935,2628,1786,1734,1195
+"Casa independiente (019)",12453,303,4874,2605,1765,1722,1184
+"Choza o cabaña (023)",133,5,61,23,21,12,11

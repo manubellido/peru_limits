@@ -1,0 +1,27 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia GRAN CHIMU (000)",9711,8776,7368,759,649,935,13,108,779,35
+"Casa independiente (001)",9530,8620,7266,735,619,910,13,108,755,34
+"Departamento en edificio (002)",23,22,22,,,1,,,1,
+"Vivienda en quinta (003)",12,9,6,2,1,3,,,2,1
+"Vivienda en casa de vecindad (004)",17,17,17,,,,,,,
+"Choza o cabaña (005)",122,101,53,20,28,21,,,21,
+"Vivienda improvisada (006)",5,5,2,2,1,,,,,
+"Local no dest.para hab. humana (007)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",1992,1795,1636,100,59,197,7,21,165,4
+"Casa independiente (010)",1934,1741,1588,96,57,193,7,21,162,3
+"Departamento en edificio (011)",23,22,22,,,1,,,1,
+"Vivienda en quinta (012)",12,9,6,2,1,3,,,2,1
+"Vivienda en casa de vecindad (013)",17,17,17,,,,,,,
+"Vivienda improvisada (015)",5,5,2,2,1,,,,,
+"Local no dest.para hab. humana (016)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",7719,6981,5732,659,590,738,6,87,614,31
+"Casa independiente (019)",7596,6879,5678,639,562,717,6,87,593,31
+"Choza o cabaña (023)",122,101,53,20,28,21,,,21,
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,

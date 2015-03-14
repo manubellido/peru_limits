@@ -1,0 +1,23 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia PURUS (000)",736,238,498
+"Red pública fuera de la vivienda (002)",4,3,1
+"Pozo (005)",413,170,243
+"Río, acequia, manatial o similar (006)",259,16,243
+"Vecino (007)",55,46,9
+"Otro (008)",5,3,2
+,,,
+"URBANA (010)",249,217,32
+"Red pública fuera de la vivienda (012)",2,2,
+"Pozo (015)",176,159,17
+"Río, acequia, manatial o similar (016)",11,7,4
+"Vecino (017)",55,46,9
+"Otro (018)",5,3,2
+,,,
+"RURAL (020)",487,21,466
+"Red pública fuera de la vivienda (022)",2,1,1
+"Pozo (025)",237,11,226
+"Río, acequia, manatial o similar (026)",248,9,239

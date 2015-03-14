@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia BONGARA (000)",6381,3476,2905
+"Red pública dentro de la vivienda (001)",2194,1704,490
+"Red pública fuera de la vivienda (002)",762,457,305
+"Pilón de uso público (003)",72,15,57
+"Camión - cisterna u otro similar (004)",3,1,2
+"Pozo (005)",487,18,469
+"Río, acequia, manatial o similar (006)",2683,1234,1449
+"Vecino (007)",123,33,90
+"Otro (008)",57,14,43
+,,,
+"URBANA (010)",3833,2899,934
+"Red pública dentro de la vivienda (011)",1757,1550,207
+"Red pública fuera de la vivienda (012)",625,432,193
+"Pilón de uso público (013)",9,6,3
+"Pozo (015)",16,5,11
+"Río, acequia, manatial o similar (016)",1334,868,466
+"Vecino (017)",67,25,42
+"Otro (018)",25,13,12
+,,,
+"RURAL (020)",2548,577,1971
+"Red pública dentro de la vivienda (021)",437,154,283
+"Red pública fuera de la vivienda (022)",137,25,112
+"Pilón de uso público (023)",63,9,54
+"Camión - cisterna u otro similar (024)",3,1,2
+"Pozo (025)",471,13,458
+"Río, acequia, manatial o similar (026)",1349,366,983
+"Vecino (027)",56,8,48
+"Otro (028)",32,1,31

@@ -1,0 +1,26 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia CONCEPCION (000)",59074,1054,19573,14359,10302,8659,5127
+"Casa independiente (001)",57551,1014,19014,13953,10056,8488,5026
+"Departamento en edificio (002)",26,,6,5,12,3,
+"Vivienda en quinta (003)",398,9,133,113,75,48,20
+"Vivienda en casa de vecindad (004)",220,4,84,56,32,19,25
+"Choza o cabaña (005)",822,26,314,214,119,93,56
+"Vivienda improvisada (006)",14,,5,4,2,3,
+"Local no destinado para hab.humana (007)",43,1,17,14,6,5,
+,,,,,,,
+"URBANA (009)",30262,459,8855,7766,5659,4728,2795
+"Casa independiente (010)",29562,445,8610,7575,5532,4650,2750
+"Departamento en edificio (011)",26,,6,5,12,3,
+"Vivienda en quinta (012)",398,9,133,113,75,48,20
+"Vivienda en casa de vecindad (013)",220,4,84,56,32,19,25
+"Vivienda improvisada (015)",14,,5,4,2,3,
+"Local no destinado para hab.humana (016)",42,1,17,13,6,5,
+,,,,,,,
+"RURAL (018)",28812,595,10718,6593,4643,3931,2332
+"Casa independiente (019)",27989,569,10404,6378,4524,3838,2276
+"Choza o cabaña (023)",822,26,314,214,119,93,56
+"Local no destinado para hab.humana (025)",1,,,1,,,

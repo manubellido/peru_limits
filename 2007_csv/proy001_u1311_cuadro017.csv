@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia GRAN CHIMU (000)",7368,2039,5329
+"Red pública dentro de la vivienda (001)",2313,1483,830
+"Red pública fuera de la vivienda (002)",1342,362,980
+"Pilón de uso público (003)",129,16,113
+"Camión - cisterna u otro similar (004)",2,,2
+"Pozo (005)",407,13,394
+"Río, acequia, manatial o similar (006)",2877,93,2784
+"Vecino (007)",265,63,202
+"Otro (008)",33,9,24
+,,,
+"URBANA (010)",1636,1471,165
+"Red pública dentro de la vivienda (011)",1394,1299,95
+"Red pública fuera de la vivienda (012)",137,118,19
+"Pilón de uso público (013)",9,7,2
+"Pozo (015)",1,1,
+"Río, acequia, manatial o similar (016)",16,3,13
+"Vecino (017)",66,34,32
+"Otro (018)",13,9,4
+,,,
+"RURAL (020)",5732,568,5164
+"Red pública dentro de la vivienda (021)",919,184,735
+"Red pública fuera de la vivienda (022)",1205,244,961
+"Pilón de uso público (023)",120,9,111
+"Camión - cisterna u otro similar (024)",2,,2
+"Pozo (025)",406,12,394
+"Río, acequia, manatial o similar (026)",2861,90,2771
+"Vecino (027)",199,29,170
+"Otro (028)",20,,20

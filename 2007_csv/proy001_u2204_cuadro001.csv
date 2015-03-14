@@ -1,0 +1,26 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia HUALLAGA (000)",7167,7014,5940,805,269,153,10,38,97,8
+"Casa independiente (001)",5688,5566,4998,466,102,122,10,38,73,1
+"Vivienda en quinta (003)",35,35,35,,,,,,,
+"Vivienda en casa de vecindad (004)",21,21,21,,,,,,,
+"Choza o cabaña (005)",1408,1377,874,336,167,31,,,24,7
+"Vivienda improvisada (006)",5,5,2,3,,,,,,
+"Local no dest.para hab. humana (007)",6,6,6,,,,,,,
+"Otro tipo (008)",4,4,4,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",3477,3396,3218,156,22,81,5,22,54,
+"Casa independiente (010)",3406,3325,3150,153,22,81,5,22,54,
+"Vivienda en quinta (012)",35,35,35,,,,,,,
+"Vivienda en casa de vecindad (013)",21,21,21,,,,,,,
+"Vivienda improvisada (015)",5,5,2,3,,,,,,
+"Local no dest.para hab. humana (016)",6,6,6,,,,,,,
+"Otro tipo (017)",4,4,4,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",3690,3618,2722,649,247,72,5,16,43,8
+"Casa independiente (019)",2282,2241,1848,313,80,41,5,16,19,1
+"Choza o cabaña (023)",1408,1377,874,336,167,31,,,24,7

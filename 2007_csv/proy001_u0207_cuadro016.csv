@@ -1,0 +1,58 @@
+"CUADRO Nº 16: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CARLOS FERMIN FITZCARRALD",,,
+"Viviendas particulares (001)",5304,1633,3671
+"Ocupantes presentes (002)",21302,6290,15012
+"Casa independiente",,,
+"Viviendas particulares (004)",5118,1486,3632
+"Ocupantes presentes (005)",20738,5853,14885
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (010)",15,15,
+"Ocupantes presentes (011)",34,34,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",110,105,5
+"Ocupantes presentes (014)",295,279,16
+"Choza o cabaña",,,
+"Viviendas particulares (016)",61,27,34
+"Ocupantes presentes (017)",235,124,111
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",931,854,77
+"Ocupantes presentes (029)",3383,3115,268
+"Casa independiente",,,
+"Viviendas particulares (031)",806,734,72
+"Ocupantes presentes (032)",3054,2802,252
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (037)",15,15,
+"Ocupantes presentes (038)",34,34,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",110,105,5
+"Ocupantes presentes (041)",295,279,16
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",4373,779,3594
+"Ocupantes presentes (056)",17919,3175,14744
+"Casa independiente",,,
+"Viviendas particulares (058)",4312,752,3560
+"Ocupantes presentes (059)",17684,3051,14633
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Viviendas particulares (070)",61,27,34
+"Ocupantes presentes (071)",235,124,111
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

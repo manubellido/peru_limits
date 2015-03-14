@@ -1,0 +1,27 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia DANIEL ALCIDES CARRION (000)",47634,671,14260,13564,8713,6965,3461
+"Casa independiente (001)",44319,604,13137,12622,8102,6567,3287
+"Departamento en edificio (002)",16,,6,5,2,2,1
+"Vivienda en quinta (003)",581,9,180,171,115,80,26
+"Vivienda en casa de vecindad (004)",514,8,179,140,96,56,35
+"Choza o cabaña (005)",2158,49,743,612,392,253,109
+"Local no destinado para hab.humana (007)",36,1,10,9,6,7,3
+"Otro tipo (008)",10,,5,5,,,
+,,,,,,,
+"URBANA (009)",27802,355,7676,8038,5205,4296,2232
+"Casa independiente (010)",26675,337,7306,7715,4991,4156,2170
+"Departamento en edificio (011)",16,,6,5,2,2,1
+"Vivienda en quinta (012)",581,9,180,171,115,80,26
+"Vivienda en casa de vecindad (013)",514,8,179,140,96,56,35
+"Local no destinado para hab.humana (016)",10,1,2,4,1,2,
+"Otro tipo (017)",6,,3,3,,,
+,,,,,,,
+"RURAL (018)",19832,316,6584,5526,3508,2669,1229
+"Casa independiente (019)",17644,267,5831,4907,3111,2411,1117
+"Choza o cabaña (023)",2158,49,743,612,392,253,109
+"Local no destinado para hab.humana (025)",26,,8,5,5,5,3
+"Otro tipo (026)",4,,2,2,,,

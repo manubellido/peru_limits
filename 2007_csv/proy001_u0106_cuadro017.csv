@@ -1,0 +1,32 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia RODRIGUEZ DE MENDOZA (000)",6801,3473,3328
+"Red pública dentro de la vivienda (001)",2605,2138,467
+"Red pública fuera de la vivienda (002)",125,89,36
+"Pilón de uso público (003)",13,5,8
+"Camión - cisterna u otro similar (004)",5,2,3
+"Pozo (005)",271,38,233
+"Río, acequia, manatial o similar (006)",3071,1002,2069
+"Vecino (007)",91,30,61
+"Otro (008)",620,169,451
+,,,
+"URBANA (010)",2273,1980,293
+"Red pública dentro de la vivienda (011)",1649,1542,107
+"Red pública fuera de la vivienda (012)",60,51,9
+"Pozo (015)",58,2,56
+"Río, acequia, manatial o similar (016)",459,365,94
+"Vecino (017)",17,6,11
+"Otro (018)",30,14,16
+,,,
+"RURAL (020)",4528,1493,3035
+"Red pública dentro de la vivienda (021)",956,596,360
+"Red pública fuera de la vivienda (022)",65,38,27
+"Pilón de uso público (023)",13,5,8
+"Camión - cisterna u otro similar (024)",5,2,3
+"Pozo (025)",213,36,177
+"Río, acequia, manatial o similar (026)",2612,637,1975
+"Vecino (027)",74,24,50
+"Otro (028)",590,155,435

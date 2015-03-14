@@ -1,0 +1,70 @@
+"CUADRO Nº 20: TOTAL DE VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR RÉGIMEN DE TENENCIA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"RÉGIMEN DE TENENCIA",,,,,
+,,ALQUILADA,"PROPIA POR INVASIÓN","PROPIA PAGÁNDOLA A PLAZOS","PROPIA TOTALMENTE PAGADA","CEDIDA POR EL CENTRO DE TRABAJO/OTRO HOGAR /INSTITUCIÓN","OTRA FORMA"
+,,,,,,,
+"Provincia TAHUAMANU",,,,,,,
+"Viviendas particulares (001)",2662,622,59,70,1660,132,119
+"Ocupantes presentes (002)",9086,1662,166,247,6188,388,435
+"Casa independiente",,,,,,,
+"Viviendas particulares (004)",1898,320,30,68,1288,90,102
+"Ocupantes presentes (005)",7194,958,112,242,5224,276,382
+"Departamento en edificio",,,,,,,
+"Vivienda en quinta",,,,,,,
+"Viviendas particulares (010)",26,24,,,2,,
+"Ocupantes presentes (011)",63,58,,,5,,
+"Vivienda en casa de vecindad",,,,,,,
+"Viviendas particulares (013)",328,270,,1,40,14,3
+"Ocupantes presentes (014)",829,618,,3,160,41,7
+"Choza o cabaña",,,,,,,
+"Viviendas particulares (016)",390,2,28,1,328,20,11
+"Ocupantes presentes (017)",946,6,53,2,795,55,35
+"Vivienda improvisada",,,,,,,
+"Viviendas particulares (019)",12,4,1,,2,2,3
+"Ocupantes presentes (020)",36,15,1,,4,5,11
+"Local no dest.para hab. humana",,,,,,,
+"Viviendas particulares (022)",7,1,,,,6,
+"Ocupantes presentes (023)",14,3,,,,11,
+"Otro tipo",,,,,,,
+"Viviendas particulares (025)",1,1,,,,,
+"Ocupantes presentes (026)",4,4,,,,,
+,,,,,,,
+URBANA,,,,,,,
+"Viviendas particulares (028)",1818,599,30,61,991,88,49
+"Ocupantes presentes (029)",6423,1580,111,223,4068,262,179
+"Casa independiente",,,,,,,
+"Viviendas particulares (031)",1444,299,29,60,947,66,43
+"Ocupantes presentes (032)",5477,882,110,220,3899,205,161
+"Departamento en edificio",,,,,,,
+"Vivienda en quinta",,,,,,,
+"Viviendas particulares (037)",26,24,,,2,,
+"Ocupantes presentes (038)",63,58,,,5,,
+"Vivienda en casa de vecindad",,,,,,,
+"Viviendas particulares (040)",328,270,,1,40,14,3
+"Ocupantes presentes (041)",829,618,,3,160,41,7
+"Choza o cabaña",,,,,,,
+"Vivienda improvisada",,,,,,,
+"Viviendas particulares (046)",12,4,1,,2,2,3
+"Ocupantes presentes (047)",36,15,1,,4,5,11
+"Local no dest.para hab. humana",,,,,,,
+"Viviendas particulares (049)",7,1,,,,6,
+"Ocupantes presentes (050)",14,3,,,,11,
+"Otro tipo",,,,,,,
+"Viviendas particulares (052)",1,1,,,,,
+"Ocupantes presentes (053)",4,4,,,,,
+,,,,,,,
+RURAL,,,,,,,
+"Viviendas particulares (055)",844,23,29,9,669,44,70
+"Ocupantes presentes (056)",2663,82,55,24,2120,126,256
+"Casa independiente",,,,,,,
+"Viviendas particulares (058)",454,21,1,8,341,24,59
+"Ocupantes presentes (059)",1717,76,2,22,1325,71,221
+"Departamento en edificio",,,,,,,
+"Vivienda en quinta",,,,,,,
+"Vivienda en casa de vecindad",,,,,,,
+"Choza o cabaña",,,,,,,
+"Viviendas particulares (070)",390,2,28,1,328,20,11
+"Ocupantes presentes (071)",946,6,53,2,795,55,35
+"Vivienda improvisada",,,,,,,
+"Local no dest.para hab. humana",,,,,,,
+"Otro tipo",,,,,,,

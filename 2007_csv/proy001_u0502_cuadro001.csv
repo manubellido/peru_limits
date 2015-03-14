@@ -1,0 +1,25 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CANGALLO (000)",16503,14236,9763,1986,2487,2267,32,328,1809,98
+"Casa independiente (001)",14653,12677,9196,1702,1779,1976,32,326,1541,77
+"Vivienda en quinta (003)",44,44,35,8,1,,,,,
+"Vivienda en casa de vecindad (004)",53,49,41,7,1,4,,2,2,
+"Choza o cabaña (005)",1738,1453,485,265,703,285,,,264,21
+"Vivienda improvisada (006)",9,7,,4,3,2,,,2,
+"Local no dest.para hab. humana (007)",6,6,6,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",4605,4123,3326,474,323,482,13,69,384,16
+"Casa independiente (010)",4494,4018,3245,455,318,476,13,67,380,16
+"Vivienda en quinta (012)",44,44,35,8,1,,,,,
+"Vivienda en casa de vecindad (013)",53,49,41,7,1,4,,2,2,
+"Vivienda improvisada (015)",9,7,,4,3,2,,,2,
+"Local no dest.para hab. humana (016)",5,5,5,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",11898,10113,6437,1512,2164,1785,19,259,1425,82
+"Casa independiente (019)",10159,8659,5951,1247,1461,1500,19,259,1161,61
+"Choza o cabaña (023)",1738,1453,485,265,703,285,,,264,21
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,

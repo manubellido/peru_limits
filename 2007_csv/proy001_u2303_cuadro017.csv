@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia JORGE BASADRE (000)",3171,2663,508
+"Red pública dentro de la vivienda (001)",1780,1671,109
+"Red pública fuera de la vivienda (002)",197,172,25
+"Pilón de uso público (003)",98,63,35
+"Camión - cisterna u otro similar (004)",332,208,124
+"Pozo (005)",189,138,51
+"Río, acequia, manatial o similar (006)",518,388,130
+"Vecino (007)",40,18,22
+"Otro (008)",17,5,12
+,,,
+"URBANA (010)",1897,1787,110
+"Red pública dentro de la vivienda (011)",1485,1439,46
+"Red pública fuera de la vivienda (012)",173,159,14
+"Pilón de uso público (013)",24,12,12
+"Pozo (015)",58,55,3
+"Río, acequia, manatial o similar (016)",126,113,13
+"Vecino (017)",24,6,18
+"Otro (018)",7,3,4
+,,,
+"RURAL (020)",1274,876,398
+"Red pública dentro de la vivienda (021)",295,232,63
+"Red pública fuera de la vivienda (022)",24,13,11
+"Pilón de uso público (023)",74,51,23
+"Camión - cisterna u otro similar (024)",332,208,124
+"Pozo (025)",131,83,48
+"Río, acequia, manatial o similar (026)",392,275,117
+"Vecino (027)",16,12,4
+"Otro (028)",10,2,8

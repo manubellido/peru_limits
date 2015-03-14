@@ -1,0 +1,58 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia SUCRE",,,
+"Viviendas particulares (001)",2304,1729,575
+"Ocupantes presentes (002)",7995,6011,1984
+"Casa independiente",,,
+"Viviendas particulares (004)",2281,1711,570
+"Ocupantes presentes (005)",7930,5956,1974
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (010)",8,8,
+"Ocupantes presentes (011)",20,20,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",9,4,5
+"Ocupantes presentes (014)",21,11,10
+"Choza o cabaña",,,
+"Viviendas particulares (016)",6,6,
+"Ocupantes presentes (017)",24,24,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",1565,1114,451
+"Ocupantes presentes (029)",5517,3898,1619
+"Casa independiente",,,
+"Viviendas particulares (031)",1548,1102,446
+"Ocupantes presentes (032)",5476,3867,1609
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Viviendas particulares (037)",8,8,
+"Ocupantes presentes (038)",20,20,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",9,4,5
+"Ocupantes presentes (041)",21,11,10
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",739,615,124
+"Ocupantes presentes (056)",2478,2113,365
+"Casa independiente",,,
+"Viviendas particulares (058)",733,609,124
+"Ocupantes presentes (059)",2454,2089,365
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Viviendas particulares (070)",6,6,
+"Ocupantes presentes (071)",24,24,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

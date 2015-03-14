@@ -1,0 +1,22 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia ANTONIO RAYMONDI (000)",6060,5171,3951,338,882,889,13,124,731,21
+"Casa independiente (001)",5974,5098,3914,326,858,876,13,124,718,21
+"Vivienda en casa de vecindad (004)",5,5,4,1,,,,,,
+"Choza o cabaña (005)",78,66,31,11,24,12,,,12,
+"Vivienda improvisada (006)",2,1,1,,,1,,,1,
+"Local no dest.para hab. humana (007)",1,1,1,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",1473,1325,1068,114,143,148,2,21,121,4
+"Casa independiente (010)",1465,1318,1062,113,143,147,2,21,120,4
+"Vivienda en casa de vecindad (013)",5,5,4,1,,,,,,
+"Vivienda improvisada (015)",2,1,1,,,1,,,1,
+"Local no dest.para hab. humana (016)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",4587,3846,2883,224,739,741,11,103,610,17
+"Casa independiente (019)",4509,3780,2852,213,715,729,11,103,598,17
+"Choza o cabaña (023)",78,66,31,11,24,12,,,12,

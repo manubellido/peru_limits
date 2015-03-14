@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia TUMBES (000)",34282,28568,5714
+"Red pública de desague dentro de la vivienda (001)",17929,17134,795
+"Red pública de desague fuera de la vivienda (002)",1756,1614,142
+"Pozo séptico (003)",2197,1739,458
+"Pozo ciego o negro / letrina (004)",5966,4469,1497
+"Río, acequia o canal (005)",278,192,86
+"No tiene (006)",6156,3420,2736
+,,,
+"URBANA (008)",31506,26730,4776
+"Red pública de desague dentro de la vivienda (009)",17849,17067,782
+"Red pública de desague fuera de la vivienda (010)",1730,1592,138
+"Pozo séptico (011)",1870,1457,413
+"Pozo ciego o negro / letrina (012)",4667,3491,1176
+"Río, acequia o canal (013)",232,164,68
+"No tiene (014)",5158,2959,2199
+,,,
+"RURAL (016)",2776,1838,938
+"Red pública de desague dentro de la vivienda (017)",80,67,13
+"Red pública de desague fuera de la vivienda (018)",26,22,4
+"Pozo séptico (019)",327,282,45
+"Pozo ciego o negro / letrina (020)",1299,978,321
+"Río, acequia o canal (021)",46,28,18
+"No tiene (022)",998,461,537

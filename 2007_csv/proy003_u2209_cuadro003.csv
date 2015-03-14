@@ -1,0 +1,29 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia SAN MARTIN (000)",157756,3048,44539,45870,33247,23137,7915
+"Casa independiente (001)",143666,2694,40332,41423,30324,21473,7420
+"Departamento en edificio (002)",781,10,166,241,216,117,31
+"Vivienda en quinta (003)",5945,124,1428,2270,1321,630,172
+"Vivienda en casa de vecindad (004)",1358,26,387,451,303,139,52
+"Choza o cabaña (005)",4909,172,1868,1154,861,639,215
+"Vivienda improvisada (006)",811,15,267,251,162,94,22
+"Local no destinado para hab.humana (007)",227,4,74,63,47,37,2
+"Otro tipo (008)",59,3,17,17,13,8,1
+,,,,,,,
+"URBANA (009)",142969,2629,39138,42138,30589,21231,7244
+"Casa independiente (010)",133796,2448,36799,38848,28528,20209,6964
+"Departamento en edificio (011)",781,10,166,241,216,117,31
+"Vivienda en quinta (012)",5945,124,1428,2270,1321,630,172
+"Vivienda en casa de vecindad (013)",1358,26,387,451,303,139,52
+"Vivienda improvisada (015)",811,15,267,251,162,94,22
+"Local no destinado para hab.humana (016)",222,3,74,62,46,35,2
+"Otro tipo (017)",56,3,17,15,13,7,1
+,,,,,,,
+"RURAL (018)",14787,419,5401,3732,2658,1906,671
+"Casa independiente (019)",9870,246,3533,2575,1796,1264,456
+"Choza o cabaña (023)",4909,172,1868,1154,861,639,215
+"Local no destinado para hab.humana (025)",5,1,,1,1,2,
+"Otro tipo (026)",3,,,2,,1,

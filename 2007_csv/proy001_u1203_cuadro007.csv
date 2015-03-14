@@ -1,0 +1,78 @@
+"CUADRO Nº 7: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR MATERIAL DE PREDOMINANTE EN LAS PAREDES EXTERIORES DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"MATERIAL PREDOMINANTE EN LAS PAREDES EXTERIORES DE LA VIVIENDA",,,,,,,
+,,"LADRILLO O BLOQUE DE CEMENTO","ADOBE O TAPIA","MADERA (PONA, TOR-NILLO, ETC.)","QUINCHA (CAÑA CON BARRO)",ESTERA,"PIEDRA CON BARRO","PIEDRA O SILLAR CON CAL O CEMENTO","OTRO MATERIAL"
+,,,,,,,,,
+"Provincia CHANCHAMAYO",,,,,,,,,
+"Viviendas particulares (001)",41934,19582,2250,15362,3070,120,187,104,1259
+"Ocupantes presentes (002)",166385,80832,8701,58625,11962,435,691,385,4754
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (004)",32165,17269,1878,10394,1532,54,155,85,798
+"Ocupantes presentes (005)",130139,72344,7263,40253,6066,161,578,325,3149
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (007)",583,575,2,3,,,,3,
+"Ocupantes presentes (008)",1863,1834,7,11,,,,11,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (010)",979,835,20,96,21,,,7,
+"Ocupantes presentes (011)",3729,3131,82,419,71,,,26,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (013)",1029,840,16,150,7,,,4,12
+"Ocupantes presentes (014)",4124,3311,80,644,29,,,9,51
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (016)",6659,,328,4498,1510,48,31,5,239
+"Ocupantes presentes (017)",24752,,1249,16456,5796,210,110,14,917
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (019)",382,,,191,,18,,,173
+"Ocupantes presentes (020)",1321,,,718,,64,,,539
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (022)",103,63,6,30,,,1,,3
+"Ocupantes presentes (023)",374,212,20,124,,,3,,15
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (025)",34,,,,,,,,34
+"Ocupantes presentes (026)",83,,,,,,,,83
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Viviendas particulares (028)",22733,16384,877,4146,298,50,115,66,797
+"Ocupantes presentes (029)",94150,68790,3513,16808,1157,169,442,249,3022
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (031)",19646,14073,837,3686,270,32,114,52,582
+"Ocupantes presentes (032)",82738,60310,3338,14933,1057,105,439,203,2353
+"Departamento en edificio",,,,,,,,,
+"Viviendas particulares (034)",583,575,2,3,,,,3,
+"Ocupantes presentes (035)",1863,1834,7,11,,,,11,
+"Vivienda en quinta",,,,,,,,,
+"Viviendas particulares (037)",979,835,20,96,21,,,7,
+"Ocupantes presentes (038)",3729,3131,82,419,71,,,26,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (040)",1029,840,16,150,7,,,4,12
+"Ocupantes presentes (041)",4124,3311,80,644,29,,,9,51
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Viviendas particulares (046)",382,,,191,,18,,,173
+"Ocupantes presentes (047)",1321,,,718,,64,,,539
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (049)",87,61,2,20,,,1,,3
+"Ocupantes presentes (050)",311,204,6,83,,,3,,15
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (052)",27,,,,,,,,27
+"Ocupantes presentes (053)",64,,,,,,,,64
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Viviendas particulares (055)",19201,3198,1373,11216,2772,70,72,38,462
+"Ocupantes presentes (056)",72235,12042,5188,41817,10805,266,249,136,1732
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (058)",12519,3196,1041,6708,1262,22,41,33,216
+"Ocupantes presentes (059)",47401,12034,3925,25320,5009,56,139,122,796
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Viviendas particulares (070)",6659,,328,4498,1510,48,31,5,239
+"Ocupantes presentes (071)",24752,,1249,16456,5796,210,110,14,917
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Viviendas particulares (076)",16,2,4,10,,,,,
+"Ocupantes presentes (077)",63,8,14,41,,,,,
+"Otro tipo",,,,,,,,,
+"Viviendas particulares (079)",7,,,,,,,,7
+"Ocupantes presentes (080)",19,,,,,,,,19

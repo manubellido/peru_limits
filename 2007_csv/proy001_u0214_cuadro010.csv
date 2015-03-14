@@ -1,0 +1,54 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia OCROS",,,
+"Viviendas particulares (001)",1458,1279,179
+"Ocupantes presentes (002)",5553,4879,674
+"Casa independiente",,,
+"Viviendas particulares (004)",1448,1275,173
+"Ocupantes presentes (005)",5511,4865,646
+"Departamento en edificio",,,
+"Viviendas particulares (007)",3,,3
+"Ocupantes presentes (008)",8,,8
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",7,4,3
+"Ocupantes presentes (014)",34,14,20
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",1063,903,160
+"Ocupantes presentes (029)",4090,3488,602
+"Casa independiente",,,
+"Viviendas particulares (031)",1053,899,154
+"Ocupantes presentes (032)",4048,3474,574
+"Departamento en edificio",,,
+"Viviendas particulares (034)",3,,3
+"Ocupantes presentes (035)",8,,8
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",7,4,3
+"Ocupantes presentes (041)",34,14,20
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",395,376,19
+"Ocupantes presentes (056)",1463,1391,72
+"Casa independiente",,,
+"Viviendas particulares (058)",395,376,19
+"Ocupantes presentes (059)",1463,1391,72
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

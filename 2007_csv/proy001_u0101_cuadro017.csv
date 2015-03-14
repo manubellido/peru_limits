@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CHACHAPOYAS (000)",13044,9337,3707
+"Red pública dentro de la vivienda (001)",6027,5348,679
+"Red pública fuera de la vivienda (002)",2400,1844,556
+"Pilón de uso público (003)",111,42,69
+"Camión - cisterna u otro similar (004)",3,2,1
+"Pozo (005)",675,205,470
+"Río, acequia, manatial o similar (006)",3486,1781,1705
+"Vecino (007)",260,79,181
+"Otro (008)",82,36,46
+,,,
+"URBANA (010)",9000,8063,937
+"Red pública dentro de la vivienda (011)",5449,5100,349
+"Red pública fuera de la vivienda (012)",1577,1486,91
+"Pilón de uso público (013)",53,38,15
+"Camión - cisterna u otro similar (014)",3,2,1
+"Pozo (015)",220,143,77
+"Río, acequia, manatial o similar (016)",1510,1215,295
+"Vecino (017)",150,54,96
+"Otro (018)",38,25,13
+,,,
+"RURAL (020)",4044,1274,2770
+"Red pública dentro de la vivienda (021)",578,248,330
+"Red pública fuera de la vivienda (022)",823,358,465
+"Pilón de uso público (023)",58,4,54
+"Pozo (025)",455,62,393
+"Río, acequia, manatial o similar (026)",1976,566,1410
+"Vecino (027)",110,25,85
+"Otro (028)",44,11,33

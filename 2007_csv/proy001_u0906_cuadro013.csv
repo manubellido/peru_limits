@@ -1,0 +1,54 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia HUAYTARA",,,,,
+"Viviendas particulares (001)",166,47,16,43,60
+"Ocupantes presentes (002)",541,148,42,154,197
+"Casa independiente",,,,,
+"Viviendas particulares (004)",161,44,16,41,60
+"Ocupantes presentes (005)",519,130,42,150,197
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Viviendas particulares (010)",1,,,1,
+"Ocupantes presentes (011)",2,,,2,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (016)",4,3,,1,
+"Ocupantes presentes (017)",20,18,,2,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",111,31,15,15,50
+"Ocupantes presentes (029)",369,100,38,48,183
+"Casa independiente",,,,,
+"Viviendas particulares (031)",110,31,15,14,50
+"Ocupantes presentes (032)",367,100,38,46,183
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Viviendas particulares (037)",1,,,1,
+"Ocupantes presentes (038)",2,,,2,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",55,16,1,28,10
+"Ocupantes presentes (056)",172,48,4,106,14
+"Casa independiente",,,,,
+"Viviendas particulares (058)",51,13,1,27,10
+"Ocupantes presentes (059)",152,30,4,104,14
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (070)",4,3,,1,
+"Ocupantes presentes (071)",20,18,,2,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

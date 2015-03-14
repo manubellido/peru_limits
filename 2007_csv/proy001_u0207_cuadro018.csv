@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CARLOS FERMIN FITZCARRALD (000)",5304,1633,3671
+"Red pública de desague dentro de la vivienda (001)",327,310,17
+"Red pública de desague fuera de la vivienda (002)",385,340,45
+"Pozo séptico (003)",91,53,38
+"Pozo ciego o negro / letrina (004)",1089,314,775
+"Río, acequia o canal (005)",39,10,29
+"No tiene (006)",3373,606,2767
+,,,
+"URBANA (008)",931,854,77
+"Red pública de desague dentro de la vivienda (009)",273,268,5
+"Red pública de desague fuera de la vivienda (010)",330,316,14
+"Pozo séptico (011)",19,18,1
+"Pozo ciego o negro / letrina (012)",62,59,3
+"Río, acequia o canal (013)",11,7,4
+"No tiene (014)",236,186,50
+,,,
+"RURAL (016)",4373,779,3594
+"Red pública de desague dentro de la vivienda (017)",54,42,12
+"Red pública de desague fuera de la vivienda (018)",55,24,31
+"Pozo séptico (019)",72,35,37
+"Pozo ciego o negro / letrina (020)",1027,255,772
+"Río, acequia o canal (021)",28,3,25
+"No tiene (022)",3137,420,2717

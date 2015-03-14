@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia ANTABAMBA (000)",3789,1666,2123
+"Red pública dentro de la vivienda (001)",701,572,129
+"Red pública fuera de la vivienda (002)",128,102,26
+"Pilón de uso público (003)",48,21,27
+"Pozo (005)",9,,9
+"Río, acequia, manatial o similar (006)",2749,906,1843
+"Vecino (007)",113,48,65
+"Otro (008)",41,17,24
+,,,
+"URBANA (010)",2522,1641,881
+"Red pública dentro de la vivienda (011)",688,570,118
+"Red pública fuera de la vivienda (012)",125,102,23
+"Pilón de uso público (013)",28,17,11
+"Pozo (015)",1,,1
+"Río, acequia, manatial o similar (016)",1532,887,645
+"Vecino (017)",112,48,64
+"Otro (018)",36,17,19
+,,,
+"RURAL (020)",1267,25,1242
+"Red pública dentro de la vivienda (021)",13,2,11
+"Red pública fuera de la vivienda (022)",3,,3
+"Pilón de uso público (023)",20,4,16
+"Pozo (025)",8,,8
+"Río, acequia, manatial o similar (026)",1217,19,1198
+"Vecino (027)",1,,1
+"Otro (028)",5,,5

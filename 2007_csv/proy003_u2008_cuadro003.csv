@@ -1,0 +1,28 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia SECHURA (000)",61873,1665,20789,17864,11092,7456,3007
+"Casa independiente (001)",58775,1542,19720,16752,10594,7231,2936
+"Departamento en edificio (002)",22,,3,10,7,2,
+"Vivienda en quinta (003)",10,,3,4,2,1,
+"Vivienda en casa de vecindad (004)",8,,3,2,3,,
+"Choza o cabaña (005)",1262,34,411,395,228,134,60
+"Vivienda improvisada (006)",1768,89,645,690,250,84,10
+"Local no destinado para hab.humana (007)",26,,4,10,8,3,1
+"Otro tipo (008)",2,,,1,,1,
+,,,,,,,
+"URBANA (009)",58051,1557,19547,16699,10475,6965,2808
+"Casa independiente (010)",56216,1468,18889,15982,10206,6874,2797
+"Departamento en edificio (011)",22,,3,10,7,2,
+"Vivienda en quinta (012)",10,,3,4,2,1,
+"Vivienda en casa de vecindad (013)",8,,3,2,3,,
+"Vivienda improvisada (015)",1768,89,645,690,250,84,10
+"Local no destinado para hab.humana (016)",25,,4,10,7,3,1
+"Otro tipo (017)",2,,,1,,1,
+,,,,,,,
+"RURAL (018)",3822,108,1242,1165,617,491,199
+"Casa independiente (019)",2559,74,831,770,388,357,139
+"Choza o cabaña (023)",1262,34,411,395,228,134,60
+"Local no destinado para hab.humana (025)",1,,,,1,,

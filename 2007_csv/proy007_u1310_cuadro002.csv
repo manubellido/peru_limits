@@ -1,0 +1,88 @@
+"CUADRO Nº 2: POBLACIÓN DE 3 Y MÁS AÑOS DE EDAD, POR AFILIACIÓN A ALGÚN TIPO DE SEGURO DE SALUD, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y NIVEL EDUCATIVO ALCANZADO",TOTAL,"AFILIADO A ALGÚN SEGURO DE SALUD",,,
+,,"SIS (SEGURO INTEGRAL DE SALUD)",ESSALUD,"OTRO SEGURO DE SALUD",NINGUNO
+,,,,,
+"Provincia SANTIAGO DE CHUCO (000)",53952,14941,8301,1123,30122
+"Sin Nivel (001)",11112,3624,839,65,6590
+"Educación Inicial (002)",1190,700,210,18,264
+"Primaria (003)",26415,8308,2412,173,15543
+"Secundaria (004)",9662,2077,2130,280,5294
+"Sup. no Univ. Incompleta (005)",1540,96,474,89,933
+"Sup. no Univ. Completa (006)",2308,71,1249,253,919
+"Sup. Univ. Incompleta (007)",500,20,236,55,227
+"Sup. Univ. Completa (008)",1225,45,751,190,352
+"Hombres (010)",27559,7065,5114,895,14990
+"Sin Nivel (011)",3912,1591,321,26,1980
+"Educación Inicial (012)",587,340,106,6,136
+"Primaria (013)",13565,3936,1249,110,8283
+"Secundaria (014)",5883,1088,1437,229,3243
+"Sup. no Univ. Incompleta (015)",926,36,355,81,505
+"Sup. no Univ. Completa (016)",1568,36,952,237,524
+"Sup. Univ. Incompleta (017)",325,10,186,49,117
+"Sup. Univ. Completa (018)",793,28,508,157,202
+"Mujeres (020)",26393,7876,3187,228,15132
+"Sin Nivel (021)",7200,2033,518,39,4610
+"Educación Inicial (022)",603,360,104,12,128
+"Primaria (023)",12850,4372,1163,63,7260
+"Secundaria (024)",3779,989,693,51,2051
+"Sup. no Univ. Incompleta (025)",614,60,119,8,428
+"Sup. no Univ. Completa (026)",740,35,297,16,395
+"Sup. Univ. Incompleta (027)",175,10,50,6,110
+"Sup. Univ. Completa (028)",432,17,243,33,150
+,,,,,
+"URBANA (030)",18605,3370,5401,393,9470
+"Sin Nivel (031)",2777,620,639,31,1491
+"Educación Inicial (032)",515,183,178,13,141
+"Primaria (033)",6869,1570,1775,98,3434
+"Secundaria (034)",4861,815,1419,113,2522
+"Sup. no Univ. Incompleta (035)",1040,75,253,25,687
+"Sup. no Univ. Completa (036)",1419,60,584,55,727
+"Sup. Univ. Incompleta (037)",318,13,118,12,176
+"Sup. Univ. Completa (038)",806,34,435,46,292
+"Hombres (040)",8881,1524,2772,239,4368
+"Sin Nivel (041)",878,240,243,10,389
+"Educación Inicial (042)",260,91,91,4,74
+"Primaria (043)",3210,725,859,53,1577
+"Secundaria (044)",2619,388,798,75,1365
+"Sup. no Univ. Incompleta (045)",529,25,146,18,340
+"Sup. no Univ. Completa (046)",782,29,327,43,389
+"Sup. Univ. Incompleta (047)",167,6,73,6,82
+"Sup. Univ. Completa (048)",436,20,235,30,152
+"Mujeres (050)",9724,1846,2629,154,5102
+"Sin Nivel (051)",1899,380,396,21,1102
+"Educación Inicial (052)",255,92,87,9,67
+"Primaria (053)",3659,845,916,45,1857
+"Secundaria (054)",2242,427,621,38,1157
+"Sup. no Univ. Incompleta (055)",511,50,107,7,347
+"Sup. no Univ. Completa (056)",637,31,257,12,338
+"Sup. Univ. Incompleta (057)",151,7,45,6,94
+"Sup. Univ. Completa (058)",370,14,200,16,140
+,,,,,
+"RURAL (060)",35347,11571,2900,730,20652
+"Sin Nivel (061)",8335,3004,200,34,5099
+"Educación Inicial (062)",675,517,32,5,123
+"Primaria (063)",19546,6738,637,75,12109
+"Secundaria (064)",4801,1262,711,167,2772
+"Sup. no Univ. Incompleta (065)",500,21,221,64,246
+"Sup. no Univ. Completa (066)",889,11,665,198,192
+"Sup. Univ. Incompleta (067)",182,7,118,43,51
+"Sup. Univ. Completa (068)",419,11,316,144,60
+"Hombres (070)",18678,5541,2342,656,10622
+"Sin Nivel (071)",3034,1351,78,16,1591
+"Educación Inicial (072)",327,249,15,2,62
+"Primaria (073)",10355,3211,390,57,6706
+"Secundaria (074)",3264,700,639,154,1878
+"Sup. no Univ. Incompleta (075)",397,11,209,63,165
+"Sup. no Univ. Completa (076)",786,7,625,194,135
+"Sup. Univ. Incompleta (077)",158,4,113,43,35
+"Sup. Univ. Completa (078)",357,8,273,127,50
+"Mujeres (080)",16669,6030,558,74,10030
+"Sin Nivel (081)",5301,1653,122,18,3508
+"Educación Inicial (082)",348,268,17,3,61
+"Primaria (083)",9191,3527,247,18,5403
+"Secundaria (084)",1537,562,72,13,894
+"Sup. no Univ. Incompleta (085)",103,10,12,1,81
+"Sup. no Univ. Completa (086)",103,4,40,4,57
+"Sup. Univ. Incompleta (087)",24,3,5,,16
+"Sup. Univ. Completa (088)",62,3,43,17,10

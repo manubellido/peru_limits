@@ -1,0 +1,50 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia MARISCAL LUZURIAGA",,,,,
+"Viviendas particulares (001)",214,86,44,52,32
+"Ocupantes presentes (002)",895,293,193,241,168
+"Casa independiente",,,,,
+"Viviendas particulares (004)",213,85,44,52,32
+"Ocupantes presentes (005)",892,290,193,241,168
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Viviendas particulares (022)",1,1,,,
+"Ocupantes presentes (023)",3,3,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",27,13,4,5,5
+"Ocupantes presentes (029)",103,39,22,18,24
+"Casa independiente",,,,,
+"Viviendas particulares (031)",26,12,4,5,5
+"Ocupantes presentes (032)",100,36,22,18,24
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Viviendas particulares (049)",1,1,,,
+"Ocupantes presentes (050)",3,3,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",187,73,40,47,27
+"Ocupantes presentes (056)",792,254,171,223,144
+"Casa independiente",,,,,
+"Viviendas particulares (058)",187,73,40,47,27
+"Ocupantes presentes (059)",792,254,171,223,144
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

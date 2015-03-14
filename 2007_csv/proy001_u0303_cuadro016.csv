@@ -1,0 +1,58 @@
+"CUADRO Nº 16: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia ANTABAMBA",,,
+"Viviendas particulares (001)",3789,1666,2123
+"Ocupantes presentes (002)",12064,5826,6238
+"Casa independiente",,,
+"Viviendas particulares (004)",3471,1631,1840
+"Ocupantes presentes (005)",11220,5728,5492
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",47,32,15
+"Ocupantes presentes (014)",140,95,45
+"Choza o cabaña",,,
+"Viviendas particulares (016)",266,,266
+"Ocupantes presentes (017)",699,,699
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (022)",5,3,2
+"Ocupantes presentes (023)",5,3,2
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",2522,1641,881
+"Ocupantes presentes (029)",8488,5758,2730
+"Casa independiente",,,
+"Viviendas particulares (031)",2470,1606,864
+"Ocupantes presentes (032)",8343,5660,2683
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",47,32,15
+"Ocupantes presentes (041)",140,95,45
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (049)",5,3,2
+"Ocupantes presentes (050)",5,3,2
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",1267,25,1242
+"Ocupantes presentes (056)",3576,68,3508
+"Casa independiente",,,
+"Viviendas particulares (058)",1001,25,976
+"Ocupantes presentes (059)",2877,68,2809
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Viviendas particulares (070)",266,,266
+"Ocupantes presentes (071)",699,,699
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

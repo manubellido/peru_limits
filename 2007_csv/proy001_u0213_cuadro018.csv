@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia MARISCAL LUZURIAGA (000)",5380,1965,3415
+"Red pública de desague dentro de la vivienda (001)",325,306,19
+"Red pública de desague fuera de la vivienda (002)",90,82,8
+"Pozo séptico (003)",142,64,78
+"Pozo ciego o negro / letrina (004)",1365,423,942
+"Río, acequia o canal (005)",50,26,24
+"No tiene (006)",3408,1064,2344
+,,,
+"URBANA (008)",689,562,127
+"Red pública de desague dentro de la vivienda (009)",258,246,12
+"Red pública de desague fuera de la vivienda (010)",77,76,1
+"Pozo séptico (011)",20,17,3
+"Pozo ciego o negro / letrina (012)",48,32,16
+"Río, acequia o canal (013)",15,14,1
+"No tiene (014)",271,177,94
+,,,
+"RURAL (016)",4691,1403,3288
+"Red pública de desague dentro de la vivienda (017)",67,60,7
+"Red pública de desague fuera de la vivienda (018)",13,6,7
+"Pozo séptico (019)",122,47,75
+"Pozo ciego o negro / letrina (020)",1317,391,926
+"Río, acequia o canal (021)",35,12,23
+"No tiene (022)",3137,887,2250

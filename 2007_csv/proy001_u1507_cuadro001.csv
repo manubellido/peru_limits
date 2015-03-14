@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia HUAROCHIRI (000)",27534,25604,18458,3597,3549,1930,83,452,1313,82
+"Casa independiente (001)",24816,23073,16749,3092,3232,1743,67,425,1183,68
+"Departamento en edificio (002)",340,306,192,114,,34,7,20,5,2
+"Vivienda en quinta (003)",542,531,437,89,5,11,5,,6,
+"Vivienda en casa de vecindad (004)",493,431,362,54,15,62,4,7,43,8
+"Choza o cabaña (005)",1030,997,510,194,293,33,,,32,1
+"Vivienda improvisada (006)",261,214,156,54,4,47,,,44,3
+"Local no dest.para hab. humana (007)",39,39,39,,,,,,,
+"Otro tipo (008)",13,13,13,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",16590,15384,12149,1888,1347,1206,66,256,831,53
+"Casa independiente (010)",14924,13872,10972,1577,1323,1052,50,229,733,40
+"Departamento en edificio (011)",340,306,192,114,,34,7,20,5,2
+"Vivienda en quinta (012)",542,531,437,89,5,11,5,,6,
+"Vivienda en casa de vecindad (013)",493,431,362,54,15,62,4,7,43,8
+"Vivienda improvisada (015)",261,214,156,54,4,47,,,44,3
+"Local no dest.para hab. humana (016)",26,26,26,,,,,,,
+"Otro tipo (017)",4,4,4,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",10944,10220,6309,1709,2202,724,17,196,482,29
+"Casa independiente (019)",9892,9201,5777,1515,1909,691,17,196,450,28
+"Choza o cabaña (023)",1030,997,510,194,293,33,,,32,1
+"Local no dest.para hab. humana (025)",13,13,13,,,,,,,
+"Otro tipo (026)",9,9,9,,,,,,,

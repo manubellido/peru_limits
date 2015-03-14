@@ -1,0 +1,114 @@
+"CUADRO Nº 13: POBLACIÓN OCUPADA DE 6 Y MÁS AÑOS DE EDAD, POR NIVEL EDUCATIVO ALCANZADO, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y OCUPACIÓN PRINCIPAL",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, SEXO Y OCUPACION PRINCIPAL",TOTAL,"NIVEL EDUCATIVO ALCANZADO",,,,,,,
+,,"SIN NIVEL","EDUCACIÓN INICIAL",PRIMARIA,SECUNDARIA,"SUP. NO UNIV. INCOMPLETA","SUP. NO UNIV. COMPLETA","SUP. UNIV. INCOMPLETA","SUP. UNIV. COMPLETA"
+,,,,,,,,,
+"Provincia PIURA (000)",226138,12878,174,52343,73009,16153,30500,12401,28680
+"Miembros p.ejec. y leg.direct., adm.pub.y emp (001)",514,,,9,30,14,94,34,333
+"Profes., científicos e intelectuales (002)",22647,,,,615,915,4495,1819,14803
+"Técnicos de nivel medio ytrab.asimilados (003)",14387,29,2,235,2059,1781,5761,1848,2672
+"Jefes y empleados de oficina (004)",11903,3,,128,2389,1172,3624,1547,3040
+"Trab.de serv.pers.y vend.del comerc y mcdo. (005)",38606,1563,28,7406,15065,3863,5435,2610,2636
+"Agricult.trabaj. calif.agrop. y pesquros (006)",22206,3474,21,10854,5981,513,597,305,461
+"Obreros y oper.minas, cant., ind.manuf.y otros (007)",17039,661,12,3109,7026,1522,2959,716,1034
+"Obreros. construc., conf., papel, fab., instr (008)",25943,507,12,4577,13056,2370,2794,1322,1305
+"Trabaj.no calif.serv. peon, vend., amb.,y afines (009)",65707,6115,95,24464,24641,3439,3578,1799,1576
+"Otra (010)",1712,,,,348,162,719,127,356
+"Ocupación no especificada (011)",5474,526,4,1561,1799,402,444,274,464
+"Hombres (012)",153613,8528,118,38300,54880,10411,16641,8123,16612
+"Miembros p.ejec. y leg.direct., adm.pub.y emp (013)",347,,,7,25,10,58,28,219
+"Profes., científicos e intelectuales (014)",10811,,,,213,358,1552,968,7720
+"Técnicos de nivel medio ytrab.asimilados (015)",8622,18,2,142,1397,1217,3024,1201,1621
+"Jefes y empleados de oficina (016)",5792,1,,89,1537,571,1213,816,1565
+"Trab.de serv.pers.y vend.del comerc y mcdo. (017)",18506,377,9,3015,8186,1838,2233,1524,1324
+"Agricult.trabaj. calif.agrop. y pesquros (018)",21343,3185,19,10500,5844,486,570,300,439
+"Obreros y oper.minas, cant., ind.manuf.y otros (019)",13405,246,9,2115,5851,1247,2466,605,866
+"Obreros. construc., conf., papel, fab., instr (020)",25160,457,10,4406,12760,2305,2680,1283,1259
+"Trabaj.no calif.serv. peon, vend., amb.,y afines (021)",45375,4094,68,17380,17724,2017,1972,1133,987
+"Otra (022)",1594,,,,334,149,663,114,334
+"Ocupación no especificada (023)",2658,150,1,646,1009,213,210,151,278
+"Mujeres (024)",72525,4350,56,14043,18129,5742,13859,4278,12068
+"Miembros p.ejec. y leg.direct., adm.pub.y emp (025)",167,,,2,5,4,36,6,114
+"Profes., científicos e intelectuales (026)",11836,,,,402,557,2943,851,7083
+"Técnicos de nivel medio ytrab.asimilados (027)",5765,11,,93,662,564,2737,647,1051
+"Jefes y empleados de oficina (028)",6111,2,,39,852,601,2411,731,1475
+"Trab.de serv.pers.y vend.del comerc y mcdo. (029)",20100,1186,19,4391,6879,2025,3202,1086,1312
+"Agricult.trabaj. calif.agrop. y pesquros (030)",863,289,2,354,137,27,27,5,22
+"Obreros y oper.minas, cant., ind.manuf.y otros (031)",3634,415,3,994,1175,275,493,111,168
+"Obreros. construc., conf., papel, fab., instr (032)",783,50,2,171,296,65,114,39,46
+"Trabaj.no calif.serv. peon, vend., amb.,y afines (033)",20332,2021,27,7084,6917,1422,1606,666,589
+"Otra (034)",118,,,,14,13,56,13,22
+"Ocupación no especificada (035)",2816,376,3,915,790,189,234,123,186
+,,,,,,,,,
+"URBANA (036)",197951,8184,159,38907,65047,15506,29729,12205,28214
+"Miembros p.ejec. y leg.direct., adm.pub.y emp (037)",504,,,7,27,14,93,33,330
+"Profes., científicos e intelectuales (038)",22276,,,,582,877,4353,1797,14667
+"Técnicos de nivel medio ytrab.asimilados (039)",14229,25,2,229,2031,1751,5696,1841,2654
+"Jefes y empleados de oficina (040)",11810,3,,126,2360,1160,3587,1543,3031
+"Trab.de serv.pers.y vend.del comerc y mcdo. (041)",37601,1437,27,6979,14726,3821,5397,2598,2616
+"Agricult.trabaj. calif.agrop. y pesquros (042)",14148,1785,19,6855,4053,379,453,252,352
+"Obreros y oper.minas, cant., ind.manuf.y otros (043)",16649,609,11,2988,6888,1511,2916,711,1015
+"Obreros. construc., conf., papel, fab., instr (044)",25089,442,12,4276,12640,2340,2771,1312,1296
+"Trabaj.no calif.serv. peon, vend., amb.,y afines (045)",49260,3495,84,16300,19783,3110,3319,1726,1443
+"Otra (046)",1703,,,,345,161,719,126,352
+"Ocupación no especificada (047)",4682,388,4,1147,1612,382,425,266,458
+"Hombres (048)",128304,4423,105,26109,47534,9871,16065,7952,16245
+"Miembros p.ejec. y leg.direct., adm.pub.y emp (049)",340,,,5,24,10,58,27,216
+"Profes., científicos e intelectuales (050)",10629,,,,203,345,1483,953,7645
+"Técnicos de nivel medio ytrab.asimilados (051)",8526,15,2,137,1377,1196,2994,1196,1609
+"Jefes y empleados de oficina (052)",5737,1,,87,1513,565,1197,813,1561
+"Trab.de serv.pers.y vend.del comerc y mcdo. (053)",17961,329,8,2794,7969,1818,2216,1517,1310
+"Agricult.trabaj. calif.agrop. y pesquros (054)",13464,1575,17,6570,3938,357,427,247,333
+"Obreros y oper.minas, cant., ind.manuf.y otros (055)",13101,220,8,2024,5733,1238,2428,601,849
+"Obreros. construc., conf., papel, fab., instr (056)",24311,395,10,4105,12346,2275,2657,1273,1250
+"Trabaj.no calif.serv. peon, vend., amb.,y afines (057)",30293,1781,59,9891,13177,1715,1741,1064,865
+"Otra (058)",1585,,,,331,148,663,113,330
+"Ocupación no especificada (059)",2357,107,1,496,923,204,201,148,277
+"Mujeres (060)",69647,3761,54,12798,17513,5635,13664,4253,11969
+"Miembros p.ejec. y leg.direct., adm.pub.y emp (061)",164,,,2,3,4,35,6,114
+"Profes., científicos e intelectuales (062)",11647,,,,379,532,2870,844,7022
+"Técnicos de nivel medio ytrab.asimilados (063)",5703,10,,92,654,555,2702,645,1045
+"Jefes y empleados de oficina (064)",6073,2,,39,847,595,2390,730,1470
+"Trab.de serv.pers.y vend.del comerc y mcdo. (065)",19640,1108,19,4185,6757,2003,3181,1081,1306
+"Agricult.trabaj. calif.agrop. y pesquros (066)",684,210,2,285,115,22,26,5,19
+"Obreros y oper.minas, cant., ind.manuf.y otros (067)",3548,389,3,964,1155,273,488,110,166
+"Obreros. construc., conf., papel, fab., instr (068)",778,47,2,171,294,65,114,39,46
+"Trabaj.no calif.serv. peon, vend., amb.,y afines (069)",18967,1714,25,6409,6606,1395,1578,662,578
+"Otra (070)",118,,,,14,13,56,13,22
+"Ocupación no especificada (071)",2325,281,3,651,689,178,224,118,181
+,,,,,,,,,
+"RURAL (072)",28187,4694,15,13436,7962,647,771,196,466
+"Miembros p.ejec. y leg.direct., adm.pub.y emp (073)",10,,,2,3,,1,1,3
+"Profes., científicos e intelectuales (074)",371,,,,33,38,142,22,136
+"Técnicos de nivel medio ytrab.asimilados (075)",158,4,,6,28,30,65,7,18
+"Jefes y empleados de oficina (076)",93,,,2,29,12,37,4,9
+"Trab.de serv.pers.y vend.del comerc y mcdo. (077)",1005,126,1,427,339,42,38,12,20
+"Agricult.trabaj. calif.agrop. y pesquros (078)",8058,1689,2,3999,1928,134,144,53,109
+"Obreros y oper.minas, cant., ind.manuf.y otros (079)",390,52,1,121,138,11,43,5,19
+"Obreros. construc., conf., papel, fab., instr (080)",854,65,,301,416,30,23,10,9
+"Trabaj.no calif.serv. peon, vend., amb.,y afines (081)",16447,2620,11,8164,4858,329,259,73,133
+"Otra (082)",9,,,,3,1,,1,4
+"Ocupación no especificada (083)",792,138,,414,187,20,19,8,6
+"Hombres (084)",25309,4105,13,12191,7346,540,576,171,367
+"Miembros p.ejec. y leg.direct., adm.pub.y emp (085)",7,,,2,1,,,1,3
+"Profes., científicos e intelectuales (086)",182,,,,10,13,69,15,75
+"Técnicos de nivel medio ytrab.asimilados (087)",96,3,,5,20,21,30,5,12
+"Jefes y empleados de oficina (088)",55,,,2,24,6,16,3,4
+"Trab.de serv.pers.y vend.del comerc y mcdo. (089)",545,48,1,221,217,20,17,7,14
+"Agricult.trabaj. calif.agrop. y pesquros (090)",7879,1610,2,3930,1906,129,143,53,106
+"Obreros y oper.minas, cant., ind.manuf.y otros (091)",304,26,1,91,118,9,38,4,17
+"Obreros. construc., conf., papel, fab., instr (092)",849,62,,301,414,30,23,10,9
+"Trabaj.no calif.serv. peon, vend., amb.,y afines (093)",15082,2313,9,7489,4547,302,231,69,122
+"Otra (094)",9,,,,3,1,,1,4
+"Ocupación no especificada (095)",301,43,,150,86,9,9,3,1
+"Mujeres (096)",2878,589,2,1245,616,107,195,25,99
+"Miembros p.ejec. y leg.direct., adm.pub.y emp (097)",3,,,,2,,1,,
+"Profes., científicos e intelectuales (098)",189,,,,23,25,73,7,61
+"Técnicos de nivel medio ytrab.asimilados (099)",62,1,,1,8,9,35,2,6
+"Jefes y empleados de oficina (100)",38,,,,5,6,21,1,5
+"Trab.de serv.pers.y vend.del comerc y mcdo. (101)",460,78,,206,122,22,21,5,6
+"Agricult.trabaj. calif.agrop. y pesquros (102)",179,79,,69,22,5,1,,3
+"Obreros y oper.minas, cant., ind.manuf.y otros (103)",86,26,,30,20,2,5,1,2
+"Obreros. construc., conf., papel, fab., instr (104)",5,3,,,2,,,,
+"Trabaj.no calif.serv. peon, vend., amb.,y afines (105)",1365,307,2,675,311,27,28,4,11
+"Ocupación no especificada (107)",491,95,,264,101,11,10,5,5

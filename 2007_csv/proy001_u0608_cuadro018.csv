@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia JAEN (000)",42538,22348,20190
+"Red pública de desague dentro de la vivienda (001)",15141,14163,978
+"Red pública de desague fuera de la vivienda (002)",3915,3526,389
+"Pozo séptico (003)",1146,370,776
+"Pozo ciego o negro / letrina (004)",15326,3214,12112
+"Río, acequia o canal (005)",473,226,247
+"No tiene (006)",6537,849,5688
+,,,
+"URBANA (008)",22164,19783,2381
+"Red pública de desague dentro de la vivienda (009)",14369,13771,598
+"Red pública de desague fuera de la vivienda (010)",3576,3405,171
+"Pozo séptico (011)",359,284,75
+"Pozo ciego o negro / letrina (012)",2693,1661,1032
+"Río, acequia o canal (013)",240,193,47
+"No tiene (014)",927,469,458
+,,,
+"RURAL (016)",20374,2565,17809
+"Red pública de desague dentro de la vivienda (017)",772,392,380
+"Red pública de desague fuera de la vivienda (018)",339,121,218
+"Pozo séptico (019)",787,86,701
+"Pozo ciego o negro / letrina (020)",12633,1553,11080
+"Río, acequia o canal (021)",233,33,200
+"No tiene (022)",5610,380,5230

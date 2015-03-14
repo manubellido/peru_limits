@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia YAUYOS (000)",7806,5206,2600
+"Red pública dentro de la vivienda (001)",1531,1253,278
+"Red pública fuera de la vivienda (002)",626,516,110
+"Pilón de uso público (003)",252,151,101
+"Pozo (005)",616,511,105
+"Río, acequia, manatial o similar (006)",4446,2589,1857
+"Vecino (007)",246,134,112
+"Otro (008)",89,52,37
+,,,
+"URBANA (010)",4753,3882,871
+"Red pública dentro de la vivienda (011)",1273,1080,193
+"Red pública fuera de la vivienda (012)",574,493,81
+"Pilón de uso público (013)",120,90,30
+"Pozo (015)",500,473,27
+"Río, acequia, manatial o similar (016)",2016,1587,429
+"Vecino (017)",203,114,89
+"Otro (018)",67,45,22
+,,,
+"RURAL (020)",3053,1324,1729
+"Red pública dentro de la vivienda (021)",258,173,85
+"Red pública fuera de la vivienda (022)",52,23,29
+"Pilón de uso público (023)",132,61,71
+"Pozo (025)",116,38,78
+"Río, acequia, manatial o similar (026)",2430,1002,1428
+"Vecino (027)",43,20,23
+"Otro (028)",22,7,15

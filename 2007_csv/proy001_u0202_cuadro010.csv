@@ -1,0 +1,54 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia AIJA",,,
+"Viviendas particulares (001)",831,800,31
+"Ocupantes presentes (002)",2912,2785,127
+"Casa independiente",,,
+"Viviendas particulares (004)",815,785,30
+"Ocupantes presentes (005)",2834,2712,122
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (013)",14,13,1
+"Ocupantes presentes (014)",76,71,5
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (022)",2,2,
+"Ocupantes presentes (023)",2,2,
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",617,597,20
+"Ocupantes presentes (029)",2149,2081,68
+"Casa independiente",,,
+"Viviendas particulares (031)",601,582,19
+"Ocupantes presentes (032)",2071,2008,63
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Viviendas particulares (040)",14,13,1
+"Ocupantes presentes (041)",76,71,5
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (049)",2,2,
+"Ocupantes presentes (050)",2,2,
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",214,203,11
+"Ocupantes presentes (056)",763,704,59
+"Casa independiente",,,
+"Viviendas particulares (058)",214,203,11
+"Ocupantes presentes (059)",763,704,59
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

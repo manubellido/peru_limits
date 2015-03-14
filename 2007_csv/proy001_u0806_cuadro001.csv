@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia CANCHIS (000)",34749,31077,26133,2105,2839,3672,64,621,2800,187
+"Casa independiente (001)",28941,25539,21672,1819,2048,3402,57,620,2550,175
+"Departamento en edificio (002)",94,85,74,11,,9,7,1,1,
+"Vivienda en quinta (003)",283,279,274,4,1,4,,,3,1
+"Vivienda en casa de vecindad (004)",3162,3155,3092,51,12,7,,,7,
+"Choza o cabaña (005)",2216,1983,994,214,775,233,,,223,10
+"Vivienda improvisada (006)",30,13,4,6,3,17,,,16,1
+"Local no dest.para hab. humana (007)",17,17,17,,,,,,,
+"Otro tipo (008)",6,6,6,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",17916,16749,15250,1118,381,1167,45,315,782,25
+"Casa independiente (010)",14331,13201,11790,1046,365,1130,38,314,755,23
+"Departamento en edificio (011)",94,85,74,11,,9,7,1,1,
+"Vivienda en quinta (012)",283,279,274,4,1,4,,,3,1
+"Vivienda en casa de vecindad (013)",3162,3155,3092,51,12,7,,,7,
+"Vivienda improvisada (015)",30,13,4,6,3,17,,,16,1
+"Local no dest.para hab. humana (016)",11,11,11,,,,,,,
+"Otro tipo (017)",5,5,5,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",16833,14328,10883,987,2458,2505,19,306,2018,162
+"Casa independiente (019)",14610,12338,9882,773,1683,2272,19,306,1795,152
+"Choza o cabaña (023)",2216,1983,994,214,775,233,,,223,10
+"Local no dest.para hab. humana (025)",6,6,6,,,,,,,
+"Otro tipo (026)",1,1,1,,,,,,,

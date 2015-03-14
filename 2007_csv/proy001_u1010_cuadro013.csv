@@ -1,0 +1,54 @@
+"CUADRO Nº 13: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DEL SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE DÍAS A LA SEMANA QUE DISPONE DE AGUA",,,
+,,1,2,3,4-6
+,,,,,
+"Provincia LAURICOCHA",,,,,
+"Viviendas particulares (001)",229,91,44,59,35
+"Ocupantes presentes (002)",923,358,181,247,137
+"Casa independiente",,,,,
+"Viviendas particulares (004)",227,90,44,58,35
+"Ocupantes presentes (005)",916,354,181,244,137
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (013)",1,1,,,
+"Ocupantes presentes (014)",4,4,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (016)",1,,,1,
+"Ocupantes presentes (017)",3,,,3,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+URBANA,,,,,
+"Viviendas particulares (028)",187,74,39,42,32
+"Ocupantes presentes (029)",743,290,157,171,125
+"Casa independiente",,,,,
+"Viviendas particulares (031)",186,73,39,42,32
+"Ocupantes presentes (032)",739,286,157,171,125
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Viviendas particulares (040)",1,1,,,
+"Ocupantes presentes (041)",4,4,,,
+"Choza o cabaña",,,,,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,
+,,,,,
+RURAL,,,,,
+"Viviendas particulares (055)",42,17,5,17,3
+"Ocupantes presentes (056)",180,68,24,76,12
+"Casa independiente",,,,,
+"Viviendas particulares (058)",41,17,5,16,3
+"Ocupantes presentes (059)",177,68,24,73,12
+"Departamento en edificio",,,,,
+"Vivienda en quinta",,,,,
+"Vivienda en casa de vecindad",,,,,
+"Choza o cabaña",,,,,
+"Viviendas particulares (070)",1,,,1,
+"Ocupantes presentes (071)",3,,,3,
+"Vivienda improvisada",,,,,
+"Local no dest.para hab. humana",,,,,
+"Otro tipo",,,,,

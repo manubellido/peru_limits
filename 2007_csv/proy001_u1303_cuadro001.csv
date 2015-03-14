@@ -1,0 +1,25 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia BOLIVAR (000)",4705,4419,3727,374,318,286,10,57,211,8
+"Casa independiente (001)",4394,4130,3531,333,266,264,10,57,191,6
+"Vivienda en quinta (003)",8,8,8,,,,,,,
+"Vivienda en casa de vecindad (004)",5,5,5,,,,,,,
+"Choza o cabaña (005)",290,270,180,38,52,20,,,18,2
+"Vivienda improvisada (006)",5,3,,3,,2,,,2,
+"Local no dest.para hab. humana (007)",3,3,3,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",1494,1436,1347,72,17,58,4,14,39,1
+"Casa independiente (010)",1474,1418,1332,69,17,56,4,14,37,1
+"Vivienda en quinta (012)",8,8,8,,,,,,,
+"Vivienda en casa de vecindad (013)",5,5,5,,,,,,,
+"Vivienda improvisada (015)",5,3,,3,,2,,,2,
+"Local no dest.para hab. humana (016)",2,2,2,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",3211,2983,2380,302,301,228,6,43,172,7
+"Casa independiente (019)",2920,2712,2199,264,249,208,6,43,154,5
+"Choza o cabaña (023)",290,270,180,38,52,20,,,18,2
+"Local no dest.para hab. humana (025)",1,1,1,,,,,,,

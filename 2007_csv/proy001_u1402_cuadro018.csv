@@ -1,0 +1,28 @@
+"CUADRO Nº 18: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL Y TIPO DE SERVICIO HIGIÉNICO QUE TIENE LA VIVIENDA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia FERREÑAFE (000)",21689,11744,9945
+"Red pública de desague dentro de la vivienda (001)",7644,7223,421
+"Red pública de desague fuera de la vivienda (002)",231,199,32
+"Pozo séptico (003)",396,153,243
+"Pozo ciego o negro / letrina (004)",9139,3574,5565
+"Río, acequia o canal (005)",105,13,92
+"No tiene (006)",4174,582,3592
+,,,
+"URBANA (008)",11947,9769,2178
+"Red pública de desague dentro de la vivienda (009)",7508,7173,335
+"Red pública de desague fuera de la vivienda (010)",214,193,21
+"Pozo séptico (011)",132,91,41
+"Pozo ciego o negro / letrina (012)",3115,1933,1182
+"Río, acequia o canal (013)",25,7,18
+"No tiene (014)",953,372,581
+,,,
+"RURAL (016)",9742,1975,7767
+"Red pública de desague dentro de la vivienda (017)",136,50,86
+"Red pública de desague fuera de la vivienda (018)",17,6,11
+"Pozo séptico (019)",264,62,202
+"Pozo ciego o negro / letrina (020)",6024,1641,4383
+"Río, acequia o canal (021)",80,6,74
+"No tiene (022)",3221,210,3011

@@ -1,0 +1,50 @@
+"CUADRO Nº 14: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES QUE NO DISPONEN DEL SERVICIO DE AGUA TODOS LOS DÍAS DE LA SEMANA, POR NÚMERO DE HORAS AL DÍA QUE DISPONEN DEL SERVICIO EN LOS DÍAS QUE CUENTAN CON ESTE SERVICIO, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,,,,,,,
+,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"NÚMERO DE HORAS AL DÍA QUE DISPONE DE AGUA",,,,,,,
+,,1-3,4-6,7-9,10-12,13-15,16-18,19-21,22-24
+,,,,,,,,,
+"Provincia CANAS",,,,,,,,,
+"Viviendas particulares (001)",238,151,44,13,11,2,,1,16
+"Ocupantes presentes (002)",931,600,150,49,48,6,,5,73
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (004)",231,144,44,13,11,2,,1,16
+"Ocupantes presentes (005)",902,571,150,49,48,6,,5,73
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (013)",7,7,,,,,,,
+"Ocupantes presentes (014)",29,29,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Otro tipo",,,,,,,,,
+,,,,,,,,,
+URBANA,,,,,,,,,
+"Viviendas particulares (028)",103,86,9,3,2,1,,,2
+"Ocupantes presentes (029)",356,315,20,5,7,4,,,5
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (031)",96,79,9,3,2,1,,,2
+"Ocupantes presentes (032)",327,286,20,5,7,4,,,5
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Viviendas particulares (040)",7,7,,,,,,,
+"Ocupantes presentes (041)",29,29,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Otro tipo",,,,,,,,,
+,,,,,,,,,
+RURAL,,,,,,,,,
+"Viviendas particulares (055)",135,65,35,10,9,1,,1,14
+"Ocupantes presentes (056)",575,285,130,44,41,2,,5,68
+"Casa independiente",,,,,,,,,
+"Viviendas particulares (058)",135,65,35,10,9,1,,1,14
+"Ocupantes presentes (059)",575,285,130,44,41,2,,5,68
+"Departamento en edificio",,,,,,,,,
+"Vivienda en quinta",,,,,,,,,
+"Vivienda en casa de vecindad",,,,,,,,,
+"Choza o cabaña",,,,,,,,,
+"Vivienda improvisada",,,,,,,,,
+"Local no dest.para hab. humana",,,,,,,,,
+"Otro tipo",,,,,,,,,

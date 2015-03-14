@@ -1,0 +1,27 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia SANDIA (000)",61326,1156,20024,16351,12155,8287,3353
+"Casa independiente (001)",56093,1059,18679,14727,10977,7563,3088
+"Vivienda en quinta (003)",22,1,8,5,6,2,
+"Vivienda en casa de vecindad (004)",1142,29,373,339,266,111,24
+"Choza o cabaña (005)",3815,64,866,1213,845,592,235
+"Vivienda improvisada (006)",156,3,63,40,33,13,4
+"Local no destinado para hab.humana (007)",36,,8,11,12,3,2
+"Otro tipo (008)",62,,27,16,16,3,
+,,,,,,,
+"URBANA (009)",15848,291,5429,4197,3164,1970,797
+"Casa independiente (010)",14499,258,4973,3808,2851,1842,767
+"Vivienda en quinta (012)",22,1,8,5,6,2,
+"Vivienda en casa de vecindad (013)",1142,29,373,339,266,111,24
+"Vivienda improvisada (015)",156,3,63,40,33,13,4
+"Local no destinado para hab.humana (016)",12,,2,4,4,,2
+"Otro tipo (017)",17,,10,1,4,2,
+,,,,,,,
+"RURAL (018)",45478,865,14595,12154,8991,6317,2556
+"Casa independiente (019)",41594,801,13706,10919,8126,5721,2321
+"Choza o cabaña (023)",3815,64,866,1213,845,592,235
+"Local no destinado para hab.humana (025)",24,,6,7,8,3,
+"Otro tipo (026)",45,,17,15,12,1,

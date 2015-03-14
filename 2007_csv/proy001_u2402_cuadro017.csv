@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia CONTRALMIRANTE VILLAR (000)",4113,3137,976
+"Red pública dentro de la vivienda (001)",1228,1100,128
+"Red pública fuera de la vivienda (002)",648,562,86
+"Pilón de uso público (003)",182,129,53
+"Camión - cisterna u otro similar (004)",1519,1089,430
+"Pozo (005)",140,28,112
+"Río, acequia, manatial o similar (006)",24,6,18
+"Vecino (007)",287,167,120
+"Otro (008)",85,56,29
+,,,
+"URBANA (010)",3062,2574,488
+"Red pública dentro de la vivienda (011)",990,939,51
+"Red pública fuera de la vivienda (012)",501,430,71
+"Pilón de uso público (013)",93,70,23
+"Camión - cisterna u otro similar (014)",1139,925,214
+"Pozo (015)",31,21,10
+"Río, acequia, manatial o similar (016)",2,2,
+"Vecino (017)",264,160,104
+"Otro (018)",42,27,15
+,,,
+"RURAL (020)",1051,563,488
+"Red pública dentro de la vivienda (021)",238,161,77
+"Red pública fuera de la vivienda (022)",147,132,15
+"Pilón de uso público (023)",89,59,30
+"Camión - cisterna u otro similar (024)",380,164,216
+"Pozo (025)",109,7,102
+"Río, acequia, manatial o similar (026)",22,4,18
+"Vecino (027)",23,7,16
+"Otro (028)",43,29,14

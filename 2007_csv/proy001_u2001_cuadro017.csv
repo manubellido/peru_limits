@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia PIURA (000)",144522,101778,42744
+"Red pública dentro de la vivienda (001)",89975,81344,8631
+"Red pública fuera de la vivienda (002)",6598,5482,1116
+"Pilón de uso público (003)",6978,2451,4527
+"Camión - cisterna u otro similar (004)",4603,1400,3203
+"Pozo (005)",5936,2011,3925
+"Río, acequia, manatial o similar (006)",18419,3427,14992
+"Vecino (007)",8812,4549,4263
+"Otro (008)",3201,1114,2087
+,,,
+"URBANA (010)",124264,97859,26405
+"Red pública dentro de la vivienda (011)",89020,81051,7969
+"Red pública fuera de la vivienda (012)",6401,5407,994
+"Pilón de uso público (013)",6402,2189,4213
+"Camión - cisterna u otro similar (014)",3412,1041,2371
+"Pozo (015)",3703,1464,2239
+"Río, acequia, manatial o similar (016)",3691,1093,2598
+"Vecino (017)",8715,4522,4193
+"Otro (018)",2920,1092,1828
+,,,
+"RURAL (020)",20258,3919,16339
+"Red pública dentro de la vivienda (021)",955,293,662
+"Red pública fuera de la vivienda (022)",197,75,122
+"Pilón de uso público (023)",576,262,314
+"Camión - cisterna u otro similar (024)",1191,359,832
+"Pozo (025)",2233,547,1686
+"Río, acequia, manatial o similar (026)",14728,2334,12394
+"Vecino (027)",97,27,70
+"Otro (028)",281,22,259

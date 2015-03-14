@@ -1,0 +1,30 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia TOCACHE (000)",20492,19549,17513,1559,477,943,99,165,617,62
+"Casa independiente (001)",14829,14186,12919,1008,259,643,69,159,380,35
+"Departamento en edificio (002)",84,74,61,12,1,10,,1,9,
+"Vivienda en quinta (003)",1009,981,801,174,6,28,22,2,4,
+"Vivienda en casa de vecindad (004)",361,340,285,54,1,21,8,3,8,2
+"Choza o cabaña (005)",4106,3869,3360,300,209,237,,,213,24
+"Vivienda improvisada (006)",59,55,43,11,1,4,,,3,1
+"Local no dest.para hab. humana (007)",34,34,34,,,,,,,
+"Otro tipo (008)",10,10,10,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",9709,9340,8446,834,60,369,63,83,192,31
+"Casa independiente (010)",8170,7864,7230,583,51,306,33,77,168,28
+"Departamento en edificio (011)",84,74,61,12,1,10,,1,9,
+"Vivienda en quinta (012)",1009,981,801,174,6,28,22,2,4,
+"Vivienda en casa de vecindad (013)",361,340,285,54,1,21,8,3,8,2
+"Vivienda improvisada (015)",59,55,43,11,1,4,,,3,1
+"Local no dest.para hab. humana (016)",22,22,22,,,,,,,
+"Otro tipo (017)",4,4,4,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",10783,10209,9067,725,417,574,36,82,425,31
+"Casa independiente (019)",6659,6322,5689,425,208,337,36,82,212,7
+"Choza o cabaña (023)",4106,3869,3360,300,209,237,,,213,24
+"Local no dest.para hab. humana (025)",12,12,12,,,,,,,
+"Otro tipo (026)",6,6,6,,,,,,,

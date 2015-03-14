@@ -1,0 +1,29 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia TAYACAJA (000)",36326,31428,25505,2753,3170,4898,62,431,4268,137
+"Casa independiente (001)",34623,29828,24186,2652,2990,4795,62,430,4183,120
+"Departamento en edificio (002)",3,3,3,,,,,,,
+"Vivienda en quinta (003)",73,73,73,,,,,,,
+"Vivienda en casa de vecindad (004)",130,125,117,5,3,5,,1,4,
+"Choza o cabaña (005)",1461,1363,1097,93,173,98,,,81,17
+"Vivienda improvisada (006)",17,17,10,3,4,,,,,
+"Local no dest.para hab. humana (007)",17,17,17,,,,,,,
+"Otro tipo (008)",2,2,2,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",7798,7014,6179,684,151,784,20,73,676,15
+"Casa independiente (010)",7566,6787,5967,676,144,779,20,72,672,15
+"Departamento en edificio (011)",3,3,3,,,,,,,
+"Vivienda en quinta (012)",73,73,73,,,,,,,
+"Vivienda en casa de vecindad (013)",130,125,117,5,3,5,,1,4,
+"Vivienda improvisada (015)",17,17,10,3,4,,,,,
+"Local no dest.para hab. humana (016)",9,9,9,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",28528,24414,19326,2069,3019,4114,42,358,3592,122
+"Casa independiente (019)",27057,23041,18219,1976,2846,4016,42,358,3511,105
+"Choza o cabaña (023)",1461,1363,1097,93,173,98,,,81,17
+"Local no dest.para hab. humana (025)",8,8,8,,,,,,,
+"Otro tipo (026)",2,2,2,,,,,,,

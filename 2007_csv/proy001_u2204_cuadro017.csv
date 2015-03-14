@@ -1,0 +1,31 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia HUALLAGA (000)",5940,2546,3394
+"Red pública dentro de la vivienda (001)",2492,1986,506
+"Red pública fuera de la vivienda (002)",641,457,184
+"Pilón de uso público (003)",155,28,127
+"Pozo (005)",220,10,210
+"Río, acequia, manatial o similar (006)",2165,17,2148
+"Vecino (007)",161,40,121
+"Otro (008)",106,8,98
+,,,
+"URBANA (010)",3218,2500,718
+"Red pública dentro de la vivienda (011)",2398,1981,417
+"Red pública fuera de la vivienda (012)",628,452,176
+"Pilón de uso público (013)",9,5,4
+"Pozo (015)",11,4,7
+"Río, acequia, manatial o similar (016)",31,10,21
+"Vecino (017)",126,40,86
+"Otro (018)",15,8,7
+,,,
+"RURAL (020)",2722,46,2676
+"Red pública dentro de la vivienda (021)",94,5,89
+"Red pública fuera de la vivienda (022)",13,5,8
+"Pilón de uso público (023)",146,23,123
+"Pozo (025)",209,6,203
+"Río, acequia, manatial o similar (026)",2134,7,2127
+"Vecino (027)",35,,35
+"Otro (028)",91,,91

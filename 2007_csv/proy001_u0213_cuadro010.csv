@@ -1,0 +1,50 @@
+"CUADRO Nº 10: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DEL SERVICIO DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, TIPO DE VIVIENDA Y TOTAL DE OCUPANTES PRESENTES",TOTAL,"DISPONE DE AGUA POTABLE TODOS LOS DÍAS DE LA SEMANA",
+,,SI,NO
+,,,
+"Provincia MARISCAL LUZURIAGA",,,
+"Viviendas particulares (001)",1385,1171,214
+"Ocupantes presentes (002)",6159,5264,895
+"Casa independiente",,,
+"Viviendas particulares (004)",1384,1171,213
+"Ocupantes presentes (005)",6156,5264,892
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (022)",1,,1
+"Ocupantes presentes (023)",3,,3
+"Otro tipo",,,
+,,,
+URBANA,,,
+"Viviendas particulares (028)",401,374,27
+"Ocupantes presentes (029)",1613,1510,103
+"Casa independiente",,,
+"Viviendas particulares (031)",400,374,26
+"Ocupantes presentes (032)",1610,1510,100
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Viviendas particulares (049)",1,,1
+"Ocupantes presentes (050)",3,,3
+"Otro tipo",,,
+,,,
+RURAL,,,
+"Viviendas particulares (055)",984,797,187
+"Ocupantes presentes (056)",4546,3754,792
+"Casa independiente",,,
+"Viviendas particulares (058)",984,797,187
+"Ocupantes presentes (059)",4546,3754,792
+"Departamento en edificio",,,
+"Vivienda en quinta",,,
+"Vivienda en casa de vecindad",,,
+"Choza o cabaña",,,
+"Vivienda improvisada",,,
+"Local no dest.para hab. humana",,,
+"Otro tipo",,,

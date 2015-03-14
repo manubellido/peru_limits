@@ -1,0 +1,33 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia SAN MARCOS (000)",13061,3203,9858
+"Red pública dentro de la vivienda (001)",7404,2833,4571
+"Red pública fuera de la vivienda (002)",1454,202,1252
+"Pilón de uso público (003)",233,26,207
+"Camión - cisterna u otro similar (004)",14,,14
+"Pozo (005)",2162,37,2125
+"Río, acequia, manatial o similar (006)",1269,41,1228
+"Vecino (007)",490,63,427
+"Otro (008)",35,1,34
+,,,
+"URBANA (010)",2690,2263,427
+"Red pública dentro de la vivienda (011)",2390,2104,286
+"Red pública fuera de la vivienda (012)",102,78,24
+"Pilón de uso público (013)",5,4,1
+"Pozo (015)",44,24,20
+"Río, acequia, manatial o similar (016)",53,23,30
+"Vecino (017)",86,29,57
+"Otro (018)",10,1,9
+,,,
+"RURAL (020)",10371,940,9431
+"Red pública dentro de la vivienda (021)",5014,729,4285
+"Red pública fuera de la vivienda (022)",1352,124,1228
+"Pilón de uso público (023)",228,22,206
+"Camión - cisterna u otro similar (024)",14,,14
+"Pozo (025)",2118,13,2105
+"Río, acequia, manatial o similar (026)",1216,18,1198
+"Vecino (027)",404,34,370
+"Otro (028)",25,,25

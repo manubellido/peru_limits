@@ -1,0 +1,23 @@
+"CUADRO Nº 3: POBLACIÓN TOTAL EN VIVIENDAS PARTICULARES, POR GRANDES GRUPOS DE EDAD, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA PARTICULAR",,,,,,,
+,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL Y TIPO DE VIVIENDA PARTICULAR",TOTAL,"GRANDES GRUPOS DE EDAD",,,,,
+,,"MENOS DE 1 AÑO","1 A 14 AÑOS","15 A 29 AÑOS","30 A 44 AÑOS","45 A 64 AÑOS","65 A MÁS AÑOS"
+,,,,,,,
+"Provincia RECUAY (000)",18746,313,5217,4626,3195,3236,2159
+"Casa independiente (001)",17754,292,4944,4401,3029,3045,2043
+"Vivienda en quinta (003)",27,2,8,5,5,5,2
+"Vivienda en casa de vecindad (004)",154,3,42,22,36,23,28
+"Choza o cabaña (005)",783,16,216,186,121,158,86
+"Vivienda improvisada (006)",18,,7,7,1,3,
+"Local no destinado para hab.humana (007)",10,,,5,3,2,
+,,,,,,,
+"URBANA (009)",10563,184,2850,2621,1826,1823,1259
+"Casa independiente (010)",10354,179,2793,2582,1781,1790,1229
+"Vivienda en quinta (012)",27,2,8,5,5,5,2
+"Vivienda en casa de vecindad (013)",154,3,42,22,36,23,28
+"Vivienda improvisada (015)",18,,7,7,1,3,
+"Local no destinado para hab.humana (016)",10,,,5,3,2,
+,,,,,,,
+"RURAL (018)",8183,129,2367,2005,1369,1413,900
+"Casa independiente (019)",7400,113,2151,1819,1248,1255,814
+"Choza o cabaña (023)",783,16,216,186,121,158,86

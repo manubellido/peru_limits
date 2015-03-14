@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia AREQUIPA (000)",207097,188054,19043
+"Red pública dentro de la vivienda (001)",155769,152978,2791
+"Red pública fuera de la vivienda (002)",10927,10118,809
+"Pilón de uso público (003)",13018,8967,4051
+"Camión - cisterna u otro similar (004)",11561,7775,3786
+"Pozo (005)",5792,3031,2761
+"Río, acequia, manatial o similar (006)",6091,2998,3093
+"Vecino (007)",2790,1594,1196
+"Otro (008)",1149,593,556
+,,,
+"URBANA (010)",200486,185138,15348
+"Red pública dentro de la vivienda (011)",155110,152435,2675
+"Red pública fuera de la vivienda (012)",10744,10016,728
+"Pilón de uso público (013)",12862,8869,3993
+"Camión - cisterna u otro similar (014)",10636,7477,3159
+"Pozo (015)",5047,2713,2334
+"Río, acequia, manatial o similar (016)",2362,1526,836
+"Vecino (017)",2747,1574,1173
+"Otro (018)",978,528,450
+,,,
+"RURAL (020)",6611,2916,3695
+"Red pública dentro de la vivienda (021)",659,543,116
+"Red pública fuera de la vivienda (022)",183,102,81
+"Pilón de uso público (023)",156,98,58
+"Camión - cisterna u otro similar (024)",925,298,627
+"Pozo (025)",745,318,427
+"Río, acequia, manatial o similar (026)",3729,1472,2257
+"Vecino (027)",43,20,23
+"Otro (028)",171,65,106

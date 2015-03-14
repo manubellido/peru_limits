@@ -1,0 +1,23 @@
+"CUADRO Nº 1: VIVIENDAS PARTICULARES, POR CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, SEGÚN DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",,,,,,,,,,
+,,,,,,,,,,
+"DEPARTAMENTO, PROVINCIA, DISTRITO, ÁREA URBANA Y RURAL, Y TIPO DE VIVIENDA",TOTAL,"CONDICIÓN DE OCUPACIÓN",,,,,,,,
+,,OCUPADA,,,,DESOCUPADA,,,,
+,,TOTAL,"CON PERSONAS PRESENTES","CON PERSONAS AUSENTES","DE USO OCASIONAL",TOTAL,"EN ALQUILER O VENTA","EN CONSTRUCCIÓN O REPARACIÓN","ABANDONADA CERRADA","OTRA CAUSA"
+,,,,,,,,,,
+"Provincia SIHUAS (000)",8522,8107,6966,543,598,415,7,64,324,20
+"Casa independiente (001)",8374,7968,6872,532,564,406,7,64,317,18
+"Vivienda en casa de vecindad (004)",19,19,18,,1,,,,,
+"Choza o cabaña (005)",125,116,72,11,33,9,,,7,2
+"Vivienda improvisada (006)",1,1,1,,,,,,,
+"Local no dest.para hab. humana (007)",3,3,3,,,,,,,
+,,,,,,,,,,
+"URBANA (009)",2155,2065,1861,138,66,90,2,12,70,6
+"Casa independiente (010)",2134,2044,1841,138,65,90,2,12,70,6
+"Vivienda en casa de vecindad (013)",19,19,18,,1,,,,,
+"Vivienda improvisada (015)",1,1,1,,,,,,,
+"Local no dest.para hab. humana (016)",1,1,1,,,,,,,
+,,,,,,,,,,
+"RURAL (018)",6367,6042,5105,405,532,325,5,52,254,14
+"Casa independiente (019)",6240,5924,5031,394,499,316,5,52,247,12
+"Choza o cabaña (023)",125,116,72,11,33,9,,,7,2
+"Local no dest.para hab. humana (025)",2,2,2,,,,,,,

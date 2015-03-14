@@ -1,0 +1,145 @@
+"CUADRO Nº 11: POBLACIÓN OCUPADA DE 6 Y MÁS AÑOS DE EDAD, POR TAMAÑO DE ESTABLECIMIENTO DONDE TRABAJA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, NIVEL EDUCATIVO ALCANZADO Y GRANDES GRUPOS DE EDAD",,,,,
+,,,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, NIVEL EDUCATIVO ALCANZADO Y GRANDES GRUPOS DE EDAD",TOTAL,"TAMAÑO DE ESTABLECIMIENTO",,,
+,,"1 A 5 PERSONAS","6 A 10 PERSONAS","11 A 50 PERSONAS","51 Y MÁS PERSONAS"
+,,,,,
+"Provincia JORGE BASADRE (000)",5571,2200,426,475,2470
+"Sin nivel (001)",238,198,11,4,25
+"Educación inicial (002)",8,5,,,3
+"Primaria (003)",916,557,55,47,257
+"Secundaria (004)",2073,785,176,176,936
+"Superior no univ. incompleta (005)",367,143,26,44,154
+"Superior no univ. completa (006)",692,216,55,68,353
+"Superior univ. incompleta (007)",307,112,19,16,160
+"Superior univ. completa (008)",970,184,84,120,582
+"De 06 a 14 años (010)",32,28,4,,
+"Educación inicial (012)",2,2,,,
+"Primaria (013)",15,14,1,,
+"Secundaria (014)",15,12,3,,
+"De 15 a 29 años (020)",1679,607,124,138,810
+"Sin nivel (021)",5,1,1,2,1
+"Educación inicial (022)",5,3,,,2
+"Primaria (023)",90,52,11,8,19
+"Secundaria (024)",855,354,63,70,368
+"Superior no univ. incompleta (025)",143,48,10,15,70
+"Superior no univ. completa (026)",259,83,19,24,133
+"Superior univ. incompleta (027)",87,28,6,5,48
+"Superior univ. completa (028)",235,38,14,14,169
+"De 30 a 44 años (030)",2025,677,170,210,968
+"Sin nivel (031)",55,47,1,,7
+"Educación inicial (032)",1,,,,1
+"Primaria (033)",272,145,22,10,95
+"Secundaria (034)",699,240,60,65,334
+"Superior no univ. incompleta (035)",138,57,9,15,57
+"Superior no univ. completa (036)",271,66,19,35,151
+"Superior univ. incompleta (037)",122,41,10,6,65
+"Superior univ. completa (038)",467,81,49,79,258
+"De 45 a 64 años (040)",1560,678,117,117,648
+"Sin nivel (041)",110,88,6,1,15
+"Primaria (043)",406,243,18,27,118
+"Secundaria (044)",467,158,46,37,226
+"Superior no univ. incompleta (045)",81,34,7,14,26
+"Superior no univ. completa (046)",151,58,16,9,68
+"Superior univ. incompleta (047)",92,38,3,5,46
+"Superior univ. completa (048)",253,59,21,24,149
+"De 65 y más años (050)",275,210,11,10,44
+"Sin nivel (051)",68,62,3,1,2
+"Primaria (053)",133,103,3,2,25
+"Secundaria (054)",37,21,4,4,8
+"Superior no univ. incompleta (055)",5,4,,,1
+"Superior no univ. completa (056)",11,9,1,,1
+"Superior univ. incompleta (057)",6,5,,,1
+"Superior univ. completa (058)",15,6,,3,6
+,,,,,
+"URBANA (060)",3363,877,288,405,1793
+"Sin nivel (061)",52,37,4,4,7
+"Educación inicial (062)",2,1,,,1
+"Primaria (063)",403,192,31,40,140
+"Secundaria (064)",1262,362,116,145,639
+"Superior no univ. incompleta (065)",201,52,16,38,95
+"Superior no univ. completa (066)",473,94,39,57,283
+"Superior univ. incompleta (067)",175,40,13,14,108
+"Superior univ. completa (068)",795,99,69,107,520
+"De 06 a 14 años (070)",7,4,3,,
+"Primaria (073)",3,2,1,,
+"Secundaria (074)",4,2,2,,
+"De 15 a 29 años (080)",1029,277,70,106,576
+"Sin nivel (081)",4,,1,2,1
+"Educación inicial (082)",1,1,,,
+"Primaria (083)",38,15,6,4,13
+"Secundaria (084)",480,159,32,49,240
+"Superior no univ. incompleta (085)",85,24,4,13,44
+"Superior no univ. completa (086)",167,40,11,20,96
+"Superior univ. incompleta (087)",51,13,4,4,30
+"Superior univ. completa (088)",203,25,12,14,152
+"De 30 a 44 años (090)",1272,295,122,186,669
+"Sin nivel (091)",13,8,1,,4
+"Educación inicial (092)",1,,,,1
+"Primaria (093)",109,46,12,9,42
+"Secundaria (094)",426,122,41,60,203
+"Superior no univ. incompleta (095)",70,22,7,12,29
+"Superior no univ. completa (096)",205,34,13,30,128
+"Superior univ. incompleta (097)",73,19,8,6,40
+"Superior univ. completa (098)",375,44,40,69,222
+"De 45 a 64 años (100)",961,252,88,105,516
+"Sin nivel (101)",23,19,2,1,1
+"Primaria (103)",202,98,12,25,67
+"Secundaria (104)",334,74,37,33,190
+"Superior no univ. incompleta (105)",45,6,5,13,21
+"Superior no univ. completa (106)",98,19,14,7,58
+"Superior univ. incompleta (107)",51,8,1,4,38
+"Superior univ. completa (108)",208,28,17,22,141
+"De 65 y más años (110)",94,49,5,8,32
+"Sin nivel (111)",12,10,,1,1
+"Primaria (113)",51,31,,2,18
+"Secundaria (114)",18,5,4,3,6
+"Superior no univ. incompleta (115)",1,,,,1
+"Superior no univ. completa (116)",3,1,1,,1
+"Superior univ. completa (118)",9,2,,2,5
+,,,,,
+"RURAL (120)",2208,1323,138,70,677
+"Sin nivel (121)",186,161,7,,18
+"Educación inicial (122)",6,4,,,2
+"Primaria (123)",513,365,24,7,117
+"Secundaria (124)",811,423,60,31,297
+"Superior no univ. incompleta (125)",166,91,10,6,59
+"Superior no univ. completa (126)",219,122,16,11,70
+"Superior univ. incompleta (127)",132,72,6,2,52
+"Superior univ. completa (128)",175,85,15,13,62
+"De 06 a 14 años (130)",25,24,1,,
+"Educación inicial (132)",2,2,,,
+"Primaria (133)",12,12,,,
+"Secundaria (134)",11,10,1,,
+"De 15 a 29 años (140)",650,330,54,32,234
+"Sin nivel (141)",1,1,,,
+"Educación inicial (142)",4,2,,,2
+"Primaria (143)",52,37,5,4,6
+"Secundaria (144)",375,195,31,21,128
+"Superior no univ. incompleta (145)",58,24,6,2,26
+"Superior no univ. completa (146)",92,43,8,4,37
+"Superior univ. incompleta (147)",36,15,2,1,18
+"Superior univ. completa (148)",32,13,2,,17
+"De 30 a 44 años (150)",753,382,48,24,299
+"Sin nivel (151)",42,39,,,3
+"Primaria (153)",163,99,10,1,53
+"Secundaria (154)",273,118,19,5,131
+"Superior no univ. incompleta (155)",68,35,2,3,28
+"Superior no univ. completa (156)",66,32,6,5,23
+"Superior univ. incompleta (157)",49,22,2,,25
+"Superior univ. completa (158)",92,37,9,10,36
+"De 45 a 64 años (160)",599,426,29,12,132
+"Sin nivel (161)",87,69,4,,14
+"Primaria (163)",204,145,6,2,51
+"Secundaria (164)",133,84,9,4,36
+"Superior no univ. incompleta (165)",36,28,2,1,5
+"Superior no univ. completa (166)",53,39,2,2,10
+"Superior univ. incompleta (167)",41,30,2,1,8
+"Superior univ. completa (168)",45,31,4,2,8
+"De 65 y más años (170)",181,161,6,2,12
+"Sin nivel (171)",56,52,3,,1
+"Primaria (173)",82,72,3,,7
+"Secundaria (174)",19,16,,1,2
+"Superior no univ. incompleta (175)",4,4,,,
+"Superior no univ. completa (176)",8,8,,,
+"Superior univ. incompleta (177)",6,5,,,1
+"Superior univ. completa (178)",6,4,,1,1

@@ -1,0 +1,34 @@
+"CUADRO Nº 17: VIVIENDAS PARTICULARES CON OCUPANTES PRESENTES, POR DISPONIBILIDAD DE ALUMBRADO ELÉCTRICO, POR RED PÚBLICA, SEGÚN DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL, Y TIPO DE ABASTECIMIENTO DE AGUA",,,
+,,,
+"DEPARTAMENTO, PROVINCIA, ÁREA URBANA Y RURAL; Y TIPO DE ABASTECIMIENTO DE AGUA",TOTAL,"DISPONE DE ALUMBRADO ELÉCTRICO POR RED PÚBLICA",
+,,SI,NO
+,,,
+"Provincia MANU (000)",4749,2136,2613
+"Red pública dentro de la vivienda (001)",954,822,132
+"Red pública fuera de la vivienda (002)",254,214,40
+"Pilón de uso público (003)",137,108,29
+"Camión - cisterna u otro similar (004)",18,13,5
+"Pozo (005)",1130,195,935
+"Río, acequia, manatial o similar (006)",2012,678,1334
+"Vecino (007)",90,42,48
+"Otro (008)",154,64,90
+,,,
+"URBANA (010)",1843,1520,323
+"Red pública dentro de la vivienda (011)",806,718,88
+"Red pública fuera de la vivienda (012)",236,208,28
+"Pilón de uso público (013)",104,90,14
+"Camión - cisterna u otro similar (014)",16,13,3
+"Pozo (015)",132,86,46
+"Río, acequia, manatial o similar (016)",400,310,90
+"Vecino (017)",56,36,20
+"Otro (018)",93,59,34
+,,,
+"RURAL (020)",2906,616,2290
+"Red pública dentro de la vivienda (021)",148,104,44
+"Red pública fuera de la vivienda (022)",18,6,12
+"Pilón de uso público (023)",33,18,15
+"Camión - cisterna u otro similar (024)",2,,2
+"Pozo (025)",998,109,889
+"Río, acequia, manatial o similar (026)",1612,368,1244
+"Vecino (027)",34,6,28
+"Otro (028)",61,5,56
